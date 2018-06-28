@@ -1,0 +1,57 @@
+Table 9(b): Monthly Retail Prices for Dry Maize, 2018 (per Kg)
+Month/Town Jan Feb Mar Apr May
+Bondo	32.22	29.54	-	-	-
+Bura Tana	40.00	36.25	-	-	-
+Burn Forest	28.00	28.00	28.00	-	-
+Butere	29.17	29.17	30.00	32.00
+Cheptula	33.73	33.33	33.33	-	-
+Daraja Mbili		-	29.09	31.17	-	-
+Eldoret		-	30.50	32.00	32.00 -
+Embu Town	40.00	40.91	40.91	-	-
+Endebess 25.00	25.00	25.00	25.00 -
+Gakoromere	38.89	37.41	38.19	38.89 -
+Gatundu	-	-	-	50.00	50.00
+Githurai	-	-	-	55.00	50.00
+Hola	38.75	36.25	-	-	-
+Iten		-	35.00	33.33	-	-
+Kabarnet	33.33	38.89	-	-	-
+Kajiado		-	50.00	45.00	-	-
+Kakamega	35.00	35.00	35.00	37.50 -
+Kalundu	42.50	35.00	35.00	35.00 -
+Kegonga	23.46	24.64	-	-	-
+Kehacha	28.26	26.63	26.09	-	-
+Kerugoya	45.54	42.63	40.95	-	-
+Kiambu	-	-	-	45.00	45.00
+Kianjai		-	38.33	33.61	33.33 -
+Kiboswa	39.13	-	-	-	-
+Kipkaren		-	28.00	28.00	28.00 -
+Kitale	29.17	29.17	29.17	-	-
+Kutus	37.27	37.50	36.17	-	-
+Kwale	48.75	50.00	51.40	55.00 -
+Limuru	-	-	-	41.00	40.00
+Lodwar	83.33	62.70	61.90	60.00 -
+Machakos Town		-	40.00	40.00	40.00 -
+Makuyu	-	-	-	40.00	40.00
+Marsabit Town	38.18	39.25	43.33	-	-
+Mbale	38.10	38.10	33.33	-	-
+Migori	30.43	28.57	-	-	-
+Mumias	29.17	29.69	31.77	33.33 -
+Muthurwa	36.00	38.00	36.00	-	-
+Nakuru Town	47.50	57.50	52.50	-	-
+Nanyuki		-	44.12	52.56	43.84 -
+Ndaragwa		-	54.40	-	-	-
+Ndondori	-	-	-	40.00 -
+Ngiya	32.21	30.45	-	-	-
+Nyahururu		-	60.99	52.72	44.44 -
+Ol Kalou		-	59.05	60.00	50.00 -
+Runyenjes	38.96	38.07	36.36	-	-
+Sagana	40.53	42.57	43.03	-	-
+Siakago	41.82	43.18	43.18	-	-
+Siaya	37.70	35.67	-	-	-
+Sibanga 27.08	27.08	29.17	29.17 -
+Tala	-	35.00	-	35.00 -
+Thika 38.00	45.00	-	48.00	40.00
+Turbo	28.00	28.00	28.00	-	-
+Ukunda	50.00	50.00	55.00	-	-
+Unguja	31.99	29.22	-	-	-
+Total 37.14	37.93	38.61	40.48	44.17

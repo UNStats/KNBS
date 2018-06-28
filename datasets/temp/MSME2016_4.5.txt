@@ -1,0 +1,50 @@
+Table	4.5: Distribution of licensed Micro Small and Medium Establishments by County
+Total ('000) Micro (%) Small (%) Medium (%)
+Total	1 ,560.5	9 2.2	7 .1	0 .7	5,850.3
+Nairobi	268.1	83.8	1 4.8	1.4	782.5
+Nyandarua	17.6	9 6.1	3.2	0.7	83.6
+Nyeri	30.5	9 7.5	1.9	0.6	85.9
+Kirinyaga	3	0.3	9 6.9	2.8	0.3	125.4
+Muranga	14.2	9 7.1	2.6	0.4	99.4
+Kiambu	92.4	9 1.4	7.9	0.7	170.8
+Mombasa	41.9	9 0.6	8.7	0.6	163.9
+Kwale	14.2	9 3.5	5.4	1.1	89.9
+Kilifi	29.9	9 6.6	2.8	0.7	271.5
+Tana River	1.8	9 5.9	2.9	1.2	33.4
+Lamu	9.2	9 7.0	2.9	0.2	29.5
+Taita Taveta	22.5	9 4.2	4.4	1.4	60.5
+Marsabit	2.2	9 4.5	5.1	0.3	37.9
+Isiolo	2.6	9 4.0	5.3	0.8	15.0 
+Meru	95.1	9 7.5	2.3	0.2	143.4
+Tharaka	8 .4	9 6.3	3.7 - 72.2
+Embu	21.0	9 5.1	4.6	0 .3	8 4.8
+Kitui	16.7	9 7.5	2.5 - 71.5
+Machakos	39.1	9 1.8	7.8	0.4	234.4
+Makueni	27.4	9 7.7	2.2	0.1	106.3
+Garissa	3 .9	9 6.8	2.8	0.4	47.3
+Wajir	1 .8	9 8.3	0.8	0.8	3.7
+Mandera	23.7	9 6.7	3.3 - 55.8
+Siaya	14.2	9 7.2	2.2	0 .6	190.5
+Kisumu	40.2	8 4.6	1 3.2	2.2	197.0
+Migori	39.7	9 1.6	8.1	0 .3	133.5
+Homa Bay	48.5	9 3.6	5.9	0 .5	134.4
+Kisii	27.3	9 1.2	8.0	0 .7	170.0
+Nyamira	35.7	9 6.2	3.7	0 .2	6 2.7
+Turkana	7 .3	9 3.1	6.4	0 .4	108.8
+West Pokot	3.1	9 7.5	2.5 - 64.4
+Samburu	6.6	9 4.7	5.1	0 .2	2 8.1
+Trans-Nzoia	16.3	9 5.6	3.8	0.6	83.3
+Baringo	16.9	9 6.3	3.7 - 84.1
+Uasin Gishu	57.6	9 4.2	5.6	0.2	151.2
+Elgeyo Marakwet	5.6	9 6.8	3.2 - 21.8
+Nandi	12.9	9 5.0	4.7	0.3	84.6
+Laikipia	13.6	9 5.9	3.6	0 .5	5 2.4
+Nakuru	118.2	92.6	6.6	0 .8	257.9
+Narok	21.6	9 2.1	7.0	0 .9	100.5
+Kajiado	46.1	9 2.4	6.7	0 .9	101.9
+Kericho	19.8	8 5.9	1 2.7	1.4	7 3.3
+Bomet	14.0	9 5.9	4.1 - 156.0
+Kakamega	53.0	9 2.6	6.4	1.0	300.4
+Vihiga	11.3	9 6.0	3.9	0.1	78.5
+Bungoma	17.2	9 2.8	6.9	0.3	269.7
+Busia	28.0	97.6	1 .5	0.9	76.6

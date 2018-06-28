@@ -1,0 +1,22 @@
+Table11.7: Housing Loans Advanced by National Housing Corporation by County,2016/2017
+County Number of Loans Amount (KSh '000')
+Bungoma	4	7,150
+Busia	1	600
+Eldoret	2	4,000
+Homa Bay	1	1,900
+Kajiado	7	4,600
+Kakamega	3	3,300
+Kiambu	10	7,740
+Kirinyaga	1	3,000
+Kisii	2	2,400
+Kisumu	3	6,500
+Lamu	5	2,400
+Machakos	6	10,440
+Meru	2	5,700
+Murang'a	1	3,000
+Nairobi City	3	6,450
+Nakuru	4	10,740
+Vihiga	2	3,700
+Taita Taveta	4	2,000
+Trans Nzoia	12	6,100
+Total	73	91,720

@@ -1,0 +1,56 @@
+Table 17.2: Crimes Reported to Police by Command Station, 2014 - 2017
+Number
+S/No Command station 2014	2015	2016	2017*
+1 Mombasa	... 2,946	3,194	3,034	2,847
+2 Kwale	958	1,097	1,037	851
+3 Kilifi	2,362	2,199	2,254	1,692
+4 Tana River	525	622	453	402
+5 Lamu	316	492	434	385
+6 Taita Taveta	1,047	961	755	679
+7 Garrissa	850	638	525	452
+8 Wajir	438	317	343	425
+9 Mandera	252	271	254	446
+10 Marsabit	370	468	675	736
+11 Isiolo	219	213	507	368
+12 Meru	1,971	4,215	5,117	5,151
+13 Tharaka-Nithi	659	628	722	846
+14 Embu	824	848	1,433	1,633
+15 Kitui	722	1,573	1,679	1,946
+16 Machakos	738	1,461	2,452	2,633
+17 Makueni	561	1,025	1,630	1,593
+18 Nyandarua	1,654	1,446	1,473	1,402
+19 Nyeri	1,632	1,668	1,792	1,657
+20 Kirinyaga	1,776	1,177	1,656	1,613
+21 Muranga'	2,501	2,363	2,260	2,402
+22 Kiambu	4,449	4,768	6,006	5,603
+23 Turkana	787	974	927	1,092
+24 West Pokot	739	684	795	670
+25 Samburu	371	355	361	432
+26 Trans Nzoia	1,610	1,781	1,457	1,674
+27 Uasin Gishu	1,872	1,654	2,068	2,072
+28 Elgeyo/Marakwet	892	571	579	633
+29 Nandi	1,090	989	1,105	1,148
+30 Baringo	923	1,035	827	821
+31 Laikipia	752	830	1,061	1,220
+32 Nakuru	4,525	4,384	4,133	4,313
+33 Narok	1,626	1,335	1,308	1,110
+34 Kajiado	1,502	1,256	1,435	1,650
+35 Kericho	1,577	1,510	1,568	1,524
+36 Bomet	1,089	968	897	850
+37 Kakamega	2,444	2,514	2,382	1,584
+38 Vihiga	771	1,146	886	764
+39 Bungoma	2,150	2,852	2,422	2,269
+40 Busia	931	1,553	1,633	1,639
+41 Siaya	1,452	1,493	1,470	1,321
+42 Kisumu	2,249	2,293	2,026	1,858
+43 Homa Bay	1,320	1,568	1,400	1,332
+44 Migori	1,054	1,282	1,303	1,281
+45 Kisii	1,933	2,018	2,180	2,218
+46 Nyamira	.. 878	1,124	1,055	1,091
+47 Nairobi City	6,732	4,383	4,954	7,434
+48 KAPU 1	148	132	141	129
+49 Railways Police 1	189	162	122	101
+Kenya  69,376	72,490	76,986	77,992
+Source: Kenya Police Service
+* Provisional
+1 Kenya Airport Police Unit (KAPU) and Railways Police are fully fledged police command stations
