@@ -1,0 +1,43 @@
+Table 9.5 Place of delivery
+Percent distribution of live births in the five years preceding the survey by place of delivery and percentage delivered in a health facility, according to background characteristics, Kenya 2014
+Background characteristic	Health facility		Home	Other	Missing	Total	Percentage delivered in a health facility	Number of births
+	Public sector	Private sector
+Mother’s age at birth
+<20	49.8	11.9	37.3	0.6	0.4	100.0	61.7	2,924
+20-34	46.4	16.1	36.0	1.1	0.4	100.0	62.5	14,342
+35-49	38.8	13.7	45.7	1.2	0.6	100.0	52.5	2,298
+Birth order
+1	57.8	20.7	20.6	0.4	0.4	100.0	78.6	5,176
+2-3	47.6	18.4	32.4	1.2	0.4	100.0	66.1	7,651
+4-5	38.8	8.6	50.7	1.2	0.6	100.0	47.5	3,785
+6+ 30.2	5.4	62.5	1.4	0.6	100.0	35.6	2,952
+Antenatal care visits1
+None	12.4	5.3	79.4	1.2	1.7	100.0	17.7	573
+1-3	44.6	12.6	41.4	1.2	0.1	100.0	57.3	5,505
+4+	54.1	20.9	23.8	1.2	0.1	100.0	75.0	8,319
+Residence
+Urban	54.8	27.2	16.7	0.9	0.3	100.0	82.0	7,024
+Rural	41.1	8.4	48.9	1.1	0.5	100.0	49.5	12,540
+Region
+Coast	48.2	9.5	41.1	0.8	0.4	100.0	57.7	2,023
+North Eastern	26.1	3.2	68.6	0.7	1.5	100.0	29.2	650
+Eastern	45.0	17.7	35.3	1.8	0.3	100.0	62.7	2,321
+Central	64.2	26.1	8.6	1.0	0.1	100.0	90.2	1,796
+Rift Valley	38.5	11.7	48.8	0.5	0.5	100.0	50.2	5,677
+Western	40.8	6.2	51.3	1.4	0.3	100.0	47.0	2,255
+Nyanza	54.8	10.0	33.1	1.3	0.9	100.0	64.8	2,790
+Nairobi	50.1	38.6	10.1	1.0	0.3	100.0	88.7	2,051
+Mother’s education
+No education	21.0	3.9	73.7	0.6	0.8	100.0	24.9	2,307
+Primary incomplete	37.5	7.0	53.6	1.4	0.4	100.0	44.6	5,582
+Primary complete	52.7	14.1	31.8	1.0	0.4	100.0	66.8	5,397
+Secondary+	57.0	27.4	14.3	0.8	0.4	100.0	84.4	6,277
+Wealth quintile
+Lowest	27.3	2.9	68.2	1.1	0.6	100.0	30.1	4,657
+Second	42.0	7.1	49.1	1.3	0.5	100.0	49.1	3,987
+Middle	50.8	11.5	36.1	1.1	0.6	100.0	62.3	3,525
+Fourth	60.6	19.3	19.0	0.7	0.4	100.0	79.9	3,453
+Highest	55.1	37.6	6.2	0.9	0.2	100.0	92.7	3,942
+Total	46.0	15.2	37.4	1.0	0.5	100.0 61.2 19,564
+Note: Total includes 51 births for whom information on ANC visits is missing.
+1 Includes only the most recent birth in the five years preceding the survey

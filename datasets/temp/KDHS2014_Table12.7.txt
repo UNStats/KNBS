@@ -1,0 +1,28 @@
+Table 12.7 Use of Intermittent Preventive Treatment (IPTp) by women during pregnancy
+Percentage of women age 15-49 with a live birth in the two years preceding the survey who, during the pregnancy preceding the last birth, received one or more doses of SP/Fansidar at least one of which was received during an ANC visit, received two or more doses of SP/Fansidar at least one of which was received during an ANC visit, and received three or more doses of SP/Fansidar at least one of which was received during an ANC visit, by background characteristics, Kenya 2014
+Background characteristic	Percentage who received 1 or more doses of SP/Fansidar1	Percentage who received 2 or more doses of SP/Fansidar1	Percentage who received 3 or more doses of SP/Fansidar1	Number of women with a live birth in the two years preceding the survey
+Residence
+Urban	26.8	14.1	7.8	2,618
+Rural	31.0	18.4	11.4	4,739
+Region
+Coast	73.7	52.5	32.7	793
+North Eastern	5.2	2.1	1.1	228
+Eastern	24.3	9.8	5.0	872
+Central	16.4	4.5	2.4	682
+Rift Valley	14.6	6.9	4.5	2,167
+Western	53.4	38.4	26.2	827
+Nyanza	43.3	21.8	9.7	1,035
+Nairobi	6.3	1.3	0.8	753
+Education
+No education	28.9	17.3	11.3	834
+Primary incomplete	32.0	18.6	11.2	2,036
+Primary complete	31.4	17.4	10.3	1,987
+Secondary+	26.3	14.9	8.6	2,499
+Wealth quintile
+Lowest	33.2	19.7	11.5	1,823
+Second	29.4	16.5	10.1	1,461
+Middle	32.4	20.5	13.5	1,332
+Fourth	27.1	13.9	8.0	1,283
+Highest	24.6	13.0	7.1	1,458
+Total	29.5	16.9	10.1	7,357
+1 Received the specified number of doses of SP/Fansidar, at least one of which was received during an ANC visit

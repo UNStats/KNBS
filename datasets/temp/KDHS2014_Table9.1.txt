@@ -1,0 +1,39 @@
+Table 9.1 Antenatal care
+Percent distribution of women age 15-49 who had a live birth in the five years preceding the survey by antenatal care (ANC) provider during pregnancy for the most recent birth and the percentage receiving antenatal care from a skilled provider for the most recent birth, according to background characteristics, Kenya 2014
+Background characteristic	Antenatal care provider					No ANC	Total	Percentage receiving antenatal care from a skilled provider1	Number of women
+	Doctor	Nurse/midwife	Community health worker	Traditional birth attendant	Missing
+Mother’s age at birth
+<20	28.6	66.3	0.1	0.0	0.0	5.0	100.0	94.9	1,871
+20-34	31.8	64.2	0.4	0.0	0.2	3.3	100.0	96.0	10,641
+35-49	29.8	63.4	0.5	0.0	0.2	6.0	100.0	93.2	1,930
+Birth order
+1	37.4	60.0	0.1	0.0	0.0	2.5	100.0	97.3	3,659
+2-3	33.1	64.0	0.3	0.1	0.2	2.3	100.0	97.1	5,815
+4-5	25.7	68.1	0.6	0.0	0.1	5.4	100.0	93.8	2,795
+6+ 22.5	67.9	0.7	0.1	0.4	8.4	100.0	90.3	2,173
+Residence
+Urban	41.0	56.8	0.2	0.0	0.2	1.8	100.0	97.8	5,561
+Rural	24.9	69.1	0.5	0.1	0.2	5.2	100.0	94.0	8,881
+Region
+Coast	46.3	51.2	0.0	0.0	0.2	2.3	100.0	97.5	1,471
+North Eastern	9.2	57.4	7.7	0.2	0.4	24.9	100.0	66.5	372
+Eastern	18.3	78.9	0.0	0.0	0.1	2.6	100.0	97.2	1,834
+Central	61.7	35.6	0.2	0.0	0.0	2.4	100.0	97.3	1,528
+Rift Valley	29.4	64.4	0.1	0.1	0.1	5.8	100.0	93.9	4,002
+Western	20.3	76.8	0.0	0.1	0.2	2.5	100.0	97.2	1,590
+Nyanza	13.0	83.5	0.6	0.0	0.4	2.4	100.0	96.6	1,988
+Nairobi	44.8	52.8	0.5	0.0	0.2	1.7	100.0	97.6	1,657
+Education
+No education	18.9	63.2	2.1	0.3	0.5	15.1	100.0	82.1	1,409
+Primary incomplete	26.1	68.7	0.1	0.0	0.2	4.9	100.0	94.7	3,846
+Primary complete	31.5	65.4	0.5	0.0	0.1	2.5	100.0	96.8	4,024
+Secondary+	38.0	60.6	0.1	0.0	0.1	1.1	100.0	98.6	5,163
+Wealth quintile
+Lowest	20.5	68.0	1.1	0.2	0.2	9.9	100.0	88.5	2,947
+Second	22.5	73.0	0.1	0.0	0.2	4.1	100.0	95.5	2,782
+Middle	27.4	69.7	0.2	0.0	0.3	2.4	100.0	97.1	2,660
+Fourth	33.8	63.6	0.4	0.0	0.0	2.2	100.0	97.4	2,777
+Highest	48.8	50.0	0.2	0.0	0.1	0.9	100.0	98.8	3,277
+Total	31.1	64.3	0.4	0.0	0.2	3.9	100.0	95.5	14,442
+Note: If more than one source of ANC was mentioned, only the provider with the highest qualifications is considered in this tabulation.
+1 Skilled provider includes doctor, nurse, or midwife.

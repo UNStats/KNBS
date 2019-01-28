@@ -1,0 +1,23 @@
+Table 12.4 Use of existing ITNs
+Percentage of insecticide-treated nets (ITNs) that were used by anyone the night before the survey, by background characteristics, Kenya 2014
+Background characteristic	Percentage of existing ITNs1 used last night	Number of ITNs1
+Residence
+Urban	79.8	15,166
+Rural	75.8	26,120
+Region
+Coast	81.2	4,874
+North Eastern	84.6	753
+Eastern	72.8	5,533
+Central	75.2	3,383
+Rift Valley	68.8	9,912
+Western	78.8	6,372
+Nyanza	84.6	7,429
+Nairobi	85.7	3,031
+Wealth quintile
+Lowest	71.4	5,602
+Second	78.2	7,394
+Middle	80.0	8,838
+Fourth	78.3	9,036
+Highest	76.5	10,416
+Total	77.3	41,286
+1 An insecticide-treated net (ITN) is (1) a factorytreated net that does not require any further treatment (LLIN), or (2) a net that has been soaked with insecticide within the past six months.

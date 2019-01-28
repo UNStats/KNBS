@@ -1,0 +1,37 @@
+Table 9.4 Tetanus toxoid injections
+Among mothers age 15-49 with a live birth in the five years preceding the survey, the percentage receiving two or more tetanus toxoid injections during the pregnancy for the last live birth and the percentage whose last live birth was protected against neonatal tetanus, according to background characteristics, Kenya 2014
+Background characteristic	Percentage receiving two or more injections during last pregnancy	Percentage whose last birth was protected against neonatal tetanus1	Number of mothers
+Mother’s age at birth
+<20	61.2	73.4	867
+20-34	50.9	76.2	5,074
+35-49	42.4	74.4	935
+Birth order
+1	68.7	74.9	1,705
+2-3	50.8	79.3	2,747
+4-5	41.7	73.0	1,351
+6+ 35.7	70.8	1,072
+Residence
+Urban	56.5	76.4	2,677
+Rural	47.6	75.1	4,199
+Region
+Coast	64.5	83.7	698
+North Eastern	33.5	59.9	178
+Eastern	54.7	79.1	891
+Central	58.0	79.7	715
+Rift Valley	45.3	74.3	1,899
+Western	45.3	66.9	790
+Nyanza	44.5	70.1	934
+Nairobi	60.3	83.0	771
+Education
+No education	41.6	66.9	675
+Primary incomplete	46.1	74.0	1,901
+Primary complete	49.8	76.6	1,856
+Secondary+	58.5	78.6	2,445
+Wealth quintile
+Lowest	42.8	69.5	1,381
+Second	45.3	75.3	1,312
+Middle	50.6	74.5	1,276
+Fourth	52.2	77.0	1,372
+Highest	62.8	81.1	1,536
+Total	51.1	75.6	6,876
+1 Includes mothers with two injections during the pregnancy of her last birth, or two or more injections (the last within 3 years of the last live birth), or three or more injections (the last within	5 years of the last birth), or four or more injections (the last within	10 years of the last live birth), or five or more injections at any time prior to the last birth.

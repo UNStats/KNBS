@@ -1,0 +1,12 @@
+Table 5.8 Menopause
+Percentage of women age 30-49 who are menopausal, by age, Kenya 2014
+Age	Percentage menopausal1	Number of women
+30-34	4.7	2,162
+35-39	6.1	1,780
+40-41	9.2	632
+42-43	8.9	426
+44-45	20.8	520
+46-47	24.4	424
+48-49	45.1	343
+Total	10.7	6,286
+1 Percentage of all women who are not pregnant and not postpartum amenorrhoeic whose last menstrual period occurred six or more months preceding the survey

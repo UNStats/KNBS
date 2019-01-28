@@ -1,0 +1,60 @@
+Table 4.6C Median age at first sexual intercourse by county
+Median age at first sexual intercourse among women age 20-49 and age 25-49, and median age at first sexual intercourse among men age 20-54 and age 25-54, according to county, Kenya 2014
+County	Women age		Men age
+	20-49	25-49	20-54	25-54
+Coast	18.3	18.2	18.2	18.3
+Mombasa	19.3	19.3	18.1	18.1
+Kwale	16.6	16.3	18.5	18.5
+Kilifi	18.4	18.3	17.7	17.8
+Tana River	17.0	17.0	18.9	19.6
+Lamu	18.8	18.6	18.8	18.9
+Taita Taveta	19.0	19.0	17.8	17.8
+North Eastern	19.0	18.9	a	24.1
+Garissa	19.1	18.9	a	23.6
+Wajir	18.5	18.5	a	22.7
+Mandera	19.4	19.3	a	a
+Eastern	18.0	17.9	16.2	16.1
+Marsabit	17.5	17.5	17.9	17.9
+Isiolo	18.2	18.5	17.1	17.1
+Meru	17.1	17.0	14.6	14.4
+Tharaka-Nithi	19.4	19.5	16.3	16.0
+Embu	19.1	18.9	18.0	18.3
+Kitui	17.7	17.6	16.9	17.0
+Machakos	18.3	18.2	15.8	15.6
+Makueni	18.1	18.0	17.9	17.8
+Central	19.1	19.0	18.3	18.4
+Nyandarua	18.9	18.8	18.3	18.4
+Nyeri	18.7	18.6	19.0	18.9
+Kirinyaga	18.9	18.9	17.5	17.3
+Murang’a	19.1	19.0	19.0	19.2
+Kiambu	19.4	19.3	18.0	18.2
+Rift Valley	17.7	17.7	16.9	16.9
+Turkana	17.6	18.1	18.0	18.0
+West Pokot	17.0	17.2	15.8	15.9
+Samburu	15.7	15.7	14.9	15.0
+Trans-Nzoia	17.8	17.7	17.5	17.6
+Uasin Gishu	17.3	17.2	16.1	16.2
+Elgeyo Marakwet	17.9	17.8	16.3	16.4
+Nandi	16.9	16.7	16.7	16.7
+Baringo	17.6	17.7	16.6	16.6
+Laikipia	18.1	18.1	18.2	18.3
+Nakuru	18.7	18.6	17.2	16.9
+Narok	16.7	16.7	17.8	17.6
+Kajiado	18.3	18.3	16.6	16.3
+Kericho	17.4	17.5	17.0	17.0
+Bomet	17.5	17.5	16.6	16.7
+Western	17.1	16.9	17.1	17.1
+Kakamega	17.0	16.8	16.7	16.5
+Vihiga	18.1	18.0	17.7	17.5
+Bungoma	17.1	16.9	17.1	17.3
+Busia	16.6	16.5	17.4	17.4
+Nyanza	16.4	16.3	17.1	17.2
+Siaya	16.6	16.5	16.6	16.7
+Kisumu	16.4	16.2	17.9	18.0
+Homa Bay	15.7	15.6	15.6	15.8
+Migori	15.5	15.4	17.0	17.2
+Kisii	17.2	17.3	17.7	17.8
+Nyamira	17.1	17.1	18.1	18.1
+Nairobi	19.3	19.6	17.8	17.9
+Total	18.0	18.0	17.4	17.4
+a = Omitted because less than 50 percent of the respondents had intercourse for the first time before reaching the beginning of the age group

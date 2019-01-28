@@ -1,0 +1,41 @@
+Table 7.2 Knowledge of contraceptive methods by background characteristics 
+Percentage of currently married women and currently married men age 15-49 who have heard of at least one contraceptive method and who have heard of at least one modern method by background characteristics, Kenya 2014
+Background characteristic	Women			Men
+	Heard of any method	Heard of any modern method1 	Number	Heard of any method	Heard of any modern method1 	Number
+Age
+15-19	98.2	98.2	695	*	*	16
+20-24	98.8	98.7	3,133	99.7	99.7	377
+25-29	98.6	98.5	4,556	100.0	99.9	1,201
+30-34	98.9	98.9	3,566	99.8	99.8	1,398
+35-39	98.9	98.8	2,894	99.3	99.2	1,277
+40-44	98.7	98.6	2,091	99.8	99.8	1,100
+45-49	98.9	98.8	1,615	99.7	99.6	727
+Residence
+Urban	99.6	99.5	7,285	99.8	99.8	2,894
+Rural	98.2	98.1	11,265	99.6	99.5	3,201
+Region
+Coast	99.4	99.3	1,821	100.0	99.8	617
+North Eastern	70.8	68.8	451	89.2	89.2	103
+Eastern	99.7	99.7	2,667	100.0	100.0	835
+Central	99.9	99.9	2,323	99.4	99.4	773
+Rift Valley	98.5	98.4	4,696	99.9	99.7	1,523
+Western	100.0	100.0	1,950	100.0	100.0	561
+Nyanza	99.9	99.9	2,525	100.0	100.0	767
+Nairobi	99.8	99.8	2,117	100.0	100.0	916
+Education
+No education	87.8	86.9	1,692	94.7	93.5	234
+Primary incomplete	99.6	99.6	4,694	100.0	99.9	1,370
+Primary complete	99.9	99.9	5,389	99.7	99.7	1,677
+Secondary+ 100.0	100.0	6,774	100.0	100.0	2,814
+Wealth quintile
+Lowest	93.7	93.2	3,174	98.5	98.1	813
+Second	99.7	99.7	3,290	99.9	99.9	1,036
+Middle	99.8	99.8	3,503	100.0	100.0	1,110
+Fourth	99.8	99.8	3,957	100.0	100.0	1,481
+Highest	99.8	99.8	4,626	99.7	99.7	1,655
+Total 15-49	98.7	98.7	18,549	99.7	99.7	6,095
+50-54 na	na	na	99.7	99.7	667
+Total	15-54 na na na	99.7	99.7	6,762
+Note: An asterisk denotes a figure based on fewer than 25 unweighted cases that has been suppressed.
+na = Not applicable
+1 Female sterilisation, male sterilisation, pill, IUD, injectables, implants, male condom, female condom, lactational amenorrhoea method (LAM), and emergency contraception

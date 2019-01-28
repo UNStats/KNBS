@@ -1,0 +1,63 @@
+Table 13.1C Knowledge of AIDS
+Percentage of women and men age 15-49 who have heard of AIDS, by county, Kenya 2014
+County	Women		Men
+	Have heard of AIDS
+Number of respondents	Have heard of AIDS	Number of respondents
+Coast	99.8	3,076	99.6	1,260
+Mombasa	100.0	912	99.7	481
+Kwale	100.0	619	99.3	226
+Kilifi	100.0	1,043	100.0	359
+Tana River	98.5	197	97.5	65
+Lamu	100.0	89	100.0	37
+Taita Taveta	99.0	215	100.0	93
+North Eastern	95.9	648	99.3	227
+Garissa	99.7	261	100.0	94
+Wajir	91.8	212	97.9	72
+Mandera	95.0	175	100.0	60
+Eastern	99.8	4,375	99.7	1,825
+Marsabit	95.5	115	100.0	40
+Isiolo	99.8	104	100.0	35
+Meru	100.0	1,110	100.0	495
+Tharaka-Nithi	99.5	275	99.5	102
+Embu	99.8	459	99.2	164
+Kitui	100.0	759	99.5	303
+Machakos	99.9	873	100.0	436
+Makueni	99.7	680	99.5	250
+Central	100.0	3,994	99.8	1,564
+Nyandarua	100.0	436	100.0	198
+Nyeri	99.9	650	99.7	229
+Kirinyaga	100.0	451	99.9	184
+Murang’a	99.8	735	100.0	284
+Kiambu	100.0	1,722	99.6	669
+Rift Valley	99.6	7,953	99.8	3,050
+Turkana	98.5	320	97.7	76
+West Pokot	95.1	267	100.0	103
+Samburu	99.7	123	99.3	35
+Trans-Nzoia	99.7	768	100.0	329
+Uasin Gishu	100.0	784	99.8	355
+Elgeyo Marakwet	100.0	250	100.0	86
+Nandi	99.6	628	100.0	264
+Baringo	99.7	335	99.7	125
+Laikipia	99.6	342	100.0	124
+Nakuru	99.9	1,574	100.0	589
+Narok	99.9	642	99.1	240
+Kajiado	99.3	670	100.0	241
+Kericho	100.0	563	100.0	215
+Bomet	100.0	687	99.7	267
+Western	99.8	3,225	99.9	1,164
+Kakamega	99.7	1,108	100.0	411
+Vihiga	100.0	368	100.0	140
+Bungoma	99.9	1,203	99.7	413
+Busia	100.0	546	100.0	199
+Nyanza	99.9	4,038	99.9	1,405
+Siaya	100.0	572	100.0	213
+Kisumu	99.8	820	99.6	309
+Homa Bay	100.0	798	100.0	243
+Migori	99.8	650	100.0	211
+Kisii	99.9	864	99.8	315
+Nyamira	100.0	334	99.7	114
+Nairobi	99.8	3,770	100.0	1,568
+Total 15-49	99.7	31,079	99.8	12,063
+50-54	na	na	100.0	756
+Total 15-54	na	na	99.8	12,819
+na = Not applicable

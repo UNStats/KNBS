@@ -1,0 +1,35 @@
+Table 11.11 Micronutrient intake among mothers
+Among women age 15-49 with a child born in the past five years, the percentage who received a vitamin A dose in the first two months after the birth of the last child, the percent distribution by number of days they took iron tablets, iron syrup, or iron and folic acid supplements during the pregnancy of the last child, and the percentage who took deworming medication during the pregnancy of the last child; and among women age 15-49 with a child born in the past five years and who live in households that were tested for iodised salt, the percentage who live in households with iodised salt, by background characteristics, Kenya 2014
+Background characteristic	Percentage who received vitamin A dose postpartum1	Number of days women took iron tablets, iron syrup, or iron and folic acid supplements during pregnancy of last birth						Percentage of women who took deworming medication during pregnancy of last birth	Number of women	Among women with a child born in the last five years, who live in households that were tested for iodised salt
+		None	<60	60-89	90+	Don’t know/ missing	Total			Percentage living in households with iodised salt2	Number of women
+Age
+15-19	41.7	36.6	48.5	5.3	6.4	3.2	100.0	26.5	386	98.9	365
+20-29	55.7	28.9	54.2	4.7	7.8	4.4	100.0	30.9	3,669	99.6	3,568
+30-39	54.5	29.4	52.9	5.0	7.8	5.0	100.0	32.8	2,313	99.4	2,236
+40-49	47.0	36.6	51.2	2.3	4.7	5.3	100.0	31.0	507	99.7	488
+Residence
+Urban	57.9	24.7	54.3	6.4	9.6	4.9	100.0	31.6	2,677	99.4	2,617
+Rural	51.3	33.5	52.5	3.5	6.1	4.4	100.0	31.1	4,199	99.5	4,039
+Region
+Coast	45.5	17.5	59.4	7.5	12.9	2.7	100.0	50.5	698	97.5	678
+North Eastern	26.5	58.9	34.6	2.3	1.2	3.0	100.0	7.4	178	98.3	155
+Eastern	59.2	30.9	50.3	5.3	6.3	7.2	100.0	34.5	891	99.9	868
+Central	65.4	28.3	55.5	3.1	5.6	7.5	100.0	34.2	715	99.8	692
+Rift Valley	47.8	37.6	51.4	2.8	4.3	3.9	100.0	23.8	1,899	99.8	1,828
+Western	60.7	38.8	50.9	1.2	6.9	2.2	100.0	33.5	790	99.1	764
+Nyanza	59.0	16.4	57.0	8.8	12.6	5.2	100.0	32.9	934	99.8	910
+Nairobi	52.5	24.7	55.6	6.0	9.3	4.4	100.0	27.4	771	100.0	762
+Education
+No education	29.7	41.9	46.5	4.6	3.6	3.3	100.0	21.5	675	99.1	605
+Primary incomplete	51.3	34.4	52.3	3.6	6.4	3.3	100.0	30.4	1,901	99.1	1,838
+Primary complete	55.9	28.1	54.5	4.7	7.5	5.2	100.0	34.1	1,856	99.5	1,806
+Secondary+	60.9	24.9	54.8	5.4	9.3	5.5	100.0	32.6	2,445	99.8	2,407
+Wealth quintile
+Lowest	38.0	36.6	51.7	3.9	5.0	2.9	100.0	27.5	1,381	98.7	1,276
+Second	54.0	33.3	52.1	4.1	7.3	3.2	100.0	30.1	1,312	99.4	1,280
+Middle	57.4	33.0	52.4	3.1	6.0	5.4	100.0	34.6	1,276	99.7	1,251
+Fourth	60.9	25.2	55.7	5.3	8.4	5.4	100.0	32.8	1,372	99.7	1,343
+Highest	58.7	23.4	54.0	6.4	10.4	5.9	100.0	31.6	1,536	99.8	1,507
+Total	53.9	30.1	53.2	4.6	7.5	4.6	100.0	31.3	6,876	99.5	6,657
+1 In the first two months after delivery of last birth
+2 Excludes women in households where salt was not tested

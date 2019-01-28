@@ -1,0 +1,36 @@
+Table 2.11 Children’s living arrangements and orphanhood
+Percent distribution of de jure children under age 18 by living arrangements and survival status of parents, the percentage of children not living with a biological parent, and the percentage of children with one or both parents dead, according to background characteristics, Kenya 2014
+Background characteristic	Living with both parents	Living with mother but not with father		Living with father but not with mother		Not living with either parent					Total	Percentage not living with a biological parent	Percentage with one or both parents dead1	Number of children
+		Father alive	Father dead	Mother alive	Mother dead	Both alive	Only father alive	Only mother alive	Both dead	Missing information on father/ mother
+Age
+0-4	63.8	25.1	2.2	0.9	0.2	5.2	0.4	0.4	0.1	1.6	100.0	6.2	3.4	19,954
+<2	67.0	27.6	1.7	0.3	0.0	1.9	0.2	0.1	0.0	1.2	100.0	2.2	2.0	7,662
+2-4	61.8	23.6	2.5	1.2	0.2	7.3	0.5	0.6	0.2	1.9	100.0	8.7	4.2	12,291
+5-9	55.6	21.4	4.5	2.7	0.6	10.4	0.8	1.2	0.9	1.9	100.0	13.3	8.2	21,331
+10-14	49.1	20.3	7.4	3.2	1.2	11.3	1.4	2.2	1.9	2.0	100.0	16.8	14.5	19,914
+15-17	44.1	17.8	9.1	3.6	1.7	13.1	1.6	3.0	2.9	3.0	100.0	20.6	18.7	9,058
+Sex
+Male	54.5	21.9	5.2	2.9	0.9	9.1	0.8	1.5	1.2	1.9	100.0	12.6	9.8	35,442
+Female	54.6	21.5	5.3	2.0	0.7	9.9	1.1	1.5	1.3	2.1	100.0	13.8	10.1	34,815
+Residence
+Urban	58.6	20.5	4.2	2.5	0.8	7.7	0.9	1.4	1.3	2.2	100.0	11.2	8.6	20,440
+Rural	52.9	22.2	5.7	2.4	0.8	10.3	1.0	1.5	1.2	1.9	100.0	14.0	10.5	49,817
+Region
+Coast	54.2	24.1	5.7	3.1	0.5	8.6	1.0	1.0	0.8	1.1	100.0	11.4	9.1	6,802
+North Eastern	63.9	16.4	3.5	3.1	0.8	9.3	1.3	0.9	0.5	0.4	100.0	12.0	6.9	2,593
+Eastern	49.4	27.6	4.5	2.0	0.8	8.3	0.8	1.1	1.1	4.4	100.0	11.4	8.7	9,875
+Central	58.2	23.2	4.1	2.0	0.9	6.3	0.6	1.1	0.5	3.2	100.0	8.4	7.6	6,606
+Rift Valley	55.8	22.9	5.1	2.1	0.6	9.9	0.7	1.0	0.7	1.3	100.0	12.3	8.1	19,358
+Western	49.5	19.7	3.8	3.7	0.7	16.1	1.6	2.1	1.3	1.6	100.0	21.0	9.5	9,309
+Nyanza	52.1	16.6	8.8	2.0	1.2	9.2	1.4	3.2	3.3	2.1	100.0	17.2	18.2	11,010
+Nairobi	67.0	17.6	4.7	2.3	1.1	4.1	0.5	0.7	0.8	1.2	100.0	6.1	7.8	4,704
+Wealth quintile
+Lowest	54.3	21.7	7.3	2.8	0.8	9.0	0.7	1.3	1.0	1.2	100.0	12.0	11.1	16,700
+Second	52.3	21.7	6.4	2.5	1.0	9.7	1.2	1.6	1.4	2.2	100.0	13.9	11.8	15,350
+Middle	51.1	23.2	5.3	2.0	0.7	10.6	1.1	1.8	1.5	2.7	100.0	15.1	10.8	14,448
+Fourth	53.8	21.7	3.8	2.5	0.6	10.9	1.1	1.6	1.3	2.6	100.0	15.0	8.7	12,658
+Highest	63.7	19.7	2.4	2.3	0.9	7.1	0.7	1.2	0.8	1.4	100.0	9.7	5.9	11,100
+Total <15	56.1	22.3	4.7	2.3	0.7	9.0	0.9	1.3	1.0	1.8	100.0	12.1	8.6	61,199
+Total <18	54.6	21.7	5.3	2.4	0.8	9.5	1.0	1.5	1.2	2.0	100.0	13.2	9.9	70,257
+Note: Table is based on de jure members, i.e., usual residents.
+1 Includes children with father dead, mother dead, both dead and one parent dead but missing information on survival status of the other parent.

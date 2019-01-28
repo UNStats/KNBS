@@ -1,0 +1,60 @@
+Table 13.14C Male circumcision
+Percentage of men age 15-49 who report having been circumcised, by county, Kenya 2014
+County	Percentage circumcised	Number of men
+Coast	97.6	1,260
+Mombasa	95.8	481
+Kwale	97.4	226
+Kilifi	99.5	359
+Tana River	99.6	65
+Lamu	97.8	37
+Taita Taveta	97.6	93
+North Eastern	100.0	227
+Garissa	100.0	94
+Wajir	100.0	72
+Mandera	100.0	60
+Eastern	95.3	1,825
+Marsabit	98.1	40
+Isiolo	97.8	35
+Meru	92.3	495
+Tharaka-Nithi	91.5	102
+Embu	96.7	164
+Kitui	100.0	303
+Machakos	92.7	436
+Makueni	100.0	250
+Central	97.0	1,564
+Nyandarua	93.1	198
+Nyeri	99.2	229
+Kirinyaga	98.1	184
+Murang’a	96.6	284
+Kiambu	97.2	669
+Rift Valley	92.5	3,050
+Turkana	26.0	76
+West Pokot	97.9	103
+Samburu	86.1	35
+Trans-Nzoia	94.5	329
+Uasin Gishu	93.4	355
+Elgeyo Marakwet	91.0	86
+Nandi	95.0	264
+Baringo	86.5	125
+Laikipia	94.6	124
+Nakuru	94.0	589
+Narok	91.5	240
+Kajiado	96.9	241
+Kericho	96.5	215
+Bomet	97.1	267
+Western	96.6	1,164
+Kakamega	98.7	411
+Vihiga	97.2	140
+Bungoma	98.0	413
+Busia	89.2	199
+Nyanza	72.1	1,405
+Siaya	55.9	213
+Kisumu	58.8	309
+Homa Bay	56.0	243
+Migori	72.5	211
+Kisii	98.1	315
+Nyamira	100.0	114
+Nairobi	95.4	1,568
+Total 15-49	92.6	12,063
+50-54	91.3	756
+Total 15-54	92.5	12,819

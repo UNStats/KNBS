@@ -1,0 +1,63 @@
+Table 3.2.2C Educational attainment: Men
+Percent distribution of men age 15-49 by highest level of schooling attended or completed, and median years completed, according to county, Kenya 2014
+County	Highest level of schooling						Total	Median years completed	Number of men
+	No education	Some primary 	Completed primary1	Some secondary	Completed secondary2	More than secondary
+Coast	4.2	25.0	26.9	14.3	18.9	10.7	100.0	7.7	1,260
+Mombasa	2.5	10.0	31.3	16.8	25.9	13.4	100.0	9.1	481
+Kwale	7.8	38.7	19.6	11.2	14.1	8.7	100.0	7.1	226
+Kilifi	2.6	34.4	24.9	15.9	13.5	8.7	100.0	7.4	359
+Tana River	18.2	33.3	25.2	5.1	13.6	4.7	100.0	6.8	65
+Lamu	5.8	41.2	18.4	11.2	9.6	13.7	100.0	7.0	37
+Taita Taveta	0.0	20.6	34.1	9.6	22.7	13.1	100.0	7.8	93
+North Eastern	36.9	20.9	13.8	12.7	9.8	5.9	100.0	5.7	227
+Garissa	33.2	16.2	17.7	12.6	12.1	8.2	100.0	7.0	94
+Wajir	38.2	23.2	10.5	12.4	9.6	6.1	100.0	4.7	72
+Mandera	41.2	25.3	11.8	13.0	6.5	2.1	100.0	5.2	60
+Eastern	3.0	31.7	26.3	14.0	16.3	8.7	100.0	7.5	1,825
+Marsabit	35.7	18.6	10.0	7.7	15.4	12.6	100.0	6.3	40
+Isiolo	11.3	29.7	21.1	12.5	21.9	3.5	100.0	7.4	35
+Meru	4.7	35.7	25.3	10.4	14.9	9.0	100.0	7.3	495
+Tharaka-Nithi	2.0	38.9	18.0	17.3	12.5	11.4	100.0	7.4	102
+Embu	1.0	33.6	27.4	16.6	12.2	9.3	100.0	7.5	164
+Kitui	2.7	44.8	23.3	15.5	9.2	4.4	100.0	7.0	303
+Machakos	0.3	21.4	31.6	12.5	24.3	10.0	100.0	7.8	436
+Makueni	0.3	24.4	28.5	20.0	17.1	9.7	100.0	7.8	250
+Central	0.3	16.1	25.2	21.2	24.2	13.0	100.0	9.1	1,564
+Nyandarua	0.4	17.8	31.7	22.5	21.4	6.2	100.0	7.9	198
+Nyeri	0.2	8.6	30.7	20.6	24.1	15.9	100.0	9.3	229
+Kirinyaga	0.7	27.7	28.8	14.8	20.5	7.6	100.0	7.7	184
+Murang’a	0.8	22.5	27.7	24.6	16.8	7.8	100.0	7.9	284
+Kiambu	0.0	12.2	19.3	21.4	29.3	17.8	100.0	10.5	669
+Rift Valley	4.3	27.4	22.6	14.5	17.8	13.3	100.0	7.7	3,050
+Turkana	35.2	35.3	7.7	6.7	5.2	9.9	100.0	4.1	76
+West Pokot	18.9	50.8	14.7	6.0	5.0	4.6	100.0	6.1	103
+Samburu	25.9	25.2	13.4	11.9	12.5	11.1	100.0	6.8	35
+Trans-Nzoia	2.0	34.9	24.3	15.5	14.6	8.7	100.0	7.5	329
+Uasin Gishu	1.1	21.0	24.6	15.0	26.1	12.1	100.0	8.2	355
+Elgeyo Marakwet	0.2	24.4	26.6	13.3	21.4	14.1	100.0	7.9	86
+Nandi	0.3	33.3	26.3	9.7	18.9	11.5	100.0	7.6	264
+Baringo	5.9	33.3	16.7	15.3	20.1	8.7	100.0	7.6	125
+Laikipia	2.6	25.1	15.5	22.1	19.4	15.3	100.0	8.0	124
+Nakuru	1.9	16.3	26.2	17.0	19.4	19.2	100.0	9.2	589
+Narok	13.0	32.8	21.5	11.0	14.0	7.7	100.0	7.2	240
+Kajiado	4.8	17.2	15.9	16.1	17.3	28.7	100.0	10.0	241
+Kericho	0.0	32.9	22.2	16.8	16.2	11.9	100.0	7.7	215
+Bomet	0.0	33.1	27.2	14.4	18.1	7.2	100.0	7.6	267
+Western	0.9	42.9	17.4	20.0	10.6	8.2	100.0	7.3	1,164
+Kakamega	1.6	41.3	15.8	21.5	9.9	9.9	100.0	7.3	411
+Vihiga	0.3	36.4	24.3	24.5	7.5	7.1	100.0	7.4	140
+Bungoma	0.4	45.2	16.9	17.9	11.5	8.1	100.0	7.2	413
+Busia	1.1	45.7	16.9	18.1	12.4	5.8	100.0	7.1	199
+Nyanza	0.5	28.3	22.7	19.5	15.9	13.2	100.0	7.8	1,405
+Siaya	0.7	33.9	23.0	20.2	14.4	7.8	100.0	7.5	213
+Kisumu	0.7	19.6	23.8	21.3	12.8	21.8	100.0	8.3	309
+Homa Bay	0.0	35.0	27.1	18.2	12.0	7.8	100.0	7.4	243
+Migori	0.8	42.5	24.3	14.4	12.9	5.3	100.0	7.2	211
+Kisii	0.4	23.3	17.7	21.8	22.1	14.8	100.0	8.9	315
+Nyamira	0.0	14.1	21.2	19.3	23.6	21.8	100.0	10.2	114
+Nairobi	0.0	9.4	17.7	13.7	29.1	30.1	100.0	11.3	1,568
+Total	15-49	2.9	25.5	22.7	16.2	18.9	13.9	100.0	7.9	12,063
+50-54	7.0 19.3 28.6 9.2 23.8 12.2 100.0 6.9 756
+Total 15-54	3.1 25.1 23.0 15.8 19.2 13.8 100.0 7.9 12,819
+1 Completed Grade 8 at the primary level, for those under age 45; because of the change in the school system in the 1980s, those age 45 and above are considered to have completed primary if they completed Grade 7.
+2 Completed Form 4 at the secondary level

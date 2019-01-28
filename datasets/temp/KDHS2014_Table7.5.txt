@@ -1,0 +1,21 @@
+Table 7.5 Trends in the current use of contraception
+Percent distribution of currently married women age 15-49 by contraceptive method currently used, according to several surveys
+Method	2003 KDHS	2008-09 KDHS	2014 KDHS
+Any method	39.3	45.5	58.0
+Any modern method	31.5	39.4	53.2
+Female sterilisation	4.3	4.8	3.2
+Male sterilisation	0.0	0.0
+Pill	7.5	7.2	8.0
+IUD	2.4	1.6	3.4
+Injectables	14.3	21.6	26.4
+Implants	1.7	1.9	9.9
+Male condom	1.2a	1.8a	2.2
+Other modern method	1.5	0.5	0.1
+Any traditional method	7.0	5.3	4.8
+Rhythm	6.3	4.7	3.8
+Withdrawal	0.6	0.7	0.7
+Other	1.9	0.7	0.3
+Not currently using	60.7	54.5	42.0
+Total	100.0	100.0	100.0
+Number of women	4,919	4,928	18,549
+a The question did not specify male condom.

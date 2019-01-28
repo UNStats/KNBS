@@ -1,0 +1,61 @@
+Table 9.1C Antenatal care
+Percent distribution of women age 15-49 who had a live birth in the five years preceding the survey by antenatal care (ANC) provider during pregnancy for the most recent birth and the percentage receiving antenatal care from a skilled provider for the most recent birth, according to county, Kenya 2014
+County	Antenatal care provider					No ANC	Total	Percentage receiving antenatal care from a skilled provider1	Number of women
+	Doctor	Nurse/midwife	Community health worker	Traditional birth attendant	Missing
+Coast	46.3	51.2	0.0	0.0	0.2	2.3	100.0	97.5	1,471
+Mombasa	61.3	37.9	0.0	0.0	0.0	0.8	100.0	99.2	422
+Kwale	15.2	80.5	0.0	0.0	0.9	3.4	100.0	95.7	304
+Kilifi	70.0	28.2	0.0	0.0	0.0	1.8	100.0	98.2	503
+Tana River	0.1	93.4	0.0	0.0	0.0	6.4	100.0	93.6	115
+Lamu	6.3	89.4	0.0	0.0	1.0	3.3	100.0	95.7	36
+Taita Taveta	24.5	73.4	0.0	0.0	0.0	2.1	100.0	97.9	90
+North Eastern	9.2	57.4	7.7	0.2	0.4	24.9	100.0	66.5	372
+Garissa	2.9	84.5	0.0	0.0	0.0	12.7	100.0	87.3	135
+Wajir	4.0	53.6	19.9	0.0	0.0	21.9	100.0	57.6	141
+Mandera	25.7	24.8	0.5	0.8	1.7	46.5	100.0	50.5	96
+Eastern	18.3	78.9	0.0	0.0	0.1	2.6	100.0	97.2	1,834
+Marsabit	12.9	62.7	1.4	0.0	0.0	23.1	100.0	75.6	64
+Isiolo	20.6	75.4	0.0	0.3	0.0	3.5	100.0	96.0	58
+Meru	24.2	73.0	0.0	0.0	0.2	2.5	100.0	97.3	442
+Tharaka-Nithi	22.5	75.8	0.0	0.0	0.0	1.7	100.0	98.3	121
+Embu	21.5	77.7	0.0	0.0	0.0	0.8	100.0	99.2	167
+Kitui	11.2	86.3	0.0	0.0	0.0	2.5	100.0	97.5	313
+Machakos	24.1	74.7	0.0	0.0	0.2	1.0	100.0	98.8	396
+Makueni	5.7	92.3	0.0	0.0	0.0	2.0	100.0	98.0	274
+Central	61.7	35.6	0.2	0.0	0.0	2.4	100.0	97.3	1,528
+Nyandarua	40.4	56.3	0.0	0.0	0.0	3.3	100.0	96.7	195
+Nyeri	62.3	34.4	0.0	0.0	0.0	2.8	100.0	96.7	216
+Kirinyaga	36.8	59.6	0.0	0.0	0.0	3.6	100.0	96.4	174
+Murang’a	74.3	23.1	0.0	0.0	0.0	2.6	100.0	97.4	255
+Kiambu	69.3	28.7	0.4	0.0	0.0	1.7	100.0	97.9	688
+Rift Valley	29.4	64.4	0.1	0.1	0.1	5.8	100.0	93.9	4,002
+Turkana	0.6	90.4	0.0	0.0	0.0	9.0	100.0	91.0	214
+West Pokot	14.7	70.5	0.0	0.2	0.0	14.6	100.0	85.2	180
+Samburu	2.7	71.1	0.4	0.0	0.6	25.2	100.0	73.8	79
+Trans-Nzoia	44.6	47.4	0.0	0.0	0.0	8.0	100.0	92.0	382
+Uasin Gishu	30.4	65.6	0.2	0.3	0.0	3.4	100.0	96.1	363
+Elgeyo Marakwet	20.8	77.3	0.0	0.0	0.0	1.9	100.0	98.1	114
+Nandi	8.5	90.0	0.0	0.0	0.0	1.5	100.0	98.5	302
+Baringo	11.5	81.4	0.0	1.1	0.0	5.9	100.0	92.8	160
+Laikipia	23.8	69.9	0.0	0.0	0.0	6.3	100.0	93.7	165
+Nakuru	39.9	55.7	0.0	0.0	0.5	3.9	100.0	95.6	674
+Narok	13.5	78.1	0.0	0.0	0.3	8.1	100.0	91.6	403
+Kajiado	59.9	36.7	0.0	0.0	0.0	3.3	100.0	96.7	335
+Kericho	46.8	50.3	0.0	0.0	0.3	2.6	100.0	97.1	277
+Bomet	30.0	63.6	1.1	0.0	0.0	5.4	100.0	93.5	354
+Western	20.3	76.8	0.0	0.1	0.2	2.5	100.0	97.2	1,590
+Kakamega	29.4	67.1	0.0	0.3	0.5	2.7	100.0	96.4	532
+Vihiga	16.5	80.6	0.2	0.0	0.0	2.6	100.0	97.1	164
+Bungoma	13.2	84.4	0.0	0.0	0.0	2.4	100.0	97.6	607
+Busia	20.8	76.8	0.0	0.0	0.0	2.4	100.0	97.6	287
+Nyanza	13.0	83.5	0.6	0.0	0.4	2.4	100.0	96.6	1,988
+Siaya	1.6	96.2	0.6	0.1	0.0	1.5	100.0	97.8	268
+Kisumu	21.9	76.6	0.3	0.0	0.0	1.3	100.0	98.4	378
+Homa Bay	23.1	70.4	2.1	0.0	1.1	3.3	100.0	93.5	447
+Migori	4.5	91.9	0.0	0.0	0.3	3.3	100.0	96.4	360
+Kisii	10.7	87.0	0.0	0.0	0.0	2.3	100.0	97.7	384
+Nyamira	7.7	88.6	0.0	0.0	0.7	2.9	100.0	96.4	152
+Nairobi	44.8	52.8	0.5	0.0	0.2	1.7	100.0	97.6	1,657
+Total	31.1	64.3	0.4	0.0	0.2	3.9	100.0	95.5	14,442
+Note: If more than one source of ANC was mentioned, only the provider with the highest qualifications is considered in this tabulation.
+1 Skilled provider includes doctor, nurse, or midwife.

@@ -1,0 +1,60 @@
+Table 3.4.2C Exposure to mass media: Men
+Percentage of men age 15-49 who are exposed to specific media on a weekly basis, by county, Kenya 2014
+County	Reads a newspaper at least once a week	Watches television at least once a week	Listens to the radio at least once a week	Accesses all three media at least once a week	Accesses none of the three media at least once a week	Number of men
+Coast	51.0	67.6	83.6	42.2	10.6	1,260
+Mombasa	72.7	96.8	97.6	70.8	0.7	481
+Kwale	28.6	44.0	64.7	19.4	26.0	226
+Kilifi	48.0	49.0	77.4	29.6	13.9	359
+Tana River	18.7	43.5	75.8	11.7	20.2	65
+Lamu	22.9	49.7	84.3	14.5	6.9	37
+Taita Taveta	38.4	69.0	86.0	30.9	6.4	93
+North Eastern	7.9	22.5	42.6	4.2	47.5	227
+Garissa	3.1	26.5	37.1	1.5	47.5	94
+Wajir	9.7	13.5	40.6	2.8	51.4	72
+Mandera	13.1	26.9	53.7	10.3	43.0	60
+Eastern	33.5	59.5	87.4	27.6	9.5	1,825
+Marsabit	10.6	52.1	56.1	8.6	39.3	40
+Isiolo	18.5	39.3	51.6	11.4	36.4	35
+Meru	32.2	81.8	91.7	29.1	5.4	495
+Tharaka-Nithi	21.0	40.3	87.4	14.9	8.3	102
+Embu	20.1	41.1	84.1	12.7	12.4	164
+Kitui	11.9	15.2	68.5	3.8	26.6	303
+Machakos	66.8	90.0	98.9	61.9	0.2	436
+Makueni	23.9	40.0	93.9	13.5	2.9	250
+Central	61.3	76.5	95.6	51.9	1.8	1,564
+Nyandarua	34.9	54.2	88.5	22.7	5.6	198
+Nyeri	71.7	93.9	97.4	70.6	0.7	229
+Kirinyaga	41.0	69.9	91.0	32.4	4.6	184
+Murang’a	66.4	74.7	98.2	59.1	0.6	284
+Kiambu	68.9	79.8	97.2	56.4	0.7	669
+Rift Valley	31.6	49.2	84.4	23.9	11.3	3,050
+Turkana	5.2	7.8	14.0	4.2	83.6	76
+West Pokot	15.5	30.4	74.2	11.1	23.8	103
+Samburu	13.8	27.5	55.1	8.6	40.6	35
+Trans-Nzoia	29.7	53.4	84.4	19.8	6.4	329
+Uasin Gishu	45.2	63.6	93.1	35.5	5.0	355
+Elgeyo Marakwet	26.8	60.1	92.1	19.9	4.2	86
+Nandi	30.4	33.7	89.4	20.2	7.6	264
+Baringo	21.7	37.9	80.3	14.8	16.6	125
+Laikipia	21.2	37.7	78.2	11.2	13.5	124
+Nakuru	24.1	46.5	83.9	17.4	10.4	589
+Narok	21.2	48.9	83.8	19.0	14.2	240
+Kajiado	64.8	84.3	92.9	61.9	3.8	241
+Kericho	44.0	44.6	88.4	27.8	7.6	215
+Bomet	30.1	47.7	89.3	22.2	7.3	267
+Western	32.8	45.7	83.2	23.7	14.3	1,164
+Kakamega	39.9	57.6	91.7	31.0	4.9	411
+Vihiga	67.0	54.0	97.3	44.6	1.1	140
+Bungoma	14.0	25.0	66.7	8.2	31.6	413
+Busia	33.2	58.2	90.3	25.9	6.8	199
+Nyanza	29.6	41.5	81.5	19.7	13.4	1,405
+Siaya	50.3	57.8	93.7	37.6	4.3	213
+Kisumu	41.1	61.3	86.6	31.0	4.3	309
+Homa Bay	27.1	32.6	90.6	15.5	7.4	243
+Migori	19.2	38.5	87.5	12.4	11.5	211
+Kisii	16.4	25.1	57.8	5.6	32.0	315
+Nyamira	20.4	27.5	79.4	16.9	19.9	114
+Nairobi	63.3	83.2	88.3	51.6	1.1	1,568
+Total	15-49	41.3	58.9	85.5	32.7	9.6	12,063
+50-54	40.9	51.8	84.4	30.9	12.2	756
+Total	15-54	41.3	58.5	85.4	32.6	9.7	12,819

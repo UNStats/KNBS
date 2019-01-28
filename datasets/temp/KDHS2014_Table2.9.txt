@@ -1,0 +1,30 @@
+Table 2.9 Household composition
+Percent distribution of households by sex of head of household and by household size; mean size of household, and percentage of households with orphans and foster children under 18 years of age, according to residence, Kenya 2014
+	Residence
+Characteristic	Urban	Rural	Total
+Household headship
+Male	72.7	64.2	67.8
+Female	27.3	35.8	32.2
+Total	100.0	100.0	100.0
+Number of usual members
+0	0.1	0.0	0.0
+1	27.3	13.5	19.3
+2	16.6	10.2	12.9
+3	16.5	14.1	15.1
+4	15.6	17.0	16.4
+5	10.7	15.2	13.3
+6	6.1	10.9	8.8
+7	3.4	7.8	6.0
+8	1.8	5.2	3.8
+9+	1.9	6.2	4.4
+Total	100.0	100.0	100.0
+Mean size of households	3.2	4.4	3.9
+Percentage of households with orphans and foster children under	18 years of age
+Foster children1	10.8	21.3	16.9
+Double orphans	1.3	1.9	1.6
+Single orphans2	5.4	10.8	8.5
+Foster and/or orphan children	13.5	26.4	21.0
+Number of households	15,290	21,140	36,430
+Note: Table is based on de jure household members, i.e., usual residents.
+1 Foster children are those under age 18 living in households with neither their mother nor their father present.
+2 Includes children with one dead parent and an unknown survival status of the other parent.

@@ -1,0 +1,40 @@
+Table 7.12 Need and demand for family planning among currently married women
+Percentage of currently married women age 15-49 with unmet need for family planning, percentage with met need for family planning, the total demand for family planning, and the percentage of the demand for contraception that is satisfied, by background characteristics, Kenya 2014
+Background characteristic	Unmet need for family planning			Met need for family planning (currently using)			Total demand for family planning1			Percentage of demand satisfied2	Percentage of demand satisfied by modern methods3	Number of women
+	For spacing	For limiting	Total	For spacing	For limiting	Total	For spacing	For limiting	Total
+Age
+15-19	21.8	1.3	23.0	37.1	1.3	38.4	58.9	2.5	61.4	62.5	56.2	301
+20-24	17.1	1.8	18.9	43.5	9.5	53.1	60.6	11.3	71.9	73.8	68.3	1,465
+25-29	11.1	3.7	14.9	37.7	23.0	60.7	48.9	26.7	75.6	80.3	76.5	2,171
+30-34	7.5	8.3	15.9	24.5	39.2	63.7	32.0	47.6	79.6	80.0	74.4	1,717
+35-39	5.1	13.4	18.5	12.0	51.2	63.2	17.1	64.6	81.7	77.3	70.3	1,365
+40-44	3.3	18.5	21.8	5.0	54.0	59.0	8.2	72.5	80.8	73.1	65.3	923
+45-49	1.8	15.0	16.7	0.9	43.7	44.5	2.6	58.6	61.3	72.7	59.5	768
+Residence
+Urban	7.3	6.1	13.4	32.3	30.2	62.5	39.5	36.4	75.9	82.4	76.7	3,445
+Rural	10.4	9.7	20.2	20.8	34.3	55.1	31.2	44.0	75.2	73.2	66.7	5,265
+Region
+Coast	12.3	8.4	20.6	24.3	20.1	44.4	36.5	28.5	65.0	68.3	58.4	850
+North Eastern	27.2	2.7	29.9	2.8	0.6	3.4	30.1	3.3	33.3	10.2	10.2	209
+Eastern	4.0	8.4	12.4	27.4	43.1	70.5	31.4	51.5	82.9	85.1	77.2	1,268
+Central	3.0	5.8	8.8	30.8	42.3	73.0	33.8	48.1	81.8	89.3	83.9	1,113
+Rift Valley	11.1	9.7	20.8	25.2	27.4	52.6	36.2	37.1	73.4	71.6	62.3	2,171
+Western	11.0	9.7	20.7	24.9	34.7	59.6	35.9	44.4	80.3	74.2	71.8	929
+Nyanza	12.6	10.6	23.2	20.4	35.0	55.3	33.0	45.6	78.5	70.5	67.4	1,203
+Nairobi	6.3	4.8	11.1	29.1	33.2	62.3	35.4	38.0	73.4	84.9	81.5	968
+Education
+No education	18.7	9.1	27.7	7.2	11.8	19.0	25.9	20.9	46.8	40.7	35.8	795
+Primary incomplete	11.5	11.9	23.4	20.4	33.6	54.1	31.9	45.5	77.4	69.8	64.7	2,274
+Primary complete	7.3	8.1	15.3	26.0	38.7	64.7	33.3	46.7	80.0	80.8	74.9	2,465
+Secondary+	6.6	5.8	12.4	32.8	32.6	65.5	39.5	38.4	77.9	84.1	76.7	3,177
+Wealth quintile
+Lowest	18.4	10.2	28.6	13.5	17.6	31.1	31.9	27.8	59.7	52.1	45.6	1,457
+Second	11.4	11.7	23.1	22.4	35.8	58.3	33.8	47.6	81.4	71.6	66.4	1,567
+Middle	7.2	9.9	17.1	25.3	38.0	63.4	32.5	48.0	80.5	78.7	72.8	1,663
+Fourth	6.2	5.8	12.0	30.2	36.1	66.3	36.4	41.8	78.3	84.7	78.2	1,885
+Highest	5.5	5.5	11.0	31.2	33.5	64.8	36.7	39.0	75.7	85.5	78.8	2,138
+Total	9.2	8.3	17.5	25.3	32.7	58.0	34.5	41.0	75.5	76.8	70.7	8,710
+Note: Numbers in this table correspond to the revised definition of unmet need described in Bradley et al., 2012.
+1 Total demand is the sum of unmet need and met need
+2 Percentage of demand satisfied is met need divided by total demand
+3 Modern methods include female sterilisation, male sterilisation, pill, IUD, injectables, implants, male condom, female condom, and lactational amenorrhoea method (LAM)

@@ -1,0 +1,39 @@
+Table 10.5 Prevalence and treatment of fever
+Among children under age five, the percentage who had a fever in the two weeks preceding the survey; and among children with fever, the percentage for whom advice or treatment was sought from a health facility or provider, the percentage who took antimalarial drugs, and the percentage who received antibiotics as treatment, by background characteristics, Kenya 2014
+Background characteristic	Among children under age five:		Among children under age five with fever:
+	Percentage with fever	Number of children	Percentage for whom advice or treatment was sought from a health facility or provider1	Percentage who took antimalarial drugs	Percentage who took antibiotic drugs	Number of children
+Age in months
+<6	16.9	1,694	58.3	11.9	38.4	286
+'6-11	31.2	1,909	67.3	18.0	48.3	597
+'12-23	29.9	3,777	63.0	24.3	45.7	1,131
+24-35	24.8	3,760	60.8	29.5	41.5	933
+36-47	21.2	3,889	62.7	32.7	41.7	826
+48-59	21.5	3,672	61.6	34.0	40.7	789
+Sex
+Male	24.5	9,477	62.0	27.0	42.5	2,325
+Female	24.2	9,225	63.1	27.0	43.8	2,237
+Residence
+Urban	21.7	6,677	62.3	20.4	46.0	1,447
+Rural	25.9	12,025	62.6	30.0	41.8	3,114
+Region
+Coast	27.2	1,936	67.6	11.9	40.8	526
+North Eastern	8.7	625	49.5	7.3	42.1	54
+Eastern	18.2	2,235	68.7	18.1	47.5	406
+Central	17.9	1,725	68.2	4.8	58.6	308
+Rift Valley	20.9	5,457	61.6	13.3	50.3	1,139
+Western	36.1	2,166	51.5	51.8	38.6	782
+Nyanza	37.4	2,638	65.8	48.7	32.6	987
+Nairobi	18.7	1,920	63.3	10.6	44.9	359
+Mother’s education
+No education	17.7	2,218	60.7	17.5	39.8	392
+Primary incomplete	29.2	5,304	57.1	32.0	36.8	1,550
+Primary complete	24.2	5,164	64.4	27.7	45.2	1,250
+Secondary+	22.8	6,016	67.5	23.3	49.5	1,369
+Wealth quintile
+Lowest	25.1	4,457	59.5	23.1	38.1	1,119
+Second	28.5	3,803	63.3	36.3	39.5	1,082
+Middle	26.1	3,375	60.4	31.9	40.4	881
+Fourth	24.0	3,285	62.5	26.2	51.0	788
+Highest	18.3	3,782	69.0	13.2	51.6	691
+Total	24.4	18,702	62.5	27.0	43.2	4,562
+1 Excludes pharmacy, shop, market, and traditional practitioner

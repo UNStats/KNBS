@@ -1,0 +1,60 @@
+Table 10.4C Prevalence of symptoms of ARI
+Among children under age five, the percentage who had symptoms of acute respiratory infection (ARI) in the two weeks preceding the survey, according to county, Kenya 2014
+County	Among children under age five:
+	Percentage with symptoms of ARI1	Number of children
+Coast	7.2	1,936
+Mombasa	6.0	493
+Kwale	5.3	408
+Kilifi	8.7	705
+Tana River	7.6	166
+Lamu	8.9	52
+Taita Taveta	9.0	110
+North Eastern	4.0	625
+Garissa	2.9	223
+Wajir	6.5	252
+Mandera	1.5	150
+Eastern	8.7	2,235
+Marsabit	10.7	88
+Isiolo	10.7	81
+Meru	7.1	490
+Tharaka-Nithi	10.8	137
+Embu	6.3	194
+Kitui	9.9	424
+Machakos	7.8	474
+Makueni	10.3	346
+Central	7.2	1,725
+Nyandarua	7.5	232
+Nyeri	9.5	240
+Kirinyaga	3.2	188
+Murang’a	11.5	293
+Kiambu	5.9	772
+Rift Valley	8.3	5,457
+Turkana	2.5	333
+West Pokot	3.6	294
+Samburu	4.4	114
+Trans-Nzoia	9.3	516
+Uasin Gishu	7.3	463
+Elgeyo Marakwet	9.4	164
+Nandi	7.0	388
+Baringo	13.6	230
+Laikipia	11.7	206
+Nakuru	7.9	849
+Narok	11.7	614
+Kajiado	10.8	452
+Kericho	7.7	359
+Bomet	7.1	475
+Western	12.8	2,166
+Kakamega	11.9	721
+Vihiga	16.6	215
+Bungoma	15.6	842
+Busia	6.2	388
+Nyanza	9.7	2,638
+Siaya	11.4	378
+Kisumu	3.2	478
+Homa Bay	12.8	616
+Migori	12.7	516
+Kisii	10.0	463
+Nyamira	3.1	187
+Nairobi	5.9	1,920
+Total	8.5	18,702
+1 Symptoms of ARI, considered a proxy for pneumonia, include cough accompanied by short, rapid breathing which was chest-related and/or by difficult breathing which was chest-related.

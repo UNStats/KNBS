@@ -1,0 +1,39 @@
+Table 2.13.2 Educational attainment of the male household population
+Percent distribution of the de facto male household population age six and over by highest level of schooling attended or completed and median years completed, according to background characteristics, Kenya 2014
+Background characteristic	No education	Some primary	Completed primary1	Some secondary	Completed secondary2	More than secondary	Total	Number	Median years completed
+Age
+6-9	37.9	61.9	0.0	0.0	0.0	0.0	100.0	8,615	0.0
+10-14	3.7	93.5	0.6	2.0	0.1	0.0	100.0	9,441	3.5
+15-19	2.1	46.3	9.5	35.6	5.0	1.3	100.0	6,342	7.1
+20-24	2.6	16.5	20.6	17.5	25.5	17.3	100.0	5,133	9.9
+25-29	3.5	17.7	26.3	8.1	24.7	19.5	100.0	5,336	9.0
+30-34	4.3	21.9	27.0	7.2	22.6	16.6	100.0	4,589	7.9
+35-39	4.7	22.6	29.5	7.6	21.9	13.5	100.0	3,723	7.8
+40-44	6.0	21.7	26.8	7.8	24.6	12.8	100.0	2,923	7.8
+45-49	5.5	18.4	26.3	7.7	28.2	13.7	100.0	2,071	8.0
+50-54	8.9	15.8	28.4	8.4	24.0	13.7	100.0	1,997	7.0
+55-59	12.7	19.9	27.9	9.6	20.2	9.6	100.0	1,492	6.7
+60-64	19.3	26.1	25.9	6.8	13.7	8.1	100.0	1,286	6.2
+65+ 32.4	30.9	20.1	5.1	6.2	4.9	100.0	2,422	3.6
+Residence
+Urban	6.3	29.8	17.0	10.2	20.9	15.5	100.0	19,729	7.7
+Rural	13.7	49.3	14.7	9.2	8.7	4.2	100.0	35,652	5.2
+Region
+Coast	15.9	38.2	17.1	8.1	13.7	6.5	100.0	5,574	6.1
+North Eastern	49.2	35.0	4.8	4.8	3.0	2.8	100.0	1,640	0.0
+Eastern	8.5	49.0	17.5	9.0	10.2	5.8	100.0	8,388	5.8
+Central	3.8	36.3	19.1	12.7	18.9	9.2	100.0	6,637	7.3
+Rift Valley	13.8	44.4	14.7	8.2	11.2	7.6	100.0	14,341	5.8
+Western	8.8	54.7	11.8	11.3	8.5	4.7	100.0	6,114	5.3
+Nyanza	10.7	45.3	14.8	11.1	10.6	7.2	100.0	7,405	6.1
+Nairobi	3.1	21.9	17.0	9.1	26.4	22.0	100.0	5,281	10.5
+Wealth quintile
+Lowest	28.7	52.4	9.9	4.8	3.3	0.7	100.0	10,439	2.5
+Second	10.5	55.0	16.9	8.9	6.7	1.7	100.0	10,942	5.1
+Middle	7.9	46.8	18.7	11.6	10.9	4.0	100.0	11,217	6.3
+Fourth	5.9	35.3	19.5	11.9	18.8	8.3	100.0	11,865	7.3
+Highest	3.7	23.1	11.9	10.1	24.5	26.3	100.0	10,918	11.0
+Total	11.1	42.3	15.5	9.6	13.0	8.2	100.0 55,381 6.3
+Note: Totals may not add up to 100 percent because individuals with missing information on education are not shown separately. Total includes nine men for whom information on age is missing.
+1 Completed Grade 8 at the primary level, for those under age 45; because of the change in the school system in the 1980s, those age 45 and above are considered to have completed primary if they completed grade 7
+2 Completed Form 4 at the secondary level

@@ -1,0 +1,61 @@
+Table 2.3 Household characteristics
+Percent distribution of households by housing characteristics, percentage using solid fuel for cooking, and percent distribution by frequency of smoking in the home, according to residence, Kenya 2014
+	Residence
+Housing characteristic	Urban	Rural	Total
+Electricity
+Yes	68.4	12.6	36.0
+No	31.6	87.4	64.0
+Total	100.0	100.0	100.0
+Flooring material
+Earth, sand	10.9	43.1	29.6
+Dung	5.0	26.9	17.7
+Wood/planks	0.1	0.2	0.2
+Palm/bamboo	0.0	0.0	0.0
+Parquet or polished wood	0.4	0.1	0.3
+Vinyl or asphalt strips	1.4	0.0	0.6
+Ceramic tiles	7.3	0.8	3.5
+Cement	70.3	28.4	46.0
+Carpet	4.4	0.3	2.0
+Other	0.1	0.1	0.1
+Total	100.0	100.0	100.0
+Rooms used for sleeping
+One	68.4	42.0	53.1
+Two	21.3	36.5	30.2
+Three or more	9.9	21.1	16.4
+Total	100.0	100.0	100.0
+Place for cooking
+In the house	77.0	30.4	50.0
+In a separate building	14.5	61.1	41.5
+Outdoors	6.2	7.4	6.9
+No food cooked in household	2.3	1.0	1.5
+Other	0.0	0.0	0.0
+Missing	0.0	0.0	0.0
+Total	100.0	100.0	100.0
+Cooking fuel
+Electricity	0.9	0.1	0.4
+LPG/natural gas/biogas	24.5	2.0	11.5
+Paraffin/kerosene	26.6	1.3	11.9
+Coal/lignite	0.1	0.1	0.1
+Charcoal	27.6	9.7	17.2
+Wood	17.2	84.2	56.1
+Straw/shrubs/grass	0.7	1.4	1.1
+Agricultural crop	0.0	0.1	0.0
+Animal dung	0.0	0.0	0.0
+Other	0.0	0.0	0.0
+No food cooked in household	2.3	1.0	1.5
+Total	100.0	100.0	100.0
+Percentage using solid fuel for cooking1	45.6	95.5	74.6
+Number of all households	15,290	21,140	36,430
+Frequency of smoking in the home
+Daily	10.9	12.9	12.1
+Weekly	1.8	1.9	1.9
+Monthly	0.2	0.5	0.4
+Less than monthly	0.6	0.5	0.5
+Never	86.3	84.1	85.0
+Total	100.0	100.0	100.0
+Number of households selected for full questionnaire	7,280	10,080	17,360
+LPG = Liquid petroleum gas
+Note: Totals may not add up to 100 percent because households with missing
+information are not shown separately.
+1 Includes coal/lignite, charcoal, wood, straw/shrubs/grass, agricultural crops,
+and animal dung.

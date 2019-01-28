@@ -1,0 +1,37 @@
+Table 13.22 Recent HIV tests among youth
+Among young women and young men age 15-24 who have had sexual intercourse in the past 12 months, the percentage who were tested for HIV in the past 12 months and received the results of the last test, by background characteristics, Kenya 2014
+Background characteristic	Women age 15-24 who have had sexual intercourse in the past 12 months:		Men age 15-24 who have had sexual intercourse in the past 12 months:
+	Percentage who have been tested for HIV in the past 12 months and received the results of the last test	Number of women	Percentage who have been tested for HIV in the past 12 months and received the results of the last test	Number of men
+Age
+15-19	64.6	724	40.1	644
+15-17	60.9	252	33.3	251
+18-19	66.6	472	44.5	393
+20-24	70.5	2,076	60.4	1,548
+20-22	69.9	1,221	57.6	915
+23-24	71.2	856	64.4	633
+Marital status
+Never married	67.1	905	52.8	1,748
+Ever married	69.9	1,896	60.8	444
+Knows condom source 1/
+Yes	70.5	2,311	55.5	2,113
+No	61.5	490	25.4	79
+Region
+Coast	69.0	281	42.5	216
+North Eastern	35.2	38 (27.1) 9
+Eastern	62.1	312	49.5	303
+Central	66.7	254	52.1	236
+Rift Valley	69.2	805	50.1	590
+Western	65.2	300	45.2	187
+Nyanza	74.7	394	69.6	303
+Nairobi	75.3	416	67.3	347
+Residence
+Urban	75.3	1,292	59.1	982
+Rural	63.5	1,509	50.6	1,210
+Education
+No education	45.2	147	19.6	30
+Primary incomplete	60.2	617	38.0	495
+Primary complete	72.5	652	55.3	477
+Secondary+	73.7	1,383	61.7	1,191
+Total	69.0	2,800	54.4	2,192
+Note: Figures in parentheses are based on 25-49 unweighted cases.
+1/ For this table, the following responses are not considered a source for condoms: friends, family members and home.

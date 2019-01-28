@@ -1,0 +1,27 @@
+Table 8.2 Early childhood mortality rates by socioeconomic characteristics
+Neonatal, postneonatal, infant, child, and under-5 mortality rates for the 10-year period preceding the survey, by background characteristics, Kenya 2014
+Background characteristic	Neonatal mortality (NN)	Postneonatal mortality (PNN)1	Infant mortality (1q0)	Child mortality (4q1)	Under-5 mortality (5q0)
+Residence
+Urban	26	16	43	15	57
+Rural	21	18	40	16	56
+Region
+Coast	25	19	44	14	57
+North Eastern	24	13	37	8 44
+Eastern	24	12	36	9 45
+Central	24	14	38	4 42
+Rift Valley	20	14	34	12	45
+Western	19	21	40	25	64
+Nyanza	19	31	50	33	82
+Nairobi	39	16	55	17	72
+Mother’s education
+No education	21	16	36	15	51
+Primary incomplete	22	22	44	20	63
+Primary complete	25	15	40	17	56
+Secondary+	23	17	40	11	51
+Wealth quintile
+Lowest	20	20	40	18	57
+Second	23	19	42	23	63
+Middle	21	17	39	16	54
+Fourth	26	20	46	13	58
+Highest	26	13	38	9 47
+1 Computed as the difference between the infant and neonatal mortality rates

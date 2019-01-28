@@ -1,0 +1,42 @@
+Table 7.18 Men’s attitudes towards contraception
+Percentage of men age 15-49 who agree with statements about contraceptive use, by background characteristics, Kenya 2014
+Background characteristic
+Woman’s business
+Woman may become promiscuous
+Number of men
+Age
+15-19	13.4	27.8	2,540
+20-24	11.3	34.2	2,125
+25-29	12.1	29.9	2,104
+30-34	14.0	27.5	1,785
+35-39	14.2	26.4	1,483
+40-44	11.6	29.3	1,224
+45-49	13.4	28.8	800
+Marital status
+Never married	11.9	30.5	5,350
+Married or living together	12.7	27.1	6,095
+Divorced/separated/widowed	21.3	40.2	618
+Residence
+Urban	12.7	27.4	5,300
+Rural	12.9	30.7	6,762
+Region
+Coast	14.9	34.1	1,260
+North Eastern	16.7	16.9	227
+Eastern	18.3	37.7	1,825
+Central	10.7	21.2	1,564
+Rift Valley	8.5	25.3	3,050
+Western	4.7	32.0	1,164
+Nyanza	16.1	29.3	1,405
+Nairobi	17.6	31.2	1,568
+Education
+No education	19.9	38.1	345
+Primary incomplete	19.0	35.0	3,071
+Primary complete	15.4	33.3	2,734
+Secondary+	8.0	23.9	5,913
+Wealth quintile
+Lowest	17.1	35.1	1,691
+Second	14.1	33.1	2,145
+Middle	13.5	32.8	2,370
+Fourth	11.9	27.6	2,959
+Highest	9.6	21.9	2,897
+Total	12.8	29.3	12,063

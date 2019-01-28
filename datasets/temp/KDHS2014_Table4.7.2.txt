@@ -1,0 +1,53 @@
+Table 4.7.2 Recent sexual activity: Men
+Percent distribution of men age 15-49 by timing of last sexual intercourse, according to background characteristics, Kenya 2014
+Background characteristic	Timing of last sexual intercourse			Never had sexual intercourse	Total	Number of men
+	Within the past 4 weeks	Within 1 year1	One or more years
+Age
+15-19	9.6	15.8	15.0	59.4	100.0	2,540
+20-24	38.0	34.8	15.6	11.5	100.0	2,125
+25-29	62.2	26.6	7.9	2.8	100.0	2,104
+30-34	75.2	19.0	5.1	0.6	100.0	1,785
+35-39	77.8	16.4	5.4	0.3	100.0	1,483
+40-44	79.6	15.7	4.2	0.3	100.0	1,224
+45-49	77.2	16.5	5.8	0.3	100.0	800
+Marital status
+Never married	20.1	27.7	17.7	34.3	100.0	5,350
+Married or living together	84.4	14.5	0.9	0.0	100.0	6,095
+Divorced/separated/widowed	37.3	38.9	23.8	0.0	100.0	618
+Marital duration2
+0-4 years	84.6	13.7	0.8	0.0	100.0	1,483
+5-9 years	82.7	16.7	0.5	0.0	100.0	1,282
+10-14 years	85.2	13.5	1.2	0.0	100.0	1,089
+15-19 years	84.1	14.7	1.1	0.0	100.0	735
+20-24 years	82.4	15.9	1.7	0.0	100.0	358
+25+ years	87.4	12.2	0.4	0.0	100.0	127
+Married more than once	85.7	13.5	0.7	0.0	100.0	1,021
+Residence
+Urban	56.7	24.1	8.4	10.4	100.0	5,300
+Rural	51.0	19.6	10.4	19.0	100.0	6,762
+Region
+Coast	48.8	23.1	11.0	16.7	100.0	1,260
+North Eastern	37.1	9.9	9.8	43.1	100.0	227
+Eastern	51.7	20.6	11.9	15.9	100.0	1,825
+Central	54.4	20.4	9.5	15.5	100.0	1,564
+Rift Valley	54.0	22.1	9.6	14.3	100.0	3,050
+Western	48.3	19.1	11.1	21.4	100.0	1,164
+Nyanza	56.1	20.6	7.5	15.6	100.0	1,405
+Nairobi	61.0	26.3	6.2	5.9	100.0	1,568
+Education
+No education	58.4	21.0	9.4	11.1	100.0	345
+Primary incomplete	48.6	17.9	9.4	24.1	100.0	3,071
+Primary complete	64.0	21.1	8.2	6.4	100.0	2,734
+Secondary+	50.8	23.8	10.2	14.9	100.0	5,913
+Wealth quintile
+Lowest	49.6	18.3	11.5	20.4	100.0	1,691
+Second	50.9	21.4	10.0	17.7	100.0	2,145
+Middle	50.1	21.3	10.8	17.6	100.0	2,370
+Fourth	52.7	24.0	8.8	14.4	100.0	2,959
+Highest	61.1	21.5	7.6	9.3	100.0	2,897
+Total	15-49	53.5	21.6	9.5	15.2	100.0	12,063
+50-54	75.1	17.0	7.2	0.1	100.0	756
+Total	15-54	54.7	21.3	9.4	14.3	100.0	12,819
+Note: Totals may not add up to	100 percent because men with missing information are not shown separately.
+1 Excludes men who had sexual intercourse within the last 4 weeks
+2 Excludes men who are not currently married

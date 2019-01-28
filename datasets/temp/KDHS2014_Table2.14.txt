@@ -1,0 +1,47 @@
+Table 2.14 School attendance ratios
+Net attendance ratios (NAR) and gross attendance ratios (GAR) for the de facto household population by sex and level of schooling; and the Gender Parity Index (GPI), according to background characteristics, Kenya 2014
+Background characteristic	Net attendance ratio1				Gross attendance ratio2
+	Male	Female	Total	Gender Parity Index3	Male	Female	Total	Gender Parity Index3
+PRIMARY SCHOOL
+Residence
+Urban	88.1	90.2	89.2	1.02	106.6	103.2	104.9	0.97
+Rural	83.6	85.3	84.5	1.02	110.1	106.4	108.2	0.97
+Region
+Coast	76.6	80.3	78.5	1.05	103.4	100.2	101.8	0.97
+North Eastern	59.6	50.5	55.5	0.85	81.0	61.5	72.2	0.76
+Eastern	90.8	92.3	91.5	1.02	118.8	114.9	116.8	0.97
+Central	93.7	95.0	94.3	1.01	111.9	108.4	110.2	0.97
+Rift Valley	84.1	85.9	85.0	1.02	108.4	105.5	107.0	0.97
+Western	86.1	89.5	87.9	1.04	118.0	114.3	116.0	0.97
+Nyanza	83.8	85.3	84.5	1.02	105.8	102.9	104.3	0.97
+Nairobi	92.3	93.2	92.8	1.01	105.7	101.2	103.3	0.96
+Wealth quintile
+Lowest	71.0	71.1	71.0	1.00	97.5	90.5	94.1	0.93
+Second	86.9	89.5	88.2	1.03	115.6	112.9	114.2	0.98
+Middle	89.4	91.6	90.5	1.02	116.7	114.5	115.6	0.98
+Fourth	91.0	93.0	92.0	1.02	112.5	108.4	110.4	0.96
+Highest	91.6	92.6	92.2	1.01	103.9	101.3	102.6	0.97
+Total	84.8	86.7	85.7	1.02	109.2	105.5	107.3	0.97
+SECONDARY SCHOOL
+Residence
+Urban	44.2	42.9	43.6	0.97	67.9	61.5	64.7	0.91
+Rural	26.8	30.4	28.5	1.13	51.3	49.4	50.4	0.96
+Region
+Coast	22.1	22.2	22.1	1.00	44.8	38.3	41.7	0.85
+North Eastern	21.4	16.3	19.3	0.76	40.7	26.1	34.7	0.64
+Eastern	27.0	35.0	30.7	1.30	52.4	55.1	53.7	1.05
+Central	50.6	58.1	54.2	1.15	80.7	82.6	81.6	1.02
+Rift Valley	26.6	28.7	27.6	1.08	48.4	49.1	48.8	1.02
+Western	24.3	28.0	26.1	1.15	50.6	46.2	48.5	0.91
+Nyanza	38.7	36.3	37.5	0.94	64.0	52.8	58.5	0.83
+Nairobi	51.7	45.2	48.3	0.87	70.9	61.8	66.1	0.87
+Wealth quintile
+Lowest	12.8	13.6	13.1	1.06	27.6	23.9	25.9	0.86
+Second	22.9	27.7	25.2	1.21	46.0	46.1	46.0	1.00
+Middle	31.4	33.9	32.6	1.08	60.7	55.2	58.1	0.91
+Fourth	41.9	47.0	44.3	1.12	66.7	69.6	68.0	1.04
+Highest	64.4	52.7	58.0	0.82	97.5	75.1	85.4	0.77
+Total	31.3	33.9	32.6	1.08	55.6	52.8	54.3	0.95
+1 The NAR for primary school is the percentage of the primary-school age (6-13 years) population that is attending primary school. The NAR for secondary school is the percentage of the secondary-school age (14-17 years) population that is attending secondary school. By definition the NAR cannot exceed 100 percent.
+2 The GAR for primary school is the total number of primary school students, expressed as a percentage of the official primaryschool-age population. The GAR for secondary school is the total number of secondary school students, expressed as a percentage of the official secondary-school-age population. If there are significant numbers of overage and underage students at a given level of schooling, the GAR can exceed 100 percent.
+3 The Gender Parity Index for primary school is the ratio of the primary school NAR(GAR) for females to the NAR(GAR) for males. The Gender Parity Index for secondary school is the ratio of the secondary school NAR(GAR) for females to the NAR(GAR) for males.

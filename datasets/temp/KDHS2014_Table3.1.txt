@@ -1,0 +1,70 @@
+Table 3.1 Background characteristics of respondents
+Percent distribution of women and men age 15-49 by selected background characteristics, Kenya 2014
+Background characteristic	Women			Men
+Weighted percent	Weighted number	Unweighted number	Weighted percent	Weighted number	Unweighted number
+Age
+15-19	18.7	5,820	6,078	21.1	2,540	2,811
+20-24	18.5	5,735	5,405	17.6	2,125	1,981
+25-29	19.6	6,100	5,939	17.4	2,104	1,942
+30-34	14.5	4,510	4,452	14.8	1,785	1,701
+35-39	12.1	3,773	3,868	12.3	1,483	1,486
+40-44	9.3	2,885	2,986	10.1	1,224	1,198
+45-49	7.3	2,257	2,351	6.6	800	895
+Religion
+Roman Catholic	20.3	6,315	6,229	21.4	2,583	2,551
+Protestant/other Christian	71.1	22,091	20,072	67.5	8,141	7,500
+Muslim	6.8	2,107	4,161	6.5	784	1,460
+No religion	1.5	466	506	4.1	492	449
+Other	0.2	65	73	0.5	59	51
+Ethnic group
+Embu	1.0	312	398	1.0	118	170
+Kalenjin	12.0	3,718	4,335	12.2	1,467	1,729
+Kamba	11.4	3,543	2,950	12.6	1,521	1,275
+Kikuyu	21.9	6,798	5,033	20.9	2,523	1,946
+Kisii	5.7	1,771	1,788	5.9	712	680
+Luhya	15.0	4,667	3,653	16.0	1,927	1,555
+Luo	11.1	3,453	3,060	10.9	1,311	1,179
+Maasai	1.9	589	655	1.8	220	235
+Meru	5.6	1,749	1,593	5.9	717	682
+Mijikenda/Swahili	5.3	1,642	1,708	5.2	623	648
+Somali	2.6	816	1,815	2.2	260	616
+Taita/Taveta	0.9	295	452	1.1	134	199
+Turkana	1.3	394	717	0.9	106	191
+Samburu	0.5	143	620	0.1	12	45
+Other	3.8	1,186	2,294	3.3	399	848
+Marital status
+Never married	28.9	8,997	8,575	44.4	5,350	5,384
+Married	54.6	16,961	17,751	48.4	5,839	5,748
+Living together	5.1	1,588	1,285	2.1	256	241
+Divorced/separated	7.7	2,394	2,277	4.7	567	585
+Widowed	3.7	1,139	1,191	0.4	50	56
+Residence
+Urban	40.8	12,690	11,614	43.9	5,300	4,648
+Rural	59.2	18,389	19,465	56.1	6,762	7,366
+Region
+Coast	9.9	3,076	3,902	10.4	1,260	1,505
+North Eastern	2.1	648	1,664	1.9	227	591
+Eastern	14.1	4,375	5,247	15.1	1,825	2,144
+Central	12.9	3,994	3,114	13.0	1,564	1,248
+Rift Valley	25.6	7,953	9,059	25.3	3,050	3,484
+Western	10.4	3,225	2,840	9.6	1,164	1,130
+Nyanza	13.0	4,038	4,254	11.6	1,405	1,542
+Nairobi	12.1	3,770	999	13.0	1,568	370
+Education
+No education	7.0	2,176	4,183	2.9	345	663
+Primary incomplete	25.7	7,989	8,431	25.5	3,071	3,466
+Primary complete	24.6	7,637	7,182	22.7	2,734	2,720
+Secondary incomplete	15.8	4,922	4,537	16.2	1,960	1,850
+Secondary complete	15.7	4,880	4,058	18.9	2,282	1,980
+More than secondary	11.2	3,475	2,688	13.9	1,671	1,335
+Wealth quintile
+Lowest	15.6	4,838	7,262	14.0	1,691	2,504
+Second	17.6	5,457	5,970	17.8	2,145	2,443
+Middle	19.4	6,032	5,946	19.7	2,370	2,466
+Fourth	21.1	6,550	5,958	24.5	2,959	2,579
+Highest	26.4	8,203	5,943	24.0	2,897	2,022
+Total 15-49	100.0	31,079	31,079	100.0	12,063	12,014
+50-54	na	na	na	na	756	805
+Total 15-54	na	na	na	na	12,819	12,819
+Note: Totals may not add up to 100 percent because women and men with missing information are not shown separately.
+na = Not applicable

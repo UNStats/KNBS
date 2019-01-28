@@ -1,0 +1,14 @@
+Table 10.2 Vaccinations by source of information
+Percentage of children age 12-23 months who received specific vaccines at any time before the survey, by source of information (vaccination card or mother’s report), and percentage vaccinated by 12 months of age, Kenya 2014
+Source of information	BCG	DPT-HepB-Hib1	Polio2	Measles	All basic vaccinations3	Pneumococcal	Fully vaccinated4	No vaccinations	Number of children
+		1	2	3	0	1	2	3			1	2	3
+Vaccinated at any time before survey
+Vaccination card	73.2	74.2	73.5	70.9	57.4	74.5	73.7	71.3	65.4	63.0	71.2	69.8	67.1	59.6	0.0	2,820
+Mother’s report	23.5	23.3	22.4	18.9	8.8	23.6	22.3	18.8	21.7	16.3	22.5	21.1	18.0	15.2	1.6	957
+Either source	96.7	97.5	95.8	89.9	66.2	98.0	96.1	90.0	87.1	79.4	93.7	90.8	85.1	74.9	1.6	3,777
+Vaccinated by 12 months of age5	95.9	97.0	94.9	88.3	66.1	97.5	94.9	88.1	78.9	71.3	93.0	90.0	83.2	67.2	2.0	3,777
+1 DPT-HepB-Hib is also called pentavalent.
+2 Polio 0 is the polio vaccination given at birth. The data on polio vaccination were adjusted for a likely misinterpretation of polio 0 and polio 1; for children whose mothers reported that they received three doses of DPT-HepB-Hib and polio 0, polio 1, and polio 2, it was assumed that polio 0 was in fact polio 1, polio 1 was polio 2 and polio 2 was polio 3.
+3 BCG, measles, and three doses each of DPT-HepB-Hib and polio vaccine (excluding polio vaccine given at birth)
+4 BCG, measles, and three doses each of DPT-HepB-Hib, polio (excluding polio vaccine given at birth), and pneumococcal vaccine
+5 For children whose information is based on the mother’s report, the proportion of vaccinations given during the first year of life is assumed to be the same as for children with a written record of vaccination.

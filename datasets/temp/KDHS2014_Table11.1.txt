@@ -1,0 +1,67 @@
+Table 11.1 Nutritional status of children
+Percentage of children under five years classified as malnourished according to three anthropometric indices of nutritional status: height-for-age, weight-for-height, and weight-for-age, by background characteristics, Kenya 2014
+Background characteristic	Height-for-age1			Weight-for-height				Weight-for-age				Number of children
+	Percentage below -3 SD	Percentage below -2 SD2	Mean Z-score (SD)	Percentage below -3 SD	Percentage below -2 SD2	Percentage above +2 SD	Mean Z-score (SD)	Percentage below -3 SD	Percentage below -2 SD2	Percentage above +2 SD	Mean Z-score (SD)
+Age in months
+<6	2.8	10.0	-0.3	1.4	3.7	14.4	0.5	1.0	3.7	4.3	0.1	1,612
+'6-8	3.8	12.3	-0.4	2.0	6.5	6.9	0.1	1.5	8.0	2.9	-0.3	934
+'9-11	4.5	16.7	-0.7	1.6	6.5	4.7	-0.1	2.3	8.8	2.5	-0.5	966
+'12-17	8.5	26.5	-1.1	1.3	5.5	4.3	-0.1	2.6	11.1	1.9	-0.6	1,995
+'18-23	11.7	35.5	-1.4	1.1	4.7	3.9	-0.0	2.7	11.8	1.5	-0.7	1,786
+24-35	10.4	33.6	-1.4	0.4	3.0	2.7	0.0	2.8	12.5	0.7	-0.7	3,921
+36-47	8.7	28.6	-1.3	0.8	3.3	2.7	-0.0	2.2	12.2	0.8	-0.8	4,013
+48-59	7.2	23.3	-1.2	0.6	3.7	1.8	-0.2	2.2	12.1	0.5	-0.8	3,759
+Sex
+Male	9.7	29.7	-1.3	1.0	4.4	4.7	0.0	2.7	12.1	1.5	-0.7	9,653
+Female	6.3	22.3	-1.0	0.8	3.7	3.5	-0.0	1.8	9.8	1.3	-0.6	9,334
+Birth interval in months3
+First birth4	6.1	21.8	-1.0	0.7	3.6	5.7	0.1	1.5	8.2	1.6	-0.5	4,281
+<24	10.9	32.6	-1.4	0.8	4.3	3.1	-0.1	3.0	13.7	1.4	-0.8	2,249
+24-47	9.3	29.6	-1.3	1.4	4.7	3.4	-0.1	2.7	13.2	1.2	-0.8	6,404
+48+	5.7	21.0	-0.9	0.7	3.4	4.6	0.1	1.6	8.0	1.5	-0.5	4,267
+Size at birth3
+Very small	19.6	42.8	-1.7	1.4	7.7	1.4	-0.4	6.4	24.1	0.1	-1.3	255
+Small	12.2	34.2	-1.5	0.6	6.0	4.9	-0.2	3.1	18.0	0.3	-1.0	956
+Average or larger	6.7	24.0	-1.1	0.9	3.1	4.4	0.1	1.5	9.1	1.5	-0.6	6,943
+Don’t know/missing	13.0	31.5	-1.4	6.0	10.3	4.0	-0.4	6.5	19.4	0.0	-1.1	109
+Mother’s interview status
+Interviewed	7.8	25.9	-1.1	1.0	4.1	4.2	0.0	2.2	10.7	1.4	-0.6	17,201
+Not interviewed but in household	7.1	20.7	-0.8	0.2	2.7	4.2	0.1	2.3	10.1	2.3	-0.4	365
+Not interviewed and not in the household5	11.5	28.9	-1.2	0.4	4.0	2.8	-0.1	3.5	14.4	0.9	-0.7	1,420
+Mother’s nutritional status6
+Thin (BMI <18.5)	10.3	30.6	-1.5	1.4	9.0	1.8	-0.6	5.0	23.6	0.1	-1.2	644
+Normal (BMI	18.5-24.9)	8.6	28.1	-1.2	0.8	3.4	3.3	-0.0	2.0	11.1	1.0	-0.7	4,507
+Overweight/obese (BMI ≥25)	5.0	18.7	-0.9	0.9	2.8	6.4	0.3	1.1	5.3	2.0	-0.3	2,145
+Residence
+Urban	5.7	19.8	-0.9	0.8	3.4	5.5	0.1	1.5	7.0	2.4	-0.4	6,206
+Rural	9.2	29.1	-1.3	1.0	4.4	3.4	-0.1	2.7	12.9	0.9	-0.8	12,780
+Region
+Coast	10.4	30.8	-1.3	0.8	4.5	3.3	-0.1	2.4	13.6	1.2	-0.8	1,926
+North Eastern	10.7	24.7	-0.9	2.6	13.3	2.6	-0.7	4.5	19.0	1.2	-1.0	604
+Eastern	8.2	30.1	-1.3	1.2	4.4	4.3	-0.1	2.2	12.2	0.9	-0.8	2,409
+Central	4.9	18.4	-0.9	0.2	2.3	6.2	0.2	1.2	5.3	2.4	-0.3	1,694
+Rift Valley	9.3	29.8	-1.3	1.3	5.7	3.7	-0.2	3.6	15.3	1.0	-0.8	5,466
+Western	8.2	25.2	-1.1	0.4	1.9	3.4	0.1	1.5	9.0	1.3	-0.6	2,476
+Nyanza	7.6	22.7	-1.0	0.4	2.0	4.4	0.2	1.3	7.4	2.0	-0.4	2,769
+Nairobi	3.9	17.2	-0.7	0.8	2.5	5.3	0.2	1.2	3.8	1.7	-0.2	1,643
+Mother’s education7
+No education	11.0	30.6	-1.3	2.3	10.2	2.2	-0.5	4.5	20.6	0.8	-1.1	2,110
+Primary incomplete	10.8	33.5	-1.4	0.9	3.9	3.5	-0.0	2.8	13.3	0.8	-0.8	5,059
+Primary complete	7.7	25.5	-1.2	0.9	2.8	3.3	0.0	1.7	9.5	1.0	-0.6	4,853
+Secondary+	3.9	17.2	-0.8	0.5	3.0	6.4	0.2	1.2	5.6	2.6	-0.3	5,544
+Wealth quintile
+Lowest	12.3	35.9	-1.5	1.6	7.3	2.1	-0.3	4.2	19.5	0.5	-1.1	4,608
+Second	9.5	30.2	-1.3	0.8	3.0	3.6	0.0	2.7	12.1	0.8	-0.8	4,096
+Middle	7.4	25.4	-1.2	0.8	3.7	4.0	0.1	1.9	9.1	1.2	-0.6	3,536
+Fourth	6.2	20.7	-1.0	0.6	2.7	5.4	0.1	1.1	6.9	1.7	-0.5	3,299
+Highest	3.3	13.8	-0.6	0.6	2.5	6.3	0.2	0.8	4.0	3.1	-0.2	3,447
+Total	8.1	26.0	-1.1	0.9	4.0	4.1	0.0	2.3	11.0	1.4	-0.6	18,986
+Note: Table is based on children who stayed in the household on the night before the interview. Each of the indices is expressed in standard deviation units (SD) from the median of the WHO Child Growth Standards adopted in 2006. The indices in this table are NOT comparable to those based on the previously used NCHS/CDC/WHO reference.
+Table is based on children with valid dates of birth (month and year) and valid measurement of both height and weight.
+1 Recumbent length is measured for children under age 2, or in the few cases when the age of the child is unknown and the child is less than 87 cm; standing height is measured for all other children.
+2 Includes children who are below -3 standard deviations (SD) from the WHO Child Growth standards population median
+3 Excludes children whose mothers were not interviewed. Data only available from respondents to the full questionnaire.
+4 First-born twins (triplets, etc.) are counted as first births because they do not have a previous birth interval
+5 Includes children whose mothers are deceased
+6 Excludes children whose mothers were not weighed and measured, children whose mothers were not interviewed, and children whose mothers are pregnant or gave birth within the preceding 2 months. Mother’s nutritional status in terms of BMI (Body Mass Index) is presented in Table 11.10.
+7 For women who are not interviewed, information is taken from the Household Questionnaire. Excludes children whose mothers are not listed in the Household Questionnaire

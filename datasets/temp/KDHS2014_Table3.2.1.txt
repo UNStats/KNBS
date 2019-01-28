@@ -1,0 +1,34 @@
+Table 3.2.1 Educational attainment: Women
+Percent distribution of women age 15-49 by highest level of schooling attended or completed, and median years completed, according to background characteristics, Kenya 2014
+Background characteristic	Highest level of schooling						Total	Median years completed	Number of women
+	No education	Some primary	Completed primary1	Some secondary	Completed secondary2	More than secondary
+Age
+15-24	3.8	27.0	18.6	26.4	15.8	8.4	100.0	7.9	11,555
+15-19	2.3	36.1	13.8	36.5	8.5	2.8	100.0	7.6	5,820
+20-24	5.3	17.7	23.6	16.2	23.2	14.1	100.0	8.7	5,735
+25-29	7.7	20.9	27.5	10.3	16.9	16.7	100.0	7.8	6,100
+30-34	7.8	25.7	28.2	8.7	15.7	14.0	100.0	7.6	4,510
+35-39	8.9	27.3	28.3	9.1	15.2	11.1	100.0	7.5	3,773
+40-44	10.1	31.6	26.3	9.2	14.6	8.3	100.0	7.3	2,885
+45-49	12.8	22.1	31.3	10.8	14.2	8.7	100.0	6.7	2,257
+Residence
+Urban	3.6	14.1	24.1	15.8	22.9	19.4	100.0	9.4	12,690
+Rural	9.3	33.7	24.9	15.9	10.7	5.5	100.0	7.2	18,389
+Region
+Coast	16.3	29.0	23.1	11.0	14.5	6.0	100.0	7.2	3,076
+North Eastern	74.9	9.9	4.8	4.1	3.5	2.7	100.0	0.0	648
+Eastern	4.8	28.4	31.2	15.6	11.8	8.3	100.0	7.5	4,375
+Central	0.9	14.7	29.7	17.8	21.8	15.1	100.0	8.8	3,994
+Rift Valley	9.2	27.7	22.7	15.3	14.0	11.0	100.0	7.5	7,953
+Western	2.8	40.8	19.5	20.0	9.6	7.3	100.0	7.2	3,225
+Nyanza	1.4	33.4	25.3	18.6	13.5	7.7	100.0	7.5	4,038
+Nairobi	1.7	8.9	23.4	14.7	27.9	23.5	100.0	11.0	3,770
+Wealth quintile
+Lowest	30.6	42.5	16.5	7.1	2.7	0.4	100.0	5.0	4,838
+Second	3.9	44.1	27.6	15.3	7.5	1.6	100.0	7.0	5,457
+Middle	3.0	29.6	30.5	20.1	12.0	4.9	100.0	7.5	6,032
+Fourth	2.4	17.1	28.9	19.9	21.6	10.1	100.0	8.0	6,550
+Highest	1.8	7.5	19.5	15.0	26.8	29.4	100.0	11.2	8,203
+Total	7.0	25.7	24.6	15.8	15.7	11.2	100.0	7.6	31,079
+1 Completed Grade 8 at the primary level, for those under age 45; because of the change in the school system in the 1980s, those age 45 and above are considered to have completed primary if they completed Grade 7.
+2 Completed Form 4 at the secondary level

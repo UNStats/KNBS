@@ -1,0 +1,26 @@
+Table 7.1 Knowledge of contraceptive methods
+Percentage of all respondents, currently married respondents and sexually active unmarried respondents age 15-49 who know any contraceptive method, by specific method, Kenya 2014
+Method	Women			Men
+	All women	Currently married women	Sexually active unmarried women1 	All men	Currently married men	Sexually active unmarried men1
+Any method	98.4	98.7	100.0	99.3	99.7	100.0
+Any modern method	98.4	98.7	100.0	99.3	99.7	100.0
+Female sterilisation	78.5	84.2	83.6	76.2	87.0	78.2
+Male sterilisation	46.6	50.3	50.2	55.6	65.4	56.3
+Pill	94.2	97.0	97.5	91.7	96.8	93.6
+IUD	77.3	85.8	84.7	63.0	77.3	61.6
+Injectables	95.3	98.0	99.3	92.4	97.9	96.2
+Implants	85.6	92.4	93.1	65.3	80.7	64.7
+Male condom	96.4	96.8	99.1	98.8	99.3	100.0
+Female condom	75.6	78.9	84.6	79.0	87.1	84.8
+Lactational amenorrhoea (LAM)	12.1	14.2	11.5	8.7	11.2	7.8
+Emergency contraception	59.2	60.4	73.6	62.5	70.6	70.3
+Any traditional method	83.8	88.7	91.8	85.9	94.9	90.8
+Rhythm	78.9	83.5	87.1	80.8	90.8	84.7
+Withdrawal	61.2	67.5	78.0	71.9	82.8	79.2
+Other methods	4.6	5.7	4.6	3.4	4.4	2.8
+Mean number of methods known by respondents 15-49	8.7	9.1	9.5	8.5	9.5	8.8
+Number of respondents	31,079	18,549	583	12,063	6,095	1,308
+Mean number of methods known by respondents	 5-54	na	na	na	8.5	9.5	8.8
+Number of respondents	na	na	na	12,819	6,762	1,338
+na = Not applicable
+1 Had last sexual intercourse within 30 days preceding the survey

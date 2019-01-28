@@ -1,0 +1,48 @@
+Table 9.6 Assistance during delivery
+Percent distribution of live births in the five years preceding the survey by person providing assistance during delivery, percentage of birth assisted by a skilled provider and
+percentage delivered by caesarean-section, according to background characteristics, Kenya 2014
+Background characteristic	Person providing assistance during delivery									Percentage delivered by a skilled provider1	Percentage delivered by C-section	Number of births
+	Doctor	Nurse/midwife	Community health worker	Traditional birth attendant	Relative/friend 	Other	No one	Don’t know/ missing	Total
+Mother’s age at birth
+<20	24.3	37.8	0.4	21.6	13.3	0.4	1.9	0.3	100.0	62.1	5.9	2,924
+20-34	27.1	36.0	0.3	19.0	12.1	0.9	4.2	0.4	100.0	63.1	9.0	14,342
+35-49	23.2	30.7	0.3	19.2	14.1	1.5	10.5	0.5	100.0	53.9	10.0	2,298
+Birth order
+1	36.0	43.1	0.2	11.9	7.3	0.4	0.7	0.4	100.0	79.1	13.1	5,176
+2-3	29.5	36.8	0.3	17.9	11.6	0.6	2.9	0.3	100.0	66.3	9.7	7,651
+4-5	17.1	31.4	0.5	25.6	17.2	1.7	6.1	0.4	100.0	48.5	4.2	3,785
+6+	12.4	24.8	0.4	28.7	17.7	1.6	13.8	0.5	100.0	37.2	3.9	2,952
+Antenatal care visits2
+None	8.6	10.0	0.0	39.7	26.1	1.3	12.5	1.7	100.0	18.6	1.4	573
+1-3	23.4	34.3	0.3	20.7	14.0	1.0	6.2	0.1	100.0	57.7	6.5	5,505
+4+	33.9	41.8	0.3	12.4	8.2	0.7	2.7	0.0	100.0	75.7	12.3	8,319
+Place of delivery
+Health facility	42.5	56.7	0.2	0.1	0.1	0.1	0.3	0.1	100.0	99.2	14.2	11,969
+Elsewhere	0.5	2.3	0.5	50.5	32.4	2.3	11.5	0.1	100.0	2.8	0.0	7,505
+Residence
+Urban	41.7	40.6	0.2	9.9	4.6	0.6	2.0	0.3	100.0	82.4	14.7	7,024
+Rural	17.6	32.8	0.4	24.8	16.9	1.1	6.0	0.5	100.0	50.4	5.3	12,540
+Region
+Coast	32.0	26.3	0.1	18.4	18.7	0.4	3.8	0.4	100.0	58.2	7.0	2,023
+North Eastern	7.2	25.1	0.5	64.2	1.5	0.1	0.1	1.2	100.0	32.4	2.9	650
+Eastern	22.1	41.2	0.2	19.8	12.2	0.5	3.7	0.3	100.0	63.3	11.7	2,321
+Central	55.4	34.3	0.2	0.9	5.8	0.4	2.9	0.1	100.0	89.7	15.7	1,796
+Rift Valley	22.2	29.0	0.3	20.9	21.2	1.2	4.9	0.3	100.0	51.3	5.6	5,677
+Western	11.2	36.6	0.2	30.9	9.1	1.2	10.5	0.3	100.0	47.8	4.3	2,255
+Nyanza	11.4	53.6	0.9	19.5	7.2	1.5	5.0	0.9	100.0	65.0	5.1	2,790
+Nairobi	53.4	35.7	0.3	5.5	2.8	0.8	1.3	0.3	100.0	89.1	20.7	2,051
+Mother’s education
+No education	9.2	17.2	0.2	39.5	25.8	1.3	6.1	0.7	100.0	26.4	2.2	2,307
+Primary incomplete	15.3	29.8	0.4	25.6	18.6	1.4	8.5	0.4	100.0	45.1	4.4	5,582
+Primary complete	29.9	37.5	0.4	17.3	9.9	1.0	3.6	0.4	100.0	67.4	8.2	5,397
+Secondary+	39.1	45.9	0.2	8.4	4.3	0.3	1.4	0.3	100.0	85.1	15.2	6,277
+Wealth quintile
+Lowest	10.3	20.9	0.4	34.3	25.7	1.2	6.8	0.5	100.0	31.1	2.1	4,657
+Second	14.3	35.6	0.5	24.8	15.7	1.4	7.2	0.5	100.0	49.9	4.8	3,987
+Middle	24.4	38.7	0.3	19.7	10.6	1.1	4.8	0.5	100.0	63.0	7.4	3,525
+Fourth	36.2	44.4	0.1	11.2	4.7	0.2	2.8	0.3	100.0	80.6	11.5	3,453
+Highest	50.1	42.6	0.2	3.5	2.1	0.6	0.7	0.1	100.0	92.7	19.0	3,942
+Total	26.2	35.6	0.3	19.4	12.5	0.9	4.6	0.4	100.0	61.8	8.7	19,564
+Note: If the respondent mentioned more than one person attending during delivery, only the most qualified person is considered in this tabulation. Total includes 51 births for whom information on ANC visits is missing and 114 births for whom place of delivery is missing.
+1 Skilled provider includes doctor, nurse, or midwife.
+2 Includes only the most recent birth in the five years preceding the survey

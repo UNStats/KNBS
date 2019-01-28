@@ -1,0 +1,21 @@
+Table 3.7 Type of employment among women
+Percent distribution of women age 15-49 employed in the 12 months preceding the survey by type of earnings, type of employer, and continuity of employment, according to type of employment (agricultural or nonagricultural), Kenya 2014
+Employment characteristic	Agricultural work	Nonagricultural work	Total
+Type of earnings
+Cash only	29.0	82.8	65.7
+Cash and in-kind	19.7	10.2	13.1
+In-kind only	8.8	1.2	3.6
+Not paid	42.5	5.7	17.5
+Total	100.0	100.0	100.0
+Type of employer
+Employed by family member	18.0	4.7	9.1
+Employed by nonfamily member	14.0	50.3	38.7
+Self-employed	68.0	45.0	52.2
+Total	100.0	100.0	100.0
+Continuity of employment
+All year	48.8	73.2	65.4
+Seasonal	45.9	19.2	27.6
+Occasional	5.1	7.6	6.8
+Total	100.0	100.0	100.0
+Number of women employed during the last 12 months	3,038	6,587	9,712
+Note: Total includes women with missing information on type of employment who are not shown separately.

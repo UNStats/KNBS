@@ -1,0 +1,5 @@
+"TableTitle"	"Variable"	"Units"	"Year"	"Category.of.household.by.orphan.foster.children.members.under.18.years.of.age"	"Value"	"Number.of.households"
+"Table 2.9 Household composition"	"Percentage of households with orphans and foster children under 18 years of age"	"percent"	"2014"	"Households with double orphans"		
+"Table 2.9 Household composition"	"Percentage of households with orphans and foster children under 18 years of age"	"percent"	"2014"	"Households with foster and/or orphan children"		
+"Table 2.9 Household composition"	"Percentage of households with orphans and foster children under 18 years of age"	"percent"	"2014"	"Households with foster children"		
+"Table 2.9 Household composition"	"Percentage of households with orphans and foster children under 18 years of age"	"percent"	"2014"	"Households with single orphans"		

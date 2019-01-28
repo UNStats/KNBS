@@ -1,0 +1,54 @@
+Table 10.4 Prevalence and treatment of symptoms of ARI
+Among children under age five, the percentage who had symptoms of acute respiratory infection (ARI) in the two weeks preceding the survey and among children with symptoms of ARI, the percentage for whom advice or treatment was sought from a health facility or provider and the percentage who received antibiotics as treatment, according to background characteristics, Kenya 2014
+Background characteristic	Among children under age five:		Among children under age five with symptoms of ARI:
+	Percentage with symptoms of ARI1	Number of children	Percentage for whom advice or treatment was sought from a health facility or provider2	Percentage who received antibiotics	Number of children
+Age in months
+<6	4.4	1,694	77.6	58.0	74
+'6-11	11.4	1,909	73.3	53.3	218
+'12-23	10.0	3,777	67.4	56.6	379
+24-35	8.7	3,760	62.4	53.1	326
+36-47	7.9	3,889	68.3	52.6	308
+48-59	7.5	3,672	55.3	47.1	276
+Sex
+Male	8.7	9,477	67.7	54.1	820
+Female	8.2	9,225	63.7	51.9	761
+Mother’s smoking status
+Smokes cigarettes/tobacco	'(11.4)	27	*	*	3
+Does not smoke	8.5	18,675	65.7	53.1	1,578
+Cooking fuel
+Electricity or gas	6.7	1,607	75.4	65.1	108
+Paraffin/kerosene	6.2	1,358	'(61.5)	'(34.2)	84
+Coal/lignite	*	18	*	*	3
+Charcoal	8.4	3,529	66.5	58.1	298
+Wood/straw3	9.0	12,163	64.8	51.8	1,089
+Animal dung	*	6	*	*	0
+Other fuel	*	4	*	*	0
+No food cooked in household	*	13	*	*	0
+Residence
+Urban	7.3	6,677	63.6	50.0	490
+Rural	9.1	12,025	66.7	54.4	1,091
+Region
+Coast	7.2	1,936	66.0	47.5	140
+North Eastern	4.0	625	35.4	34.1	25
+Eastern	8.7	2,235	67.6	55.7	195
+Central	7.2	1,725	70.3	58.8	125
+Rift Valley	8.3	5,457	68.1	61.9	453
+Western	12.8	2,166	56.5	53.0	276
+Nyanza	9.7	2,638	71.0	41.1	255
+Nairobi	5.9	1,920	'(65.2)	'(44.8)	113
+Mother’s education
+No education	6.2	2,218	57.1	45.2	138
+Primary incomplete	9.3	5,304	63.2	45.8	491
+Primary complete	9.6	5,164	68.1	56.6	493
+Secondary+	7.6	6,016	68.5	59.4	459
+Wealth quintile
+Lowest	8.7	4,457	62.6	47.9	388
+Second	9.5	3,803	66.7	49.3	363
+Middle	9.7	3,375	64.9	51.7	328
+Fourth	8.3	3,285	63.4	61.6	271
+Highest	6.1	3,782	73.5	59.3	231
+Total	8.5	18,702	65.7	53.1	1,582
+Note: Total includes one child for whom information on mother’s smoking status is missing and five children for whom information on cooking fuel in the household is missing. Figures in parentheses are based on 25-49 unweighted cases. An asterisk denotes a figure based on fewer than 25 unweighted cases that has been suppressed.
+1 Symptoms of ARI, considered a proxy for pneumonia, include cough accompanied by short, rapid breathing which was chest-related and/or by difficult breathing which was chest-related.
+2 Excludes pharmacy, shop, and traditional practitioner
+3 Includes grass, shrubs, crop residues

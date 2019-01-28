@@ -1,0 +1,33 @@
+Table	2.10 Birth registration of children under age five
+Percentage of de jure children under five years of age whose births are registered with the civil authorities, according to background characteristics, Kenya	2014
+	Children whose births are registered
+Background characteristic
+Percentage who had a birth certificate
+Percentage who did not have birth certificate
+Percentage registered
+Number of children
+Age
+<2	19.8	48.2	68.0	7,662
+2-4	26.8	39.4	66.2	12,291
+Sex
+Male	24.9	42.5	67.4	10,170
+Female	23.3	43.1	66.4	9,784
+Residence
+Urban	37.4	41.4	78.8	6,603
+Rural	17.5	43.4	61.0	13,351
+Region
+Coast	21.3	53.5	74.8	2,019
+North Eastern	44.7	17.1	61.8	682
+Eastern	18.1	57.0	75.1	2,458
+Central	36.3	53.4	89.7	1,789
+Rift Valley	20.1	42.8	62.9	5,727
+Western	19.6	33.6	53.2	2,585
+Nyanza	19.5	34.6	54.1	2,929
+Nairobi	42.6	36.9	79.5	1,765
+Wealth quintile
+Lowest	12.3	39.8	52.1	4,924
+Second	15.4	43.2	58.6	4,277
+Middle	19.7	45.4	65.0	3,652
+Fourth	27.5	49.6	77.1	3,430
+Highest	51.4	37.3	88.7	3,670
+Total	24.1	42.8	66.9	19,954

@@ -1,0 +1,39 @@
+Table 1.2	Results of the household and individual interviews
+Number of households, number of interviews, and response rates, according to residence (unweighted), Kenya 2014
+Result	Urban	Rural	Total
+ALL HOUSEHOLDS
+Household interviews
+Households selected	15,419	24,260	39,679
+Households occupied	14,177	22,635	36,812
+Households interviewed	13,914	22,516	36,430
+Household response rate1	98.1	99.5	99.0
+Interviews with women age	15-49
+Number of eligible women	12,157	20,015	32,172
+Number of eligible women interviewed	11,614	19,465	31,079
+Eligible women response rate2	95.5	97.3	96.6
+HOUSEHOLDS SELECTED FOR FULL QUESTIONNAIRES
+Household interviews
+Households selected	7,394	11,636	19,030
+Households occupied	6,790	10,835	17,625
+Households interviewed	6,645	10,764	17,409
+Household response rate1	97.9	99.3	98.8
+Interviews with women age	15-49
+Number of eligible women	5,772	9,545	15,317
+Number of eligible women interviewed	5,472	9,269	14,741
+Eligible women response rate2	94.8	97.1	96.2
+Interviews with men age	15-54
+Number of eligible men	5,676	8,541	14,217
+Number of eligible men interviewed	4,915	7,904	12,819
+Eligible men response rate2	86.6	92.5	90.2
+HOUSEHOLDS SELECTED FOR SHORT QUESTIONNAIRES
+Household interviews
+Households selected	8,025	12,624	20,649
+Households occupied	7,387	11,800	19,187
+Households interviewed	7,269	11,752	19,021
+Household response rate1	98.4	99.6	99.1
+Interviews with women age	15-49
+Number of eligible women	6,385	10,470	16,855
+Number of eligible women interviewed	6,142	10,196	16,338
+Eligible women response rate2	96.2	97.4	96.9
+1 Households interviewed/households occupied
+2 Respondents interviewed/eligible respondents

@@ -1,0 +1,14 @@
+Table 5.3.2 Trends in age-specific and total fertility rates
+Age-specific and total fertility rates (TFR) for the three-year period preceding several surveys
+Mother’s age at birth	1977/78 KFS1, 1975-78	1989 KDHS1, 1984-88	1993 KDHS1, 1990-92	1998 KDHS1, 1995-97	1999 Census	2003 KDHS, 2000-02	2008-09 KDHS, 2006-08	2014 KDHS, 2011-2013
+15-19	168	152	110	111	142	114	103	96
+20-24	342	314	257	248	254	243	238	206
+25-29	357	303	241	218	236	231	216	183
+30-34	293	255	197	188	185	196	175	148
+35-39	239	183	154	109	127	123	118	100
+40-44	145	99	70	51	56	55	50	38
+45-49	59	35	50	16	7 15	12	9
+TFR 15-49	8.1	6.7	5.4	4.7	5.0	4.9	4.6	3.9
+Note: Age-specific fertility rates are per 1,000 women. Rates refer to the three-year period preceding the surveys except for the 1989 KDHS, which used a five-year period and the 1999 census, which used a period that varied with the age groups used to make the adjustment.
+Sources: NCPD et al., 1999; Central Bureau of Statistics, 2002b.
+1 Data exclude North Eastern region and several northern districts in the Eastern and Rift Valley regions.

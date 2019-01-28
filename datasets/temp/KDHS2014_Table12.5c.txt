@@ -1,0 +1,61 @@
+Table 12.5C Use of mosquito nets by children
+Percentage of children under five years of age who, the night before the survey, slept under a mosquito net (treated or untreated), under an insecticide-treated net (ITN), and under a long-lasting insecticidal net (LLIN); and among children under five years of age in households with at least one ITN, the percentage who slept under an ITN the night before the survey, by county, Kenya 2014
+County	Children under age five in all households				Children under age five in households with at least one ITN1
+	Percentage who slept under any net last night	Percentage who slept under an ITN1 last night	Percentage who slept under an LLIN last night	Number of children	Percentage who slept under an ITN1 last night	Number of children
+Coast	70.5	65.4	64.9	2,006	82.2	1,596
+Mombasa	67.2	61.5	61.0	477	85.9	342
+Kwale	74.6	72.4	71.9	421	83.4	365
+Kilifi	70.9	63.6	63.3	759	79.1	611
+Tana River	60.1	57.4	57.2	174	78.3	128
+Lamu	68.8	57.7	57.6	55	81.0	39
+Taita Taveta	83.2	82.0	80.0	120	88.8	111
+North Eastern	43.8	40.2	40.1	664	77.7	343
+Garissa	52.5	47.6	47.6	239	77.2	147
+Wajir	46.1	42.8	42.8	260	76.1	146
+Mandera	27.5	25.5	24.9	165	84.1	50
+Eastern	55.7	53.1	52.7	2,464	73.5	1,779
+Marsabit	15.0	12.1	11.8	93	43.7	26
+Isiolo	60.6	57.7	57.6	83	80.9	59
+Meru	64.3	59.3	58.5	541	81.8	393
+Tharaka-Nithi	65.4	61.9	60.9	155	77.8	123
+Embu	63.0	58.5	58.5	204	72.3	165
+Kitui	39.8	39.6	39.6	494	54.2	361
+Machakos	65.0	62.9	62.5	515	85.0	381
+Makueni	52.5	50.8	50.6	379	70.9	272
+Central	47.4	43.0	42.2	1,792	80.8	954
+Nyandarua	14.8	12.3	12.0	259	69.7	46
+Nyeri	24.1	17.4	17.2	268	62.6	75
+Kirinyaga	81.1	78.9	78.0	196	89.6	173
+Murang’a	58.0	57.0	57.0	315	81.3	221
+Kiambu	53.6	47.5	45.9	755	81.3	441
+Rift Valley	45.7	43.0	42.4	5,713	68.9	3,564
+Turkana	21.0	21.0	21.0	372	40.8	192
+West Pokot	43.4	42.9	42.9	306	61.4	214
+Samburu	18.2	16.6	16.6	117	86.1	23
+Trans-Nzoia	60.2	59.2	58.8	570	74.8	452
+Uasin Gishu	69.8	69.3	69.2	498	84.1	410
+Elgeyo Marakwet	39.1	16.9	16.5	179	56.5	53
+Nandi	55.2	55.0	55.0	416	67.1	341
+Baringo	52.5	49.1	49.1	235	69.2	167
+Laikipia	22.2	13.6	10.9	216	78.7	37
+Nakuru	34.1	30.7	29.7	880	74.6	363
+Narok	31.5	31.1	30.7	640	56.1	355
+Kajiado	47.7	42.8	40.9	447	81.4	235
+Kericho	55.7	53.1	52.3	349	61.4	302
+Bomet	63.0	60.0	59.8	487	69.7	419
+Western	71.8	68.8	67.2	2,526	78.9	2,203
+Kakamega	66.0	62.6	58.6	860	73.1	737
+Vihiga	72.5	70.9	70.9	263	78.3	238
+Bungoma	73.7	71.5	71.3	955	82.0	832
+Busia	78.4	73.9	72.9	448	83.5	396
+Nyanza	71.6	68.9	68.3	2,894	80.7	2,470
+Siaya	71.3	67.8	67.5	428	77.1	376
+Kisumu	82.2	81.7	81.4	529	88.4	489
+Homa Bay	63.9	56.4	55.6	658	74.8	496
+Migori	63.0	62.2	60.4	556	74.4	464
+Kisii	80.4	79.5	79.5	516	88.5	464
+Nyamira	70.5	69.6	69.6	207	79.8	181
+Nairobi	70.7	49.5	44.4	1,738	85.8	1,003
+Total	58.9	54.1	53.0	19,798	76.9	13,913
+Note: Table is based on children who stayed in the household the night before the interview.
+1 An insecticide-treated net (ITN) is (1) a factory-treated net that does not require any further treatment (LLIN), or (2) a net that has been soaked with insecticide within the past six months.

@@ -1,0 +1,46 @@
+Table 13.2 Knowledge of HIV prevention methods: condom use and limiting sexual partners
+Percentage of women and men age 15-49 who, in response to prompted questions, say that people can reduce the risk of getting the AIDS virus by using condoms every time they have sexual intercourse, and by having one sex partner who is not infected and has no other partners, by background characteristics, Kenya 2014
+Background characteristic	Women				Men
+	Using condoms 1/	Limiting sexual intercourse to one uninfected partner 2/	Using condoms and limiting sexual intercourse to one uninfected partner 1/,2/	Number of women	Using condoms 1/	Limiting sexual intercourse to one uninfected partner 2/	Using condoms and limiting sexual intercourse to one uninfected partner 1/,2/	Number of men
+Age
+15-24	77.4	89.3	72.8	11,555	86.1	92.0	82.0	4,666
+15-19	72.2	86.2	66.7	5,820	82.1	90.0	76.9	2,540
+20-24	82.6	92.4	78.9	5,735	90.9	94.3	88.0	2,125
+25-29	82.7	92.9	80.4	6,100	90.0	95.1	87.6	2,104
+30-39	81.9	93.3	79.3	8,283	88.1	95.8	86.0	3,268
+40-49	78.4	92.6	76.1	5,142	87.9	95.9	86.2	2,024
+Marital status
+Never married	77.0	89.1	72.4	8,997	86.5	92.4	82.7	5,350
+Ever had sex	84.6	92.5	80.7	4,541	91.1	94.7	87.8	3,512
+Never had sex	69.3	85.6	63.8	4,456	77.8	88.1	72.8	1,838
+Married/living together	80.7	92.7	78.0	18,549	88.7	95.7	86.6	6,095
+Divorced/separated/widowed	82.3	92.6	79.6	3,533	87.1	95.3	85.0	618
+Residence
+Urban	83.7	93.3	80.7	12,690	90.4	95.0	87.8	5,300
+Rural	77.1	90.4	73.7	18,389	85.5	93.6	82.4	6,762
+Region
+Coast	75.3	87.5	71.9	3,076	78.0	89.6	73.7	1,260
+North Eastern	27.1	55.6	21.0	648	57.0	68.1	47.6	227
+Eastern	73.5	94.3	71.3	4,375	85.7	95.4	83.2	1,825
+Central	77.8	89.6	74.1	3,994	89.7	96.6	87.6	1,564
+Rift Valley	80.4	92.9	77.7	7,953	87.3	93.5	84.5	3,050
+Western	85.9	91.4	81.2	3,225	89.9	95.4	86.9	1,164
+Nyanza	87.9	94.4	84.9	4,038	94.4	97.1	92.7	1,405
+Nairobi	86.8	94.7	83.5	3,770	93.1	95.9	89.9	1,568
+Education
+No education	48.8	75.1	43.9	2,176	53.9	77.1	49.7	345
+Primary incomplete	75.6	88.6	71.1	7,989	81.8	90.8	77.1	3,071
+Primary complete	81.8	93.8	79.2	7,637	89.2	95.5	86.7	2,734
+Secondary+ 86.3	94.9	83.7	13,277	91.9	96.4	89.9	5,913
+Wealth quintile
+Lowest	63.9	83.5	60.1	4,838	73.8	86.9	69.2	1,691
+Second	78.6	91.1	75.1	5,457	87.3	94.3	83.9	2,145
+Middle	82.2	92.8	79.0	6,032	89.5	94.7	86.7	2,370
+Fourth	83.9	93.8	80.8	6,550	89.4	96.1	86.8	2,959
+Highest	85.0	94.2	82.1	8,203	92.8	96.1	90.8	2,897
+Total 15-49	79.8	91.6	76.6	31,079	87.6	94.2	84.8	12,063
+50-54	na	na	na	na	84.6	94.9	82.4	756
+Total 15-54	na	na	na	na	87.5	94.3	84.6	12,819
+na = Not applicable
+1/ Using condoms every time they have sexual intercourse
+2/ Partner who has no other partners

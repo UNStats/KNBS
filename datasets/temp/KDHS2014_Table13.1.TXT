@@ -1,0 +1,44 @@
+Table 13.1 Knowledge of AIDS
+Percentage of women and men age 15-49 who have heard of AIDS, by background characteristics, Kenya 2014
+Background characteristic	Women		Men
+	Have heard of AIDS	Number of respondents	Have heard of AIDS	Number of respondents
+Age
+15-24	99.6	11,555	99.6	4,666
+15-19	99.4	5,820	99.4	2,540
+20-24	99.8	5,735	99.8	2,125
+25-29	99.7	6,100	100.0	2,104
+30-39	99.8	8,283	100.0	3,268
+40-49	99.9	5,142	99.8	2,024
+Marital status
+Never married	99.5	8,997	99.6	5,350
+Ever had sex	99.9	4,541	99.8	3,512
+Never had sex	99.2	4,456	99.1	1,838
+Married/living together	99.8	18,549	100.0	6,095
+Divorced/separated/widowed	99.8	3,533	100.0	618
+Residence
+Urban	99.8	12,690	100.0	5,300
+Rural	99.6	18,389	99.7	6,762
+Region
+Coast	99.8	3,076	99.6	1,260
+North Eastern	95.9	648	99.3	227
+Eastern	99.8	4,375	99.7	1,825
+Central	100.0	3,994	99.8	1,564
+Rift Valley	99.6	7,953	99.8	3,050
+Western	99.8	3,225	99.9	1,164
+Nyanza	99.9	4,038	99.9	1,405
+Nairobi	99.8	3,770	100.0	1,568
+Education
+No education	97.4	2,176	97.9	345
+Primary incomplete	99.7	7,989	99.6	3,071
+Primary complete	99.9	7,637	99.9	2,734
+Secondary+ 100.0	13,277	100.0	5,913
+Wealth quintile
+Lowest	98.8	4,838	99.3	1,691
+Second	99.9	5,457	99.8	2,145
+Middle	99.9	6,032	99.8	2,370
+Fourth	99.9	6,550	100.0	2,959
+Highest	99.8	8,203	99.9	2,897
+Total 15-49	99.7	31,079	99.8	12,063
+50-54	na	na	100.0	756
+Total 15-54	na	na	99.8	12,819
+na = Not applicable

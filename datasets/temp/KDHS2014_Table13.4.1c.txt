@@ -1,0 +1,61 @@
+Table 13.4.1C Comprehensive knowledge about AIDS: Women
+Percentage of women age 15-49 who say that a healthy-looking person can have the AIDS virus and who, in response to prompted questions, correctly reject local misconceptions about transmission or prevention of the AIDS virus, and the percentage with a comprehensive knowledge about AIDS by county, Kenya 2014
+County	Percentage of respondents who say that:				Percentage who say that a healthy looking person can have the AIDS virus and who reject the two most common local misconceptions 1/	Percentage with a comprehensive knowledge about AIDS 2/	Number of women
+	A healthy-looking person can have the AIDS virus	The AIDS virus cannot be transmitted by mosquito bites	The AIDS virus cannot be transmitted by supernatural means	A person cannot become infected by sharing food with a person who has the AIDS
+Coast	89.9	79.2	85.9	86.1	66.3	50.3	3,076
+Mombasa	90.3	84.1	91.3	91.3	72.2	61.5	912
+Kwale	92.0	85.1	95.4	87.4	72.1	39.5	619
+Kilifi	92.6	73.1	74.6	80.1	60.1	46.9	1,043
+Tana River	67.5	66.0	81.1	85.1	46.7	36.2	197
+Lamu	84.9	77.3	88.8	88.4	63.4	50.1	89
+Taita Taveta	92.2	84.5	93.6	90.1	73.5	63.9	215
+North Eastern	50.6	67.0	64.7	60.6	27.1	10.9	648
+Garissa	60.5	71.5	75.8	72.9	39.5	18.5	261
+Wajir	48.4	58.2	57.6	65.2	26.5	7.6	212
+Mandera	38.7	70.7	56.6	36.9	9.5	3.5	175
+Eastern	88.3	77.2	90.2	86.9	63.3	47.6	4,375
+Marsabit	65.7	62.7	77.4	74.8	39.3	24.6	115
+Isiolo	93.2	90.7	63.1	63.8	54.5	39.0	104
+Meru	83.6	70.7	89.1	88.8	56.8	48.1	1,110
+Tharaka-Nithi	91.7	74.2	88.5	84.8	61.7	49.4	275
+Embu	89.2	82.7	92.6	87.5	64.4	51.4	459
+Kitui	83.1	73.8	88.0	83.7	57.5	29.8	759
+Machakos	94.4	86.5	94.1	90.7	76.2	57.9	873
+Makueni	95.3	77.6	95.1	88.2	69.0	55.5	680
+Central	93.5	81.4	94.1	90.6	71.4	54.9	3,994
+Nyandarua	93.1	72.2	90.8	89.9	63.1	52.3	436
+Nyeri	91.9	78.7	92.5	90.6	69.1	54.6	650
+Kirinyaga	96.2	76.4	95.6	85.4	67.7	62.6	451
+Murang’a	91.2	72.9	93.0	88.2	61.5	36.2	735
+Kiambu	94.5	89.6	95.6	93.1	79.7	61.7	1,722
+Rift Valley	86.0	81.3	93.1	90.6	67.8	57.0	7,953
+Turkana	74.4	64.8	88.0	80.8	47.6	23.9	320
+West Pokot	63.4	70.1	73.7	65.3	37.3	24.0	267
+Samburu	87.4	58.9	80.2	82.7	51.3	45.7	123
+Trans-Nzoia	91.4	82.9	95.7	90.6	71.7	61.8	768
+Uasin Gishu	88.2	89.2	95.7	95.5	76.9	67.0	784
+Elgeyo Marakwet	91.2	84.4	97.7	93.2	74.7	64.8	250
+Nandi	89.9	92.5	97.8	94.7	81.8	77.5	628
+Baringo	76.9	85.8	96.3	93.7	65.2	51.5	335
+Laikipia	93.8	73.8	95.4	87.4	64.1	57.3	342
+Nakuru	92.8	84.2	92.8	93.0	74.9	63.0	1,574
+Narok	75.6	66.7	89.1	84.7	48.1	36.8	642
+Kajiado	83.5	79.7	90.1	87.6	66.1	55.8	670
+Kericho	77.1	88.0	95.6	96.5	66.6	52.5	563
+Bomet	90.2	79.6	95.9	94.1	69.8	61.4	687
+Western	89.1	80.2	96.5	93.8	69.2	59.1	3,225
+Kakamega	85.6	78.9	96.9	94.3	66.4	56.4	1,108
+Vihiga	91.5	82.4	97.3	94.2	72.7	59.7	368
+Bungoma	92.4	80.8	96.8	93.7	71.6	64.0	1,203
+Busia	87.3	80.3	94.5	92.7	67.0	53.1	546
+Nyanza	89.4	85.6	94.9	93.5	74.5	65.4	4,038
+Siaya	87.7	82.9	97.7	92.9	69.5	62.8	572
+Kisumu	86.7	87.1	97.7	93.8	73.6	64.8	820
+Homa Bay	83.6	86.7	94.7	93.2	70.8	64.8	798
+Migori	86.3	74.0	92.1	87.9	60.0	49.4	650
+Kisii	97.6	90.6	91.4	96.4	86.8	71.1	864
+Nyamira	98.2	93.4	98.2	98.2	90.8	89.4	334
+Nairobi	92.2	86.8	93.0	94.3	77.7	66.7	3,770
+Total 15-49	88.5	81.3	92.1	90.2	68.8	56.3	31,079
+1/ Two most common local misconceptions of source of disease: mosquito bites and sharing food with a person who has AIDS.
+2/ Comprehensive knowledge means knowing that consistent use of condoms during sexual intercourse and having just one uninfected faithful partner can reduce the chance of getting the AIDS virus, knowing that a healthy-looking person can have the AIDS virus, and rejecting the two most common local misconceptions about AIDS transmission or prevention.

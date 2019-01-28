@@ -1,0 +1,39 @@
+Table 12.10 Type of antimalarial drugs used
+Among children under age five with fever in the two weeks preceding the survey who took any antimalarial medication, the percentage who took specific antimalarial drugs, by background characteristics, Kenya 2014
+Background characteristic	Percentage of children who took drug:						Number of children with fever who took antimalarial drug
+	Any ACT	Quinine	SP/Fansidar	Chloroquine	Amodiaquine	Other antimalarial
+Age (in months)
+<12	82.2	4.3	1.2	1.5	7.6	4.0	141
+'12-23	84.3	4.7	4.7	1.9	2.7	3.2	275
+24-35	88.4	1.5	3.2	1.0	4.6	2.7	275
+36-47	87.3	1.2	3.4	1.4	1.8	6.1	270
+48-59	85.2	3.4	4.0	2.6	1.5	5.2	268
+Sex
+Male	84.3	4.0	4.1	2.2	2.7	4.5	627
+Female	87.4	1.8	3.0	1.2	3.7	4.1	603
+Residence
+Urban	82.0	2.8	5.1	2.9	1.8	6.9	295
+Rural	87.0	3.0	3.0	1.3	3.7	3.4	934
+Region
+Coast	85.3	0.7	10.2	0.5	0.0	3.3	63
+North Eastern	*	*	*	*	*	*	4
+Eastern	65.8	1.0	3.3	3.2	10.3	17.7	73
+Central	*	*	*	*	*	*	15
+Rift Valley	73.6	5.6	7.1	3.9	4.1	9.0	151
+Western	95.5	2.1	0.1	0.0	1.5	1.6	405
+Nyanza	86.7	2.8	3.5	1.4	4.0	3.4	481
+Nairobi	*	*	*	*	*	*	38
+Mother’s education
+No education	84.3	2.4	6.2	0.0	5.1	2.1	69
+Primary incomplete	85.4	2.3	4.5	1.5	3.3	4.0	495
+Primary complete	85.5	3.8	1.5	2.6	3.4	4.4	346
+Secondary+	87.1	2.9	3.6	1.4	2.5	5.1	319
+Wealth quintile
+Lowest	83.5	1.9	7.0	3.0	2.6	4.2	259
+Second	88.2	3.0	3.4	1.3	3.1	3.1	393
+Middle	89.2	2.9	0.1	0.6	4.9	2.6	281
+Fourth	85.8	2.3	3.6	0.2	2.5	6.1	207
+Highest	71.5	6.9	4.5	6.6	1.8	10.8	91
+Total	85.8	2.9	3.5	1.7	3.2	4.3	1,230
+Note: An asterisk denotes a figure based on fewer than 25 cases that has been suppressed.
+ACT = Artemisinin-based combination therapy

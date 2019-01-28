@@ -1,0 +1,62 @@
+Table 12.7C Use of Intermittent Preventive Treatment (IPTp) by women during pregnancy
+Percentage of women age 15-49 with a live birth in the two years preceding the survey who, during the pregnancy preceding the last birth, received one or more doses of SP/Fansidar at least one of which was received during an ANC visit, received two or more doses of SP/Fansidar at least one of which was received during an ANC visit, and received three or more doses of SP/Fansidar at least one of which was received during an ANC visit, by county, Kenya 2014
+Background characteristic	Percentage who received 1 or more doses of SP/Fansidar1	Percentage who received 2 or more doses of SP/Fansidar1	Percentage who received 3 or more doses of SP/Fansidar1	Number of women with a live birth in the two years preceding the survey
+Areas of IPTp implementation	58.9	38.7	23.6	2,396
+Coast	73.7	52.5	32.7	793
+Mombasa	67.3	46.4	24.9	190
+Kwale	91.8	79.1	51.9	181
+Kilifi	65.2	41.8	28.5	293
+Tana River	77.0	41.6	21.4	68
+Lamu	81.0	60.0	35.7	19
+Taita Taveta	75.0	55.1	31.9	42
+Western	53.4	38.4	26.2	827
+Kakamega	36.2	28.1	20.1	244
+Vihiga	72.9	47.1	20.5	83
+Bungoma	57.5	39.6	27.7	354
+Busia	60.9	47.9	36.1	146
+Nyanza (focus counties)	49.6	24.7	11.5	775
+Siaya	56.9	23.4	15.0	142
+Kisumu	58.2	26.9	5.9	177
+Homa Bay	38.4	22.8	12.3	253
+Migori	51.0	26.1	12.9	203
+Areas IPTp not implemented	15.3	6.3	3.6	4,961
+North Eastern	5.2	2.1	1.1	228
+Garissa	2.7	1.0	0.8	86
+Wajir	4.4	2.0	0.5	93
+Mandera	11.3	4.3	3.0	49
+Eastern	24.3	9.8	5.0	872
+Marsabit	1.5	1.2	0.6	35
+Isiolo	47.7	3.3	1.3	33
+Meru	19.1	3.8	0.0	198
+Tharaka-Nithi	25.9	10.3	7.1	56
+Embu	15.0	1.1	0.0	81
+Kitui	42.2	25.8	16.0	164
+Machakos	16.5	8.3	2.5	190
+Makueni	26.5	10.1	7.4	115
+Central	16.4	4.5	2.4	682
+Nyandarua	7.3	3.0	2.2	97
+Nyeri	5.2	3.2	1.9	92
+Kirinyaga	10.2	8.4	3.7	61
+Murang’a	14.4	4.8	1.9	120
+Kiambu	24.5	4.4	2.6	312
+Rift Valley	14.6	6.9	4.5	2,167
+Turkana	52.4	22.7	13.0	131
+West Pokot	3.1	3.0	2.9	121
+Samburu	6.3	2.9	2.8	46
+Trans-Nzoia	10.5	3.7	3.2	218
+Uasin Gishu	7.8	7.0	6.4	187
+Elgeyo Marakwet	15.2	4.3	1.8	65
+Nandi	11.3	3.4	1.9	153
+Baringo	21.2	9.9	6.7	94
+Laikipia	19.4	7.0	1.6	78
+Nakuru	19.2	9.3	4.2	332
+Narok	6.6	1.4	0.6	237
+Kajiado	20.6	12.3	8.5	179
+Kericho	7.5	4.4	3.4	139
+Bomet	7.5	5.2	4.8	187
+Nyanza (non-focus counties)	24.3	13.0	4.5	260
+Kisii	25.5	11.3	3.7	193
+Nyamira	20.7	18.1	7.0	67
+Nairobi	6.3	1.3	0.8	753
+Total	29.5	16.9	10.1	7,357
+1 Received the specified number of doses of SP/Fansidar, at least one of which was received during an ANC visit

@@ -1,0 +1,33 @@
+Table 10.9 Knowledge of ORS packets
+Percentage of women age 15-49 with a live birth in the five years preceding the survey who know about ORS packets and who know about zinc tablets for treatment of diarrhoea, by background characteristics, Kenya 2014
+Background characteristic	Percentage of women who know about ORS packets	Percentage of women who know about zinc tablets	Number of women
+Age
+15-19	89.2	15.6	845
+20-24	91.8	17.8	3,458
+25-34	93.9	18.5	7,191
+35-49	92.5	14.6	2,948
+Residence
+Urban	94.9	20.7	5,561
+Rural	91.6	15.3	8,881
+Region
+Coast	89.9	15.2	1,471
+North Eastern	81.2	11.3	372
+Eastern	93.5	17.5	1,834
+Central	93.4	17.8	1,528
+Rift Valley	91.6	13.1	4,002
+Western	94.7	22.3	1,590
+Nyanza	94.7	22.3	1,988
+Nairobi	95.8	19.7	1,657
+Education
+No education	82.3	8.9	1,409
+Primary incomplete	90.5	13.0	3,846
+Primary complete	94.2	16.0	4,024
+Secondary+	96.4	24.0	5,163
+Wealth quintile
+Lowest	86.7	10.2	2,947
+Second	93.1	15.9	2,782
+Middle	94.4	18.6	2,660
+Fourth	95.2	20.7	2,777
+Highest	94.9	21.3	3,277
+Total	92.8	17.4	14,442
+ORS = Oral rehydration salts

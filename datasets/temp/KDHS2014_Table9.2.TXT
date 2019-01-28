@@ -1,0 +1,21 @@
+Table 9.2 Number of antenatal care visits and timing of first visit
+Percent distribution of women age 15-49 who had a live birth in the five years preceding the survey by number of antenatal care (ANC) visits for the most recent live birth, and by the timing of the first visit, and among women with ANC, median months pregnant at first visit, according to residence and region, Kenya 2014
+Number and timing of ANC visits	Residence		Region								Total
+	Urban	Rural	Coast	North Eastern	Eastern	Central	Rift Valley	Western	Nyanza	Nairobi
+Number of ANC visits
+None	1.8	5.3	2.5	25.2	2.7	2.4	5.9	2.6	2.6	1.7	4.0
+1	2.1	4.1	3.2	6.6	3.2	2.1	4.1	4.0	3.0	2.0	3.3
+2-3	27.9	39.1	32.0	31.2	37.3	31.7	38.1	41.8	35.5	22.6	34.8
+4+	67.7	51.3	62.3	36.8	56.3	63.4	51.7	51.3	58.7	73.1	57.6
+Total	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Number of months pregnant at time of first ANC visit
+No antenatal care	1.8	5.3	2.5	25.2	2.7	2.4	5.9	2.6	2.6	1.7	4.0
+<4	25.6	16.2	17.6	12.1	18.0	22.9	16.2	19.7	21.2	30.2	19.8
+4-5	44.4	41.4	43.2	37.9	45.7	40.8	39.7	43.7	44.7	44.7	42.6
+6-7	26.1	33.7	32.5	22.3	31.0	32.2	34.7	30.9	29.0	22.5	30.8
+8+	1.8	3.1	3.5	2.4	2.4	1.7	3.4	2.8	2.4	1.0	2.6
+Total	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Number of women	5,561	8,881	1,471	372	1,834	1,528	4,002	1,590	1,988	1,657	14,442
+Median months pregnant at first visit (for those with ANC)	5.1	5.6	5.4	5.4	5.4	5.3	5.6	5.4	5.3	4.9	5.4
+Number of women with ANC	5,459	8,411	1,435	278	1,783	1,491	3,767	1,549	1,937	1,629	13,869
+Note: Totals may not add up to 100 percent because women with missing information are not shown separately.

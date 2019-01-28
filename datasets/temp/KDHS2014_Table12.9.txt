@@ -1,0 +1,24 @@
+Table 12.9 Source of advice or treatment for children with fever
+Percentage of children for whom advice or treatment was sought from specific sources among children under age five with fever in the two weeks preceding the survey and among children under age five with fever in the two weeks preceding the survey for whom advice or treatment was sought, by source, Kenya 2014
+Source	Percentage for whom advice or treatment was sought from each source:
+	Among children with fever	Among children with fever for whom advice or treatment was sought
+Any public sector source	50.1	69.1
+Government hospital	11.9	16.4
+Government health
+centre	15.2	20.9
+Government dispensary	23.7	32.6
+Other	0.0	0.0
+Any private sector
+source	21.2	29.2
+Private hospital/clinic	11.9	16.4
+Pharmacy	7.8	10.8
+Mission hospital/clinic	1.4	1.9
+Other private medical
+sector	0.2	0.2
+Any other source	3.0	4.1
+Mobile clinic	0.1	0.1
+Community health worker	0.3	0.4
+Shop	1.6	2.2
+Traditional practitioner	0.5	0.6
+Friend/relative	0.2	0.3
+Number of children	4,562	3,310

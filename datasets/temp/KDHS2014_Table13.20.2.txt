@@ -1,0 +1,28 @@
+Table 13.20.2 Multiple sexual partners in the past 12 months among young people: Men
+Among all young men age 15-24, the percentage who had sexual intercourse with more than one sexual partner in the past 12 months, and among those having more than one partner in the past 12 months, the percentage reporting that a condom was used at last intercourse, by background characteristics, Kenya 2014
+Background characteristic	Men age 15-24		Men age 15-24 who had 2+ partners in the past 12 months
+	Percentage who had 2+ partners in the past 12 months	Number of men	Percentage who reported using a condom at last intercourse	Number of men
+Age
+15-19	3.7	2,540	64.1	95
+15-17	1.8	1,531	'(66.5)	28
+18-19	6.7	1,009	63.1	67
+20-24	16.7	2,125	70.2	354
+20-22	16.6	1,365	65.0	226
+23-24	16.8	760	79.3	128
+Marital status
+Never married	9.0	4,214	74.7	379
+Ever married	15.4	452	37.4	70
+Knows condom source	1/
+Yes	10.7	4,099	69.8	437
+No	2.1	566	*	12
+Residence
+Urban	12.5	1,751	71.3	220
+Rural	7.9	2,915	66.6	229
+Education
+No education	13.4	67	*	9
+Primary incomplete	7.3	1,395	55.9	102
+Primary complete	13.2	738	81.1	98
+Secondary+	9.7	2,466	70.3	240
+Total 15-24	9.6	4,666	68.9	449
+Note: Figures in parentheses are based on 25-49 unweighted cases. An asterisk denotes a figure based on fewer than 25 unweighted cases that has been suppressed.
+1/ For this table, the following responses are not considered a source for condoms: friends, family members and home.

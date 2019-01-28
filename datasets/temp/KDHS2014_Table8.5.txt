@@ -1,0 +1,29 @@
+Table 8.5 High-risk fertility behaviour
+Percent distribution of children born in the five years preceding the survey by category of elevated risk of mortality and the risk ratio, and percent distribution of currently married women by category of risk if they were to conceive a child at the time of the survey, Kenya 2014
+Risk category	Births in the 5 years preceding the survey		Percentage of currently married women1
+	Percentage of births	Risk ratio
+Not in any high risk category	30.3	1.00	25.6a
+Unavoidable risk category
+First order births between ages 18 and 34 years	21.0	1.34	4.5
+Single high-risk category
+Mother’s age <18	5.7	0.95	0.3
+Mother’s age >34	1.6	0.72	5.4
+Birth interval <24 months	6.4	0.93	9.1
+Birth order >3	19.4	0.96	16.7
+Subtotal	33.1	0.94	31.5
+Multiple high-risk category
+Age <18 and birth interval <24 months2	0.4	2.90	0.1
+Age >34 and birth interval <24 months	0.1	*	0.3
+Age >34 and birth order >3	8.8	1.31	26.5
+Age >34 and birth interval <24 months and birth order >3	1.2	1.84	3.2
+Birth interval <24 months and birth order >3	5.1	1.95	8.2
+Subtotal	15.6	1.60	38.3
+In any avoidable high-risk category	48.7	1.15	69.9
+Total	100.0	na	100.0
+Number of births/women	19,564	na	18,549
+Note: Risk ratio is the ratio of the proportion dead among births in a specific high-risk category to the proportion dead among births not in any high-risk category. An asterisk denotes a figure based on fewer than 25 unweighted cases that has been suppressed.
+na = Not applicable
+1 Women are assigned to risk categories according to the status they would have at the birth of a child if they were to conceive at the time of the survey: current age less than 17 years and 3 months or older than 34 years and 2 months, latest birth less than 15 months ago, or latest birth
+being of order 3 or higher.
+2 Includes the category age <18 and birth order >3
+a Includes sterilised women

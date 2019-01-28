@@ -1,0 +1,28 @@
+Table 4.4 Median age at first marriage by background characteristics
+Median age at first marriage among women age 25-49, and median age at first marriage among men age 30-54, according to background characteristics, Kenya 2014
+Background characteristic	Women age 25-49	Men age 30-54
+Residence
+Urban	21.5	25.9
+Rural	19.5	24.8
+Region
+Coast	19.7	26.4
+North Eastern	18.6	24.9
+Eastern	20.5	25.5
+Central	21.4	26.0
+Rift Valley	20.0	25.3
+Western	19.2	24.1
+Nyanza	18.6	23.8
+Nairobi	22.1	26.1
+Education
+No education	17.9	24.5
+Primary incomplete	18.3	24.0
+Primary complete	19.7	24.5
+Secondary+	22.7	26.3
+Wealth quintile
+Lowest	18.3	24.3
+Second	19.1	24.6
+Middle	19.6	25.0
+Fourth	20.6	25.1
+Highest	22.6	26.6
+Total	20.2	25.3
+Note: The age at first marriage is defined as the age at which the respondent began living with her/his first spouse/partner.

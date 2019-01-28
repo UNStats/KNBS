@@ -1,0 +1,4 @@
+"TableTitle"	"Variable"	"Units"	"Year"	"Residence"	"Value"	"Number.of.households"
+"Table 2.9 Household composition"	"Mean size of household"	"Number of persons"	"2014"	"Rural"		
+"Table 2.9 Household composition"	"Mean size of household"	"Number of persons"	"2014"	"Total"		
+"Table 2.9 Household composition"	"Mean size of household"	"Number of persons"	"2014"	"Urban"		

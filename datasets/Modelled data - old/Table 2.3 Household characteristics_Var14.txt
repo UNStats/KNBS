@@ -1,0 +1,4 @@
+"TableTitle"	"Variable"	"Units"	"Year"	"Residence"	"Value"	"Number.of.households"
+"Table 2.3 Household characteristics"	"Percent of households using solid fuel for cooking"	"percent"	"2014"	"Rural"		
+"Table 2.3 Household characteristics"	"Percent of households using solid fuel for cooking"	"percent"	"2014"	"Total"		
+"Table 2.3 Household characteristics"	"Percent of households using solid fuel for cooking"	"percent"	"2014"	"Urban"		

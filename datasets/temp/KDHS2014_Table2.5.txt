@@ -1,0 +1,17 @@
+Table 2.5 Wealth quintiles
+Percent distribution of the de jure population by wealth quintiles, and the Gini Coefficient, according to residence and region, Kenya 2014
+Residence/region/county	Wealth quintile
+	Lowest	Second	Middle	Fourth	Highest	Total	Number of persons	Gini coefficient
+Residence
+Urban	6.0	8.3	10.6	26.1	49.0	100.0	48,946	0.18
+Rural	27.3	26.1	24.9	16.8	4.9	100.0	93,762	0.19
+Region
+Coast	40.0	10.4	10.6	14.5	24.5	100.0	13,972	0.34
+North Eastern	72.9	4.5	4.5	9.0	9.1	100.0	4,164	0.36
+Eastern	19.5	27.7	22.4	19.7	10.7	100.0	20,960	0.21
+Central	2.4	12.0	21.9	32.0	31.7	100.0	16,297	0.21
+Rift Valley	26.5	20.2	19.7	19.1	14.5	100.0	37,746	0.29
+Western	12.3	30.9	33.8	16.8	6.2	100.0	16,692	0.20
+Nyanza	16.6	31.2	23.8	17.5	10.9	100.0	20,050	0.28
+Nairobi	0.2	0.8	6.0	25.6	67.4	100.0	12,827	0.15
+Total	20.0	20.0	20.0	20.0	20.0	100.0	142,708	0.27

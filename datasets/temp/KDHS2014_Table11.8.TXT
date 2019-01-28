@@ -1,0 +1,49 @@
+Table 11.8 Micronutrient intake among children: Vitamin A and iodised salt
+Among all children 6-59 months, the percentage who were given vitamin A supplements in the six months preceding the survey, and among all children age 6-59 months who live in households that were tested for iodised salt, the percentage who live in households with iodised salt, by background characteristics, Kenya 2014
+Background characteristic	Among all children age 6-59 months:		Among children age 6-59 months living in households tested for iodised salt:
+	Percentage given vitamin A supplements in last 6 months	Number of children	Percentage living in households with iodised salt1	Number of children
+Age in months
+'6-8	67.9	941	99.7	900
+'9-11	80.2	968	99.2	918
+'12-17	79.5	1,983	99.4	1,911
+18-23	75.0	1,794	99.3	1,734
+24-35	70.2	3,760	99.5	3,622
+36-47	69.7	3,889	99.6	3,738
+48-59	68.5	3,672	99.4	3,537
+Sex
+Male	71.6	8,618	99.4	8,326
+Female	71.9	8,390	99.6	8,034
+Breastfeeding status
+Breastfeeding	77.1	2,479	99.5	2,398
+Not breastfeeding	70.9	14,487	99.5	13,923
+Mother’s age at birth
+15-19	68.1	739	98.2	698
+20-29	71.5	9,387	99.5	9,061
+30-39	73.1	5,713	99.5	5,487
+40-49	69.0	1,168	99.7	1,113
+Residence
+Urban	75.4	6,104	99.4	5,940
+Rural	69.7	10,904	99.5	10,420
+Region
+Coast	69.6	1,711	97.5	1,659
+North Eastern	55.3	577	98.2	488
+Eastern	73.9	2,051	99.5	1,997
+Central	79.2	1,579	99.9	1,538
+Rift Valley	67.5	4,956	99.8	4,695
+Western	77.8	1,967	99.4	1,912
+Nyanza	69.9	2,413	99.9	2,342
+Nairobi	77.8	1,754	100.0	1,730
+Mother’s education
+No education	60.0	2,034	99.1	1,779
+Primary incomplete	68.8	4,821	99.2	4,660
+Primary complete	75.2	4,707	99.4	4,593
+Secondary+	75.8	5,446	99.9	5,328
+Wealth quintile
+Lowest	64.3	4,018	98.7	3,661
+Second	71.3	3,476	99.5	3,385
+Middle	72.5	3,063	99.8	2,987
+Fourth	76.2	2,986	99.8	2,929
+Highest	76.4	3,464	99.8	3,397
+Total	71.7	17,008	99.5	16,360
+Note: Information on vitamin A is based on both mother’s recall and the immunisation card (where available). Total for children age 6-59 months includes 53 children with missing information on breastfeeding status. Total for children age 6-59 months living in households tested for iodised salt includes 47 children with missing information on breastfeeding status.
+1 Excludes children in households in which salt was not tested.

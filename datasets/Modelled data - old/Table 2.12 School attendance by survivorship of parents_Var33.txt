@@ -1,0 +1,2 @@
+"TableTitle"	"Variable"	"Units"	"Year"	"Value"	"Number.of.children"
+"Table 2.12 School attendance by survivorship of parents"	"Ratio of the percentage of de jure children 10-14 years of age attending school with both parents deceased to the percentage with both parents alive and living with at least one parent"	"ratio"	"2014"		

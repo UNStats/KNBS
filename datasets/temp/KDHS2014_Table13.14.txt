@@ -1,0 +1,48 @@
+Table 13.14 Male circumcision
+Percentage of men age 15-49 who report having been circumcised, by background characteristics, Kenya 2014
+Background characteristic	Percentage circumcised	Number of men
+Age
+15-24	91.4	4,666
+15-19	87.1	2,540
+20-24	96.5	2,125
+25-29	94.6	2,104
+30-39	93.4	3,268
+40-49	91.9	2,024
+Residence
+Urban	93.7	5,300
+Rural	91.7	6,762
+Region
+Coast	97.6	1,260
+North Eastern	100.0	227
+Eastern	95.3	1,825
+Central	97.0	1,564
+Rift Valley	92.5	3,050
+Western	96.6	1,164
+Nyanza	72.1	1,405
+Nairobi	95.4	1,568
+Religion
+Roman Catholic	92.0	2,583
+Protestant/other Christian	92.1	8,141
+Muslim	98.7	784
+No religion	94.1	492
+Other	91.3	59
+Ethnic group
+Embu	98.2	118
+Kalenjin	94.4	1,467
+Kamba	99.9	1,521
+Kikuyu	97.4	2,523
+Kisii	99.0	712
+Luhya	98.5	1,927
+Luo	58.5	1,311
+Maasai	94.0	220
+Meru	93.9	717
+Mijikenda/Swahili	99.5	623
+Somali	100.0	260
+Taita/Taveta	100.0	134
+Turkana	41.8	106
+Samburu (100.0) 12
+Other	89.5	399
+Total 15-49	92.6	12,063
+50-54	91.3	756
+Total 15-54	92.5	12,819
+Note: Total includes three men for whom information on religion is missing and 16 men for whom information on ethnic group is missing. Figures in parentheses are based on 25-49 unweighted cases.

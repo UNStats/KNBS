@@ -1,0 +1,31 @@
+Table 5.2 Fertility by background characteristics
+Total fertility rate for the three years preceding the survey, percentage of women age 15-49 currently pregnant, and mean number of children ever born to women age 40-49 years, by background characteristics, Kenya 2014
+Background characteristic
+Total fertility rate
+Percentage of women age 15-49 currently pregnant
+Mean number of children ever born to women age 40-49
+Residence
+Urban	3.1	6.0	3.9
+Rural	4.5	6.4	5.6
+Region
+Coast	4.3	6.6	5.5
+North Eastern	6.4	12.0	7.1
+Eastern	3.4	4.6	4.7
+Central	2.8	4.8	3.7
+Rift Valley	4.5	7.0	5.5
+Western	4.7	6.7	6.1
+Nyanza	4.3	5.9	5.8
+Nairobi	2.7	6.8	3.1
+Education
+No education	6.5	11.0	6.5
+Primary incomplete	4.8	6.3	6.0
+Primary complete	4.2	6.3	5.1
+Secondary+	3.0	5.4	3.7
+Wealth quintile
+Lowest	6.4	9.4	6.7
+Second	4.7	6.5	5.9
+Middle	3.8	5.7	5.5
+Fourth	3.1	5.7	4.3
+Highest	2.8	5.0	3.4
+Total	3.9	6.3	5.0
+Note: Total fertility rates are for the period 1-36 months prior to interview.

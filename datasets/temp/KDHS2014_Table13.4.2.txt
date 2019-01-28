@@ -1,0 +1,52 @@
+Table 13.4.2 Comprehensive knowledge about AIDS: Men
+Percentage of men age 15-49 who say that a healthy-looking person can have the AIDS virus and who, in response to prompted questions, correctly reject local misconceptions about transmission or prevention of the AIDS virus, and the percentage with a comprehensive knowledge about AIDS by background characteristics, Kenya 2014
+Percentage of respondents who say that:
+Percentage who say that a healthy looking person can have the AIDS virus and who reject the two most common local misconceptions 1/
+Percentage with a comprehensive knowledge about AIDS 2/ 
+Number of men
+Background characteristic
+A healthy-looking person can have the AIDS virus
+The AIDS virus cannot be transmitted by mosquito bites
+The AIDS virus cannot be transmitted by supernatural means
+A person cannot become infected by sharing food with a person who has the AIDS
+Age
+15-24	87.5	87.5	94.1	93.1	74.4	63.7	4,666
+15-19	83.5	88.1	93.7	91.8	70.9	57.7	2,540
+20-24	92.3	86.7	94.7	94.7	78.6	70.9	2,125
+25-29	92.4	85.1	94.4	93.8	76.1	68.1	2,104
+30-39	93.9	84.8	95.0	93.3	78.2	69.6	3,268
+40-49	93.7	79.7	94.5	90.9	72.4	64.3	2,024
+Marital status
+Never married	88.2	87.1	93.9	93.0	74.9	64.7	5,350
+Ever had sex	91.3	87.0	94.8	94.1	77.8	70.0	3,512
+Never had sex	82.4	87.3	92.2	90.8	69.3	54.5	1,838
+Married/living together	93.5	83.6	94.8	93.2	76.3	68.1	6,095
+Divorced/separated/widowed	92.7	81.0	96.5	89.2	70.6	60.7	618
+Residence
+Urban	93.2	87.3	95.2	95.1	79.5	71.3	5,300
+Rural	89.5	83.3	93.9	91.2	72.2	62.2	6,762
+Region
+Coast	93.0	82.7	92.1	94.3	74.8	57.2	1,260
+North Eastern	68.4	78.8	79.0	62.8	43.1	25.3	227
+Eastern	91.9	84.8	95.3	92.3	74.8	64.8	1,825
+Central	94.5	88.2	93.6	91.9	80.3	72.4	1,564
+Rift Valley	88.4	84.4	95.4	92.2	72.8	64.3	3,050
+Western	90.8	84.9	95.5	94.5	74.3	65.8	1,164
+Nyanza	91.0	85.3	95.9	94.2	76.5	71.7	1,405
+Nairobi	94.4	86.0	94.9	97.0	81.0	73.8	1,568
+Education
+No education	72.0	60.8	77.9	72.4	41.9	23.8	345
+Primary incomplete	85.0	75.3	91.7	88.1	59.9	48.4	3,071
+Primary complete	90.9	82.6	95.5	92.4	72.5	63.9	2,734
+Secondary+ 95.5	92.6	96.4	96.8	86.7	79.0	5,913
+Wealth quintile
+Lowest	81.2	74.8	89.4	86.9	58.1	44.0	1,691
+Second	89.0	82.2	94.6	91.7	70.8	61.4	2,145
+Middle	91.2	85.0	95.0	92.3	74.6	66.7	2,370
+Fourth	93.5	88.0	95.1	94.4	79.4	70.1	2,959
+Highest	96.0	90.1	96.3	96.4	85.4	78.3	2,897
+Total 15-49	91.1	85.0	94.5	92.9	75.4	66.2	12,063
+50-54	94.1	78.2	94.6	88.0	70.1	61.2	756
+Total 15-54	91.3	84.6	94.5	92.6	75.1	65.9	12,819
+1/ Two most common local misconceptions of source of disease: mosquito bites and sharing food with a person who has AIDS.
+2/ Comprehensive knowledge means knowing that consistent use of condoms during sexual intercourse and having just one uninfected faithful partner can reduce the chance of getting the AIDS virus, knowing that a healthy-looking person can have the AIDS virus, and rejecting the two most common local misconceptions about AIDS transmission or prevention.

@@ -1,0 +1,91 @@
+#devtools::install_github("gluc/data.tree")
+library(data.tree)
+library(jsonlite)
+library(magrittr)
+library(tidyr)
+
+setwd("C:/Users/L.GonzalezMorales/Documents/GitHub/UNSD-KNBS/datasets/Modelled data/")
+
+x <- read.table("ModelledDataCh2.txt", 
+           header = TRUE, 
+           sep = "\t", 
+           quote = "",
+           na.strings = "",
+           comment.char = "",
+           stringsAsFactors = FALSE)
+
+DimStart <- x$DimStart[1]
+DimEnd <- x$DimEnd[1]
+AttrStart <- x$AttrStart[1]
+AttrEnd <- x$AttrEnd[1]
+
+for(i in 1:nrow(x))
+{
+  TableTitle <- x$TableTitle[i]
+  TableSubtitle <- x$TableSubTitle[i]
+  Variable <- x$Variable[i]
+  Variable.description <- x$Variable.description[i]
+  Units <- x$Units[i]
+  dimensions <- !is.na(x[i,DimStart:DimEnd])
+  n.dimensions <- sum(dimensions)
+  counter <- 0
+  for(d in 1:length(dimensions))
+  {
+    if(dimensions[d])
+    {
+      dimension.name <- colnames(x)[DimStart + d - 1]
+      dimension.values <- sapply(sapply(x[i, DimStart + d - 1], gsub, pattern ="\\[|\\]", replacement=""), strsplit, split = ",")
+      assign(dimension.name, trimws(unlist(dimension.values)))
+
+    
+      if(counter ==0)
+      {
+        grid <- expand.grid(TableTitle = TableTitle,
+                            Variable = Variable,
+                            Units = Units,
+                            get(dimension.name))
+        names(grid)[ncol(grid)] <- dimension.name
+      } else {
+        grid <- crossing(grid, get(dimension.name))
+        names(grid)[ncol(grid)] <- dimension.name
+      }
+    
+      counter <- counter + 1
+    }
+  }
+  
+  grid <- crossing(grid, Value = NA)
+  
+  attributes <- !is.na(x[i,AttrStart:AttrEnd])
+  n.attributes <- sum(attributes)
+
+  for(a in 1:length(attributes))
+  {
+    if(attributes[a])
+    {
+      attribute.name <- colnames(x)[AttrStart + a - 1]
+      assign(attribute.name, NA)
+      
+      
+      grid <- crossing(grid, get(attribute.name))
+      names(grid)[ncol(grid)] <- attribute.name
+
+    }
+  }
+  
+  
+  write.table(grid, 
+              file = paste(TableTitle,"_Var", i, ".txt", sep = "" ), 
+              append = FALSE,
+              sep = "\t",
+              eol = "\n", 
+              na = "", 
+              dec = ".", 
+              row.names = FALSE,
+              col.names = TRUE, 
+              fileEncoding = "UTF-8")
+  
+}
+
+
+

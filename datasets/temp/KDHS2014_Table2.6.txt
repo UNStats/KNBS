@@ -1,0 +1,24 @@
+Table	2.6 Food security status
+Percent distribution of households with poor, borderline or acceptable food consumption, percentage of households that report lacking food or money to purchase food in the seven days preceding the survey, and the mean coping strategy index, according to background characteristics, Kenya	2014
+	Food consumption score groups
+Background characteristic	Poor	Borderline	Acceptable	Total	Number of households with valid food consumption score	Percentage of households that report lacking food or money to purchase food	Number of households	Mean coping strategy index	Number of households with total coping strategy index greater than zero
+Residence
+Urban	1.4	7.3	91.3	100.0	7,217	23.0	7,280	17.4	1,658
+Rural	1.7	11.4	86.9	100.0	10,041	36.2	10,080	19.6	3,645
+Region
+Coast	1.1	10.7	88.2	100.0	1,651	24.5	1,688	16.1	414
+North Eastern	1.9	8.5	89.6	100.0	342	37.8	344	15.4	130
+Eastern	0.8	8.0	91.2	100.0	2,510	37.5	2,516	20.0	942
+Central	1.3	5.8	92.9	100.0	2,391	17.4	2,400	16.7	418
+Rift Valley	2.3	11.4	86.4	100.0	4,387	25.4	4,406	22.1	1,119
+Western	1.4	10.8	87.8	100.0	1,720	44.6	1,726	17.3	769
+Nyanza	1.6	12.9	85.5	100.0	2,174	41.9	2,187	18.4	915
+Nairobi	1.6	7.5	90.8	100.0	2,085	29.1	2,093	18.3	597
+Wealth quintile
+Lowest	3.8	17.9	78.3	100.0	2,888	54.4	2,894	21.7	1,574
+Second	1.8	14.0	84.2	100.0	3,152	41.6	3,166	19.5	1,316
+Middle	1.1	9.8	89.1	100.0	3,244	32.6	3,262	17.4	1,061
+Fourth	0.8	6.2	93.0	100.0	3,913	21.1	3,948	16.3	824
+Highest	0.8	3.7	95.5	100.0	4,062	13.0	4,091	16.1	528
+Total	1.5	9.7	88.8	100.0	17,258	30.7	17,360	18.9	5,303
+Note: The food consumption score reflects the quantity and quality of people’s diet. The coping strategy index measures behaviours adopted by households when they have difficulties in covering their food needs.

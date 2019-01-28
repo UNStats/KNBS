@@ -1,0 +1,35 @@
+Table 11.10 Nutritional status of women
+Among women age 15-49, the percentage with height under 145 cm, mean Body Mass Index (BMI), and the percentage with specific BMI levels, by background characteristics, Kenya 2014
+Background characteristic	Height		Body Mass Index1
+	Percentage below 145 cm	Number of women	Mean Body Mass Index (BMI)	18.5-24.9 (Total normal)	<18.5 (Total thin)	17.0-18.4 (Mildly thin)	<17 (Moderately and severely thin)	≥25.0 (Total overweight or obese)	25.0-29.9 (Overweight)	≥30.0 (Obese)	Number of women
+Age
+15-19	1.7	2,628	21.4	71.2	16.6	11.2	5.4	12.2	10.6	1.6	2,480
+20-29	0.6	5,504	23.3	62.8	8.7	6.5	2.2	28.5	21.7	6.9	4,838
+30-39	0.7	3,857	24.8	50.9	5.7	4.1	1.6	43.4	28.8	14.6	3,576
+40-49	0.6	2,276	25.5	46.0	6.0	4.6	1.4	48.0	28.6	19.3	2,249
+Residence
+Urban	0.5	5,702	24.9	51.2	5.5	4.1	1.4	43.3	28.6	14.7	5,246
+Rural	1.0	8,563	23.0	63.0	11.2	7.9	3.2	25.8	18.8	7.0	7,897
+Region
+Coast	2.1	1,391	23.5	56.8	11.0	8.6	2.5	32.1	20.6	11.6	1,262
+North Eastern	0.1	283	21.5	52.3	28.7	17.3	11.4	19.0	14.2	4.7	239
+Eastern	1.7	2,050	23.4	60.2	9.8	6.9	2.9	30.1	21.6	8.4	1,918
+Central	0.7	1,810	25.3	46.7	6.2	4.1	2.1	47.1	29.4	17.6	1,697
+Rift Valley	0.5	3,651	23.1	59.6	11.8	8.0	3.8	28.6	20.8	7.8	3,349
+Western	0.4	1,551	23.0	67.0	8.6	6.8	1.8	24.4	18.6	5.8	1,431
+Nyanza	0.5	1,865	23.3	67.2	6.3	5.0	1.3	26.5	19.8	6.8	1,729
+Nairobi	0.3	1,662	25.4	49.7	2.8	2.6	0.2	47.6	31.1	16.5	1,517
+Education
+No education	0.9	992	21.6	57.1	25.3	15.2	10.1	17.6	11.9	5.8	855
+Primary incomplete	1.6	3,725	22.7	63.8	12.3	8.5	3.8	23.9	17.0	6.9	3,443
+Primary complete	0.7	3,453	24.3	56.6	5.6	4.6	1.0	37.7	26.3	11.4	3,170
+Secondary+	0.4	6,095	24.3	56.1	6.2	4.8	1.4	37.8	25.8	12.0	5,673
+Wealth quintile
+Lowest	1.8	2,198	21.1	66.4	21.5	14.4	7.2	12.1	10.2	1.8	1,934
+Second	1.5	2,546	22.5	67.8	11.2	8.1	3.1	21.0	16.3	4.8	2,353
+Middle	0.5	2,819	23.3	65.0	7.6	5.9	1.7	27.4	21.0	6.4	2,613
+Fourth	0.5	3,048	24.6	53.6	5.3	3.9	1.4	41.1	28.6	12.5	2,829
+Highest	0.3	3,655	25.6	45.9	4.2	3.2	0.9	50.0	30.7	19.3	3,415
+Total	0.8	14,265	23.7	58.3	8.9	6.4	2.5	32.8	22.7	10.1	13,143
+Note: The Body Mass Index (BMI) is expressed as the ratio of weight in kilograms to the square of height in metres (kg/m2).
+1 Excludes pregnant women and women with a birth in the preceding 2 months

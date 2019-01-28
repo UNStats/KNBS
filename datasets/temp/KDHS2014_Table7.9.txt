@@ -1,0 +1,19 @@
+Table 7.9 Twelve-month contraceptive discontinuation rates
+Among women age 15-49 who started an episode of contraceptive use within the five years preceding the survey, the percentage of episodes discontinued within 12 months, by reason for discontinuation and specific method, Kenya 2014
+Method	Method failure	Desire to become pregnant	Other fertility related reasons2	Side effects/ health concerns	Wanted more effective method	Other method related reasons3	Other reasons	Any reason4	Switched to another method5	Number of episodes of use6
+Female sterilisation	(0.0)	(0.0)	(0.0)	(0.0)	(0.0)	(0.0)	(0.9)	(0.9)	(0.0)	150
+Pill	5.3	6.2	4.0	15.7	6.8	2.2	4.6	44.9	21.5	1,727
+IUD	0.8	0.2	0.4	4.2	0.0	0.2	0.6	6.4	3.8	298
+Injectables	1.7	5.4	2.8	14.4	1.9	1.2	3.4	30.9	10.2	4,054
+Implants	0.3	0.3	0.2	6.6	0.1	0.1	0.3	8.0	3.7	1,164
+Male condom	1.9	5.3	21.4	0.8	2.3	0.3	10.8	42.9	4.6	859
+Rhythm	9.1	4.1	3.8	0.0	6.3	0.2	1.4	24.8	6.7	661
+Other1	9.0	10.5	2.4	5.7	9.3	2.8	6.2	45.8	15.9	243
+All methods1	3.0	4.7	4.4	10.5	3.1	1.1	3.7	30.5	10.5	9,158
+Note: Figures are based on life table calculations using information on episodes of use that began 3-62 months preceding the survey. Figures in parentheses are based on 125-249 unweighted cases.
+1 Includes female condom, LAM, withdrawal, other modern and other traditional methods
+2 Includes infrequent sex/husband away, difficult to get pregnant/menopausal, and marital dissolution/separation
+3 Includes lack of access/too far, costs too much, and inconvenient to use
+4 Reasons for discontinuation are mutually exclusive and add to the total given in this column
+5 The episodes of use included in this column are a subset of the discontinued episodes included in the discontinuation rate. A woman is considered to have switched to another method if she used a different method in the month following discontinuation or if she gave “wanted a more effective method” as the reason for discontinuation and started another method within two months of discontinuation.
+6 Number of episodes of use includes both episodes of use that were discontinued during the period of observation and episodes of use that were not discontinued during the period of observation

@@ -1,0 +1,63 @@
+Table 7.2C Knowledge of contraceptive methods by county
+Percentage of currently married women and currently married men age 15-49 who have heard of at least one contraceptive method and who have heard of at least one modern method by county, Kenya 2014
+County	Women			Men
+	Heard of any method	Heard of any modern method1	Number	Heard of any method	Heard of any modern method 1/	Number
+Coast	99.4	99.3	1,821	100.0	99.8	617
+Mombasa	99.8	99.8	537	100.0	100.0	254
+Kwale	100.0	100.0	357	100.0	100.0	91
+Kilifi	99.7	99.7	600	100.0	100.0	168
+Tana River	94.0	94.0	144	100.0	97.5	40
+Lamu	100.0	100.0	55	100.0	100.0	19
+Taita Taveta	100.0	100.0	128	100.0	100.0	46
+North Eastern	70.8	68.8	451	89.2	89.2	103
+Garissa	86.7	86.1	165	100.0	100.0	40
+Wajir	70.9	67.6	158	97.8	97.8	37
+Mandera	50.3	48.1	128	59.7	59.7	26
+Eastern	99.7	99.7	2,667	100.0	100.0	835
+Marsabit	94.0	93.3	76	100.0	100.0	17
+Isiolo	98.3	97.8	65	100.0	100.0	17
+Meru	100.0	100.0	690	100.0	100.0	273
+Tharaka-Nithi	99.8	99.8	169	100.0	100.0	52
+Embu	100.0	100.0	266	100.0	100.0	69
+Kitui	100.0	100.0	445	100.0	100.0	112
+Machakos	99.8	99.8	553	100.0	100.0	186
+Makueni	100.0	100.0	404	100.0	100.0	108
+Central	99.9	99.9	2,323	99.4	99.4	773
+Nyandarua	99.4	99.4	273	100.0	100.0	82
+Nyeri	99.8	99.8	358	100.0	100.0	129
+Kirinyaga	100.0	100.0	281	100.0	100.0	104
+Murang’a	100.0	100.0	444	100.0	100.0	124
+Kiambu	100.0	100.0	967	98.7	98.7	333
+Rift Valley	98.5	98.4	4,696	99.9	99.7	1,523
+Turkana	93.1	92.3	214	94.6	91.7	40
+West Pokot	75.7	75.0	197	100.0	98.5	60
+Samburu	99.6	98.8	83	100.0	100.0	19
+Trans-Nzoia	99.9	99.9	467	100.0	100.0	139
+Uasin Gishu	100.0	100.0	460	100.0	100.0	178
+Elgeyo Marakwet	100.0	100.0	139	100.0	100.0	49
+Nandi	100.0	100.0	335	100.0	100.0	119
+Baringo	98.2	98.0	190	100.0	100.0	57
+Laikipia	98.8	98.8	207	100.0	100.0	59
+Nakuru	100.0	100.0	851	100.0	100.0	273
+Narok	100.0	100.0	446	100.0	100.0	142
+Kajiado	99.6	99.3	387	100.0	100.0	133
+Kericho	100.0	100.0	327	100.0	100.0	115
+Bomet	100.0	100.0	394	100.0	100.0	140
+Western	100.0	100.0	1,950	100.0	100.0	561
+Kakamega	99.9	99.9	697	100.0	100.0	212
+Vihiga	100.0	100.0	212	100.0	100.0	48
+Bungoma	100.0	100.0	696	100.0	100.0	201
+Busia	100.0	100.0	345	100.0	100.0	100
+Nyanza	99.9	99.9	2,525	100.0	100.0	767
+Siaya	100.0	100.0	326	100.0	100.0	110
+Kisumu	100.0	100.0	500	100.0	100.0	166
+Homa Bay	100.0	100.0	520	100.0	100.0	132
+Migori	99.3	99.3	432	100.0	100.0	128
+Kisii	100.0	100.0	531	100.0	100.0	160
+Nyamira	100.0	100.0	216	100.0	100.0	73
+Nairobi	99.8	99.8	2,117	100.0	100.0	916
+Total 15-49	98.7	98.7	18,549	99.7	99.7	6,095
+50-54	na	na	na	99.7	99.7	667
+Total 15-54	na	na	na	99.7	99.7	6,762
+na = Not applicable
+1/ Female sterilisation, male sterilisation, pill, IUD, injectables, implants, male condom, female condom, lactational amenorrhoea method (LAM), and emergency contraception

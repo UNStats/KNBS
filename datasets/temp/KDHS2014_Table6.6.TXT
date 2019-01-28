@@ -1,0 +1,28 @@
+Table 6.6 Wanted fertility rates
+Total wanted fertility rates and total fertility rates for the three years preceding the survey, by background characteristics, Kenya 2014
+Background characteristic	Total wanted fertility rates	Total fertility rate
+Residence
+Urban	2.6	3.1
+Rural	3.4	4.6
+Region
+Coast	3.8	4.4
+North Eastern	6.4	6.7
+Eastern	2.5	3.6
+Central	2.1	2.7
+Rift Valley	3.4	4.6
+Western	3.2	4.5
+Nyanza	3.0	4.5
+Nairobi	2.3	2.8
+Education
+No education	6.1	6.8
+Primary incomplete	3.3	4.8
+Primary complete	3.1	4.1
+Secondary+	2.4	3.0
+Wealth quintile
+Lowest	5.0	6.5
+Second	3.1	4.7
+Middle	2.7	4.0
+Fourth	2.7	3.2
+Highest	2.3	2.7
+Total	3.0	4.0
+Note: Rates are calculated based on births to women age 15-49 in the period 1-36 months preceding the survey. The total fertility rates are the same as those presented in Table 5.2.

@@ -1,0 +1,11 @@
+Table 7.13 Future use of contraception
+Percent distribution of currently married women age 15-49 who are not using a contraceptive method by intention to use in the future, according to number of living children, Kenya 2014
+Intention	Number of living children1					Total
+	0	1	2	3	4+
+Intends to use	64.9	68.8	68.3	58.4	45.4	57.3
+Unsure	6.8	4.0	3.1	2.6	3.7	3.7
+Does not intend to use	28.3	26.3	27.7	37.6	50.2	38.2
+Missing	0.0	0.9	0.9	1.4	0.6	0.8
+Total	100.0	100.0	100.0	100.0	100.0	100.0
+Number of women	231	626	708	616	1,475	3,656
+1 Includes current pregnancy

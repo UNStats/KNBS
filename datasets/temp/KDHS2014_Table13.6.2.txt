@@ -1,0 +1,43 @@
+Table 13.6.2 Accepting attitudes towards those living with HIV/AIDS: Men
+Among men age 15-49 who have heard of HIV/AIDS, percentage expressing specific accepting attitudes towards people with HIV/AIDS, by background characteristics, Kenya 2014
+Background characteristic	Percentage of men who:				Percentage expressing accepting attitudes on all four indicators	Number of men who have heard of AIDS
+	Are willing to care for a family member with AIDS in the respondent’s home	Would buy fresh vegetables from shopkeeper who has the AIDS virus	Say that a female teacher who has the AIDS virus but is not sick should be allowed to continue teaching	Would not want to keep secret that a family member got infected with the AIDS virus
+Age
+15-24	94.1	80.4	86.6	48.5	36.9	4,648
+15-19	93.1	77.6	84.3	44.8	32.9	2,526
+20-24	95.3	83.7	89.3	52.9	41.7	2,122
+25-29	96.0	86.4	88.2	56.2	44.6	2,104
+30-39	96.4	85.8	87.2	60.0	48.3	3,267
+40-49	96.2	86.6	89.8	62.6	50.8	2,020
+Marital status
+Never married	94.3	81.9	87.2	49.1	38.4	5,328
+Ever had sex	95.7	85.4	88.8	50.4	40.7	3,507
+Never had sex	91.6	75.2	84.3	46.7	33.9	1,821
+Married/living together	96.6	85.8	88.3	60.0	47.9	6,093
+Divorced/separated/widowed	93.5	82.9	83.4	62.6	48.1	618
+Residence
+Urban	96.3	87.2	92.3	52.8	44.3	5,298
+Rural	94.7	81.4	83.8	57.3	43.2	6,741
+Region
+Coast	89.8	82.3	82.8	53.8	43.8	1,256
+North Eastern	75.8	50.8	66.5	75.9	31.0	225
+Eastern	95.0	77.9	83.5	49.3	35.2	1,820
+Central	97.8	92.2	91.7	60.2	52.5	1,560
+Rift Valley	96.5	82.3	85.8	60.5	46.9	3,044
+Western	97.6	84.9	88.6	55.1	43.7	1,162
+Nyanza	95.8	89.9	92.1	54.3	46.0	1,403
+Nairobi	96.9	85.8	93.9	46.8	38.1	1,568
+Education
+No education	79.8	47.4	46.9	56.2	18.2	338
+Primary incomplete	92.6	71.9	76.4	49.4	31.2	3,058
+Primary complete	95.8	85.0	88.4	59.8	47.0	2,732
+Secondary+	97.6	91.7	95.3	56.3	50.1	5,911
+Wealth quintile
+Lowest	89.8	68.0	70.5	53.7	30.5	1,679
+Second	95.3	82.0	84.1	56.0	42.7	2,140
+Middle	96.6	85.0	88.4	54.3	43.5	2,366
+Fourth	96.7	87.3	92.1	58.1	48.5	2,958
+Highest	96.5	90.3	94.8	53.7	47.3	2,896
+Total 15-49	95.4	83.9	87.6	55.3	43.7	12,039
+50-54	96.3	83.0	85.4	65.6	50.8	756
+Total 15-54	95.5	83.9	87.5	55.9	44.1	12,795

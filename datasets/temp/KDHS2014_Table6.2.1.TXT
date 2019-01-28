@@ -1,0 +1,30 @@
+Table 6.2.1 Desire to limit childbearing: Women
+Percentage of currently married women age 15-49 who want no more children, by number of living children, according to background characteristics, Kenya 2014
+Background characteristic	Number of living children1							Total
+	0	1	2	3	4	5	6+	
+Residence
+Urban	0.7	6.4	38.2	65.8	81.4	82.3	75.3	42.7
+Rural	6.5	6.1	32.3	56.8	71.1	78.7	82.4	55.1
+Region
+Coast	0.0	2.2	21.2	50.0	52.2	53.9	71.7	37.1
+North Eastern	'(0.0)	'(1.4) 1.2	8.3	0.3	0.8	13.4	6.1
+Eastern	'(0.0)	8.3	46.5	70.4	88.2	92.2	95.4	60.3
+Central	*	6.3	42.4	71.5	91.8	100.0	98.4	55.5
+Rift Valley	14.5	5.1	29.2	48.0	65.0	81.1	83.0	48.1
+Western	*	7.1	26.4	57.3	72.2	73.9	94.6	56.4
+Nyanza	'(0.0)	6.7	35.2	59.5	81.8	84.7	83.6	57.5
+Nairobi	*	8.6	38.9	'(77.8)	*	*	*	41.6
+Education
+No education	0.0	8.8	12.1	25.4	27.2	42.7	52.8	33.4
+Primary incomplete	'(0.0)	10.1	26.3	52.3	71.8	78.5	84.2	57.3
+Primary complete	3.8	7.3	35.5	60.9	79.6	88.3	96.3	55.3
+Secondary+	3.5	4.9	41.1	73.4	90.0	93.7	90.7	45.4
+Wealth quintile
+Lowest	0.0	5.6	19.5	30.8	42.7	58.0	67.4	41.9
+Second	'(3.4)	8.9	30.3	59.7	75.3	82.2	91.0	58.4
+Middle	'(16.1)	3.8	29.1	60.4	81.4	87.7	88.8	58.1
+Fourth	1.6	6.1	37.3	63.3	83.3	89.3	87.9	49.1
+Highest	1.3	6.6	44.3	73.6	90.4	88.6	72.8	44.7
+Total	2.7	6.3	35.3	60.2	74.2	79.6	81.4	50.2
+Note: Women who have been sterilised are considered to want no more children. Figures in parentheses are based on 25-49 unweighted cases. An asterisk denotes a figure based on fewer than 25 unweighted cases that has been suppressed.
+1 The number of living children includes the current pregnancy.

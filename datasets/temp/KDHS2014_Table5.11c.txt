@@ -1,0 +1,59 @@
+Table 5.11C Teenage pregnancy and motherhood
+Percentage of women age 15-19 who have had a live birth or who are pregnant with their first child, and percentage who have begun childbearing, by county, Kenya 2014
+County 	Percentage of women age 15-19 who:		Percentage who have begun childbearing	Number of women
+	Have had a live birth	Are pregnant with first child
+Coast	16.6	4.3	20.8	604
+Mombasa	11.6	5.0	16.6	123
+Kwale	18.9	5.3	24.2	132
+Kilifi	18.8	3.0	21.8	252
+Tana River	20.4	7.8	28.2	41
+Lamu	8.2	1.9	10.0	20
+Taita Taveta	10.0	3.4	13.4	36
+North Eastern	8.7	3.5	12.2	143
+Garissa	8.5	1.7	10.2	67
+Wajir	13.8	3.5	17.4	41
+Mandera	3.3	6.8	10.1	36
+Eastern	12.1	2.3	14.4	849
+Marsabit	11.9	4.8	16.6	25
+Isiolo	18.0	0.9	18.9	18
+Meru	18.3	1.5	19.9	185
+Tharaka-Nithi	10.4	3.2	13.7	50
+Embu	4.7	3.3	8.0	91
+Kitui	11.8	3.0	14.8	169
+Machakos	12.2	1.7	14.0	143
+Makueni	9.3	1.8	11.1	168
+Central	7.7	2.7	10.4	600
+Nyandarua	4.0	5.7	9.7	67
+Nyeri	4.2	2.7	6.9	101
+Kirinyaga	9.2	2.1	11.3	54
+Murang’a	2.6	3.8	6.3	137
+Kiambu	12.7	1.4	14.1	242
+Rift Valley	17.0	4.3	21.2	1,492
+Turkana	17.6	2.6	20.2	51
+West Pokot	22.8	5.9	28.6	38
+Samburu	19.7	6.0	25.7	21
+Trans-Nzoia	18.9	4.3	23.3	185
+Uasin Gishu	16.4	5.9	22.2	137
+Elgeyo Marakwet	7.4	1.2	8.7	51
+Nandi	13.8	1.8	15.6	133
+Baringo	10.5	2.7	13.2	83
+Laikipia	14.8	3.9	18.7	65
+Nakuru	13.4	5.0	18.4	295
+Narok	33.0	7.4	40.4	107
+Kajiado	16.2	4.0	20.2	106
+Kericho	17.6	2.9	20.5	91
+Bomet	19.6	4.5	24.0	129
+Western	14.1	2.7	16.8	790
+Kakamega	13.5	6.0	19.4	242
+Vihiga	10.8	2.0	12.7	98
+Bungoma	13.8	0.7	14.4	319
+Busia	18.4	2.3	20.8	131
+Nyanza	19.2	3.0	22.2	874
+Siaya	13.6	3.6	17.2	130
+Kisumu	12.4	3.1	15.4	179
+Homa Bay	31.2	2.1	33.3	177
+Migori	20.9	3.4	24.3	140
+Kisii	15.9	2.5	18.4	191
+Nyamira	23.5	4.3	27.8	58
+Nairobi	13.1	4.3	17.4	467
+Total	14.7	3.4	18.1	5,820

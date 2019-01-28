@@ -1,0 +1,32 @@
+Table 5.7 Median duration of amenorrhoea, postpartum abstinence and postpartum insusceptibility
+Median number of months of postpartum amenorrhoea, postpartum abstinence, and postpartum insusceptibility following births in the three years preceding the survey, by background characteristics, Kenya 2014
+Background characteristic	Postpartum amenorrhoea	Postpartum abstinence	Postpartum insusceptibility1
+Mother’s age
+15-29	5.6	3.3	7.8
+30-49	9.3	2.3	9.9
+Residence
+Urban	4.3	2.9	5.1
+Rural	8.7	3.0	10.8
+Region
+Coast	7.9	3.4	9.3
+North Eastern	5.4	2.8	8.2
+Eastern	4.3	3.4	6.1
+Central	4.8	*	4.9
+Rift Valley	8.8	3.8	11.2
+Western	5.3	*	10.8
+Nyanza	7.5	'(2.0)	9.4
+Nairobi	*	*	*
+Education
+No education	10.7	3.7	12.0
+Primary incomplete	9.6	2.9	11.1
+Primary complete	5.5	2.7	6.9
+Secondary+	4.3	3.0	5.4
+Wealth quintile
+Lowest	10.9	3.5	12.3
+Second	7.3	2.6	10.7
+Middle	6.1	2.7	10.5
+Fourth	5.1	2.8	5.8
+Highest	4.0	2.9	4.5
+Total	6.2	3.0	8.6
+Note: Figures in parentheses are based on 25-49 unweighted cases. An asterisk denotes a figure based on fewer than 25 unweighted cases that has been suppressed. Medians are based on the status at the time of the survey (current status).
+1 Includes births for which mothers are either still amenorrhoeic or still abstaining (or both) following birth

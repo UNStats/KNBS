@@ -1,0 +1,60 @@
+Table 13.12.1C Coverage of prior HIV testing: Women
+Percentage of women age 15-49 who know where to get an HIV test, percent distribution of women age 15-49 by testing status and by whether they received the results of the last test, the percentage of women ever tested, and the percentage of women age 15-49 who were tested in the past 12 months and received the results of the last test, according to county, Kenya 2014
+County	Percentage who know where to get an HIV test	Percent distribution of women by testing status and by whether they received the results of the last test			Total	Percentage ever tested	Percentage who have been tested for HIV in the past 12 months and received the results of the last test	Number of women
+		Ever tested and received results	Ever tested, did not receive results	Never tested 1/
+Coast	90.6	84.3	1.6	14.2	100.0	85.8	53.4	3,076
+Mombasa	91.5	86.7	0.9	12.3	100.0	87.7	57.8	912
+Kwale	91.1	85.0	0.7	14.3	100.0	85.7	51.8	619
+Kilifi	90.1	82.6	2.2	15.1	100.0	84.9	53.9	1,043
+Tana River	85.9	77.5	4.1	18.4	100.0	81.6	41.6	197
+Lamu	90.8	81.7	2.0	16.3	100.0	83.7	45.3	89
+Taita Taveta	92.1	86.6	0.8	12.6	100.0	87.4	51.4	215
+North Eastern	59.5	48.7	2.8	48.4	100.0	51.6	20.1	648
+Garissa	62.4	53.4	1.8	44.8	100.0	55.2	27.3	261
+Wajir	59.4	53.0	2.9	44.1	100.0	55.9	21.1	212
+Mandera	55.4	36.6	4.4	59.1	100.0	40.9	8.1	175
+Eastern	90.7	83.2	1.1	15.7	100.0	84.3	51.0	4,375
+Marsabit	74.9	64.3	1.9	33.9	100.0	66.1	34.2	115
+Isiolo	93.6	87.0	2.4	10.6	100.0	89.4	45.5	104
+Meru	92.1	84.5	1.1	14.4	100.0	85.6	45.3	1,110
+Tharaka-Nithi	90.3	82.8	3.6	13.6	100.0	86.4	51.6	275
+Embu	90.0	83.6	0.1	16.3	100.0	83.7	51.4	459
+Kitui	90.2	82.8	0.5	16.7	100.0	83.3	56.2	759
+Machakos	92.5	86.5	0.7	12.9	100.0	87.1	55.4	873
+Makueni	89.2	80.0	1.4	18.6	100.0	81.4	52.3	680
+Central	92.7	84.4	2.3	13.3	100.0	86.7	53.0	3,994
+Nyandarua	92.9	84.5	4.1	11.4	100.0	88.6	54.5	436
+Nyeri	94.7	87.7	0.6	11.7	100.0	88.3	54.5	650
+Kirinyaga	94.2	85.5	2.6	11.9	100.0	88.1	56.6	451
+Murang’a	90.8	82.0	2.6	15.5	100.0	84.5	51.5	735
+Kiambu	92.3	83.9	2.3	13.8	100.0	86.2	51.6	1,722
+Rift Valley	89.9	81.4	2.4	16.1	100.0	83.9	51.8	7,953
+Turkana	75.4	69.5	0.2	30.2	100.0	69.8	42.4	320
+West Pokot	79.1	66.6	8.4	25.0	100.0	75.0	34.1	267
+Samburu	84.3	67.8	5.6	26.6	100.0	73.4	45.0	123
+Trans-Nzoia	85.9	72.1	5.3	22.6	100.0	77.4	43.1	768
+Uasin Gishu	95.4	89.1	1.1	9.8	100.0	90.2	63.5	784
+Elgeyo Marakwet	89.8	79.4	1.5	19.0	100.0	81.0	51.3	250
+Nandi	88.5	81.8	0.6	17.6	100.0	82.4	53.3	628
+Baringo	85.6	74.9	2.5	22.5	100.0	77.5	51.5	335
+Laikipia	89.6	81.7	2.8	15.5	100.0	84.5	50.2	342
+Nakuru	92.6	84.2	2.7	13.1	100.0	86.9	50.3	1,574
+Narok	90.2	84.1	2.2	13.7	100.0	86.3	55.6	642
+Kajiado	91.3	85.6	0.4	13.9	100.0	86.1	53.0	670
+Kericho	94.4	84.8	2.8	12.4	100.0	87.6	59.1	563
+Bomet	91.8	84.2	2.1	13.8	100.0	86.2	53.0	687
+Western	87.7	77.8	2.4	19.8	100.0	80.2	45.4	3,225
+Kakamega	87.9	77.9	2.8	19.3	100.0	80.7	44.4	1,108
+Vihiga	89.6	79.7	3.0	17.4	100.0	82.6	44.8	368
+Bungoma	85.6	74.6	2.0	23.4	100.0	76.6	44.4	1,203
+Busia	90.9	83.3	2.2	14.6	100.0	85.4	50.0	546
+Nyanza	93.0	86.4	2.0	11.6	100.0	88.4	60.4	4,038
+Siaya	92.9	85.5	3.5	11.0	100.0	89.0	57.5	572
+Kisumu	94.4	89.0	0.7	10.3	100.0	89.7	62.1	820
+Homa Bay	96.2	93.0	1.0	6.0	100.0	94.0	70.9	798
+Migori	93.6	87.7	3.1	9.2	100.0	90.8	64.5	650
+Kisii	89.2	78.9	1.9	19.3	100.0	80.7	51.4	864
+Nyamira	91.0	82.3	3.7	13.9	100.0	86.1	50.6	334
+Nairobi	94.3	90.0	0.9	9.1	100.0	90.9	60.4	3,770
+Total 15-49	90.5	83.0	1.9	15.1	100.0	84.9	52.8	31,079
+1/ Includes ‘don’t know/missing’

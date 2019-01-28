@@ -1,0 +1,61 @@
+Table 11.8C Micronutrient intake among children: Vitamin A and iodised salt
+Among all children 6-59 months, the percentages who were given vitamin A supplements in the six months preceding the survey, and among all children age 6-59 months who live in households that were tested for iodised salt, the percentage who live in households with iodised salt, by county, Kenya 2014
+County	Among all children age 6-59 months:		Among children age 6-59 months living in households tested for iodised salt:
+	Percentage given vitamin A supplements in last 6 months	Number of children	Percentage living in households with iodised salt1	Number of children
+Coast	69.6	1,711	97.5	1,659
+Mombasa	81.7	438	100.0	423
+Kwale	86.6	350	98.1	332
+Kilifi	49.9	624	95.5	610
+Tana River	67.6	151	99.6	148
+Lamu	77.2	47	86.0	46
+Taita Taveta	78.9	100	99.6	100
+North Eastern	55.1	579	98.2	490
+Garissa	75.5	206	96.6	180
+Wajir	58.5	233	98.7	193
+Mandera	19.5	140	100.0	118
+Eastern	73.9	2,051	99.5	1,997
+Marsabit	65.0	80	100.0	74
+Isiolo	81.2	74	96.7	71
+Meru	59.5	443	100.0	427
+Tharaka-Nithi	74.3	125	98.7	117
+Embu	78.5	179	100.0	176
+Kitui	84.5	387	99.8	379
+Machakos	71.6	442	99.0	442
+Makueni	82.1	321	99.7	310
+Central	79.2	1,578	99.9	1,538
+Nyandarua	80.5	207	100.0	207
+Nyeri	76.1	220	100.0	219
+Kirinyaga	76.7	171	98.9	154
+Murang’a	76.4	264	100.0	252
+Kiambu	81.3	716	100.0	706
+Rift Valley	67.5	4,956	99.8	4,695
+Turkana	69.8	309	99.3	206
+West Pokot	64.2	263	100.0	259
+Samburu	72.6	105	99.3	98
+Trans-Nzoia	70.2	452	100.0	441
+Uasin Gishu	68.7	419	100.0	407
+Elgeyo Marakwet	80.7	147	100.0	146
+Nandi	66.6	351	100.0	349
+Baringo	67.2	207	100.0	198
+Laikipia	90.1	185	98.9	169
+Nakuru	73.6	783	100.0	776
+Narok	57.9	560	100.0	542
+Kajiado	47.8	415	99.6	378
+Kericho	67.1	326	98.7	309
+Bomet	69.9	431	100.0	417
+Western	77.8	1,967	99.4	1,912
+Kakamega	65.0	674	99.3	655
+Vihiga	76.3	202	98.5	198
+Bungoma	87.6	746	99.4	724
+Busia	82.6	346	100.0	336
+Nyanza	70.0	2,411	99.9	2,339
+Siaya	60.8	347	100.0	332
+Kisumu	74.0	437	100.0	416
+Homa Bay	79.2	561	99.7	553
+Migori	73.3	466	99.8	449
+Kisii	55.4	423	100.0	413
+Nyamira	75.4	177	100.0	176
+Nairobi	77.7	1,754	100.0	1,730
+Total	71.7	17,008	99.5	16,360
+Note: Information on vitamin A is based on both mother’s recall and the immunisation card (where available).
+1 Excludes children in households in which salt was not tested.

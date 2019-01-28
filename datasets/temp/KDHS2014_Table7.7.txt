@@ -1,0 +1,26 @@
+Table 7.7 Source of modern contraception methods
+Percent distribution of users of modern contraceptive methods age 15-49 by most recent source of method, according to method, Kenya 2014
+Source	Female sterilisation	Pill	IUD	Injectables	Implants	Male condom	Total
+Public sector	74.5	39.6	64.3	62.7	78.2	23.7	59.9
+Government hospital	50.8	13.3	32.1	15.2	28.4	9.4	19.9
+Government health centre	14.7	11.0	19.6	15.6	23.5	6.4	15.9
+Government dispensary	9.0	15.3	12.7	31.9	26.3	7.9	24.1
+Other public	0.0	0.0	0.0	0.0	0.0	0.1	0.0
+Private medical sector	21.4	57.0	34.5	36.4	18.2	19.4	33.7
+Private hospital/clinic	9.3	10.4	29.0	29.3	15.6	1.9	20.7
+Pharmacy/chemist	0.0	45.4	0.0	5.4	0.0	16.1	10.3
+Nursing/maternity home	0.9	0.2	0.9	0.1	0.3	0.6	0.3
+Faith-based church, mission hospital/clinic	10.3	0.6	2.8	1.4	1.8	0.8	1.9
+Family options/FHOK clinic	0.9	0.0	1.9	0.2	0.4	0.0	0.3
+Other private	0.0	0.3	0.0	0.0	0.0	0.0	0.1
+Other source	0.6	2.9	1.0	0.6	3.5	48.3	5.3
+Shop	0.0	1.3	0.0	0.0	0.0	39.0	3.3
+Mobile clinic	0.6	0.1	1.0	0.6	3.5	0.4	1.1
+Community-based distributor	0.0	0.5	0.0	0.0	0.0	0.8	0.1
+Community health worker (CHW)	0.0	0.5	0.0	0.0	0.0	0.4	0.1
+Friend/relative	0.0	0.6	0.0	0.0	0.0	7.6	0.7
+Other	0.3	0.1	0.0	0.0	0.0	7.2	0.6
+Total	100.0	100.0	100.0	100.0	100.0	100.0	100.0
+Number of women	691	1,703	712	5,818	2,213	975	12,131
+Note: Total includes other modern methods but excludes lactational amenorrhoea method (LAM). Total includes contraceptive methods with too few users to show separately, including one user of male sterilisation and six female condom users. Totals may not add up to 100 percent because women with missing information are not shown separately.
+FHOK = Family Health Organisation of Kenya

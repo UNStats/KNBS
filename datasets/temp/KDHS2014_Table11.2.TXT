@@ -1,0 +1,44 @@
+﻿Table 11.2 Initial breastfeeding
+Among last-born children who were born in the two years preceding the survey, the percentage who were ever breastfed and the percentages who started breastfeeding within one hour and within one day of birth; and among last-born children born in the two years preceding the survey who were ever breastfed, the percentage who received a prelacteal feed, by background characteristics, Kenya 2014
+Background characteristic	Among last-born children born in the past two years:				Among last-born children born in the past two years who were ever breastfed:
+	Percentage ever breastfed	Percentage who started breastfeeding within 1 hour of birth	Percentage who started breastfeeding within 1 day of birth1	Number of lastborn children	Percentage who received a prelacteal feed2	Number of lastborn children ever breastfed
+Sex
+Male	98.9	62.3	90.4	1,816	15.6	1,796
+Female	98.5	62.1	90.9	1,728	15.4	1,702
+Assistance at delivery
+Health professional3	98.9	62.1	92.1	2,337	11.2	2,310
+Traditional birth attendant	99.3	65.5	91.0	616	23.6	612
+Other	98.2	61.2	85.7	436	24.4	428
+No one	96.2	53.8	81.4	153	23.5	148
+Place of delivery
+Health facility	98.8	62.1	92.2	2,314	11.1	2,287
+At home	98.6	62.4	87.6	1,198	24.4	1,181
+Other	'(98.2)	'(64.1)	'(96.8)	27	'(3.3)	27
+Residence
+Urban	98.7	60.5	89.5	1,261	12.4	1,245
+Rural	98.7	63.1	91.3	2,282	17.2	2,253
+Region
+Coast	99.1	62.1	83.7	374	21.0	370
+North Eastern	98.7	80.8	95.3	108	16.4	107
+Eastern	98.8	64.9	95.0	429	6.4	424
+Central	99.3	48.1	92.4	312	7.7	309
+Rift Valley	98.9	69.4	89.5	1,057	18.6	1,045
+Western	98.9	52.8	92.3	414	25.0	409
+Nyanza	97.6	58.4	95.3	484	11.6	473
+Nairobi	98.3	60.8	85.1	366	12.4	360
+Mother’s education
+No education	99.1	76.0	91.1	414	15.5	410
+Primary incomplete	98.6	58.5	88.5	999	20.3	985
+Primary complete	98.4	64.6	93.2	914	15.0	900
+Secondary+	98.8	58.8	90.3	1,216	12.0	1,202
+Wealth quintile
+Lowest	98.9	66.7	90.9	879	18.4	870
+Second	98.5	61.0	89.8	698	17.2	687
+Middle	97.6	58.8	90.4	631	17.3	616
+Fourth	99.0	64.4	92.5	648	10.9	642
+Highest	99.3	58.8	89.8	687	12.9	683
+Total	98.7	62.2	90.6	3,544	15.5	3,498
+Note: Table is based on last-born children born in the two years preceding the survey regardless of whether the children are living or dead at the time of interview. Total includes two children with missing information on assistance at delivery and six children with missing information on place of delivery. Figures in parentheses are based on 25-49 unweighted cases.
+1 Includes children who started breastfeeding within one hour of birth
+2 Children given something other than breast milk during the first three days of life
+3 Doctor, nurse or midwife

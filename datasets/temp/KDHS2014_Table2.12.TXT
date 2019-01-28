@@ -1,0 +1,29 @@
+Table 2.12 School attendance by survivorship of parents
+For de jure children 10-14 years of age, the percentage attending school by parental survival and the ratio of the percentages attending school, by parental survival, according to background characteristics, Kenya 2014
+Percentage attending school by survivorship of parents
+Background characteristic	Both parents deceased		Both parents alive and living with at least one parent	Ratio1
+	Percentage	Number	Percentage	Number
+Sex
+Male	95.0	185	97.0	7,309	0.98
+Female	97.4	198	96.5	7,144	1.01
+Residence
+Urban	96.2	118	98.3	3,982	0.98
+Rural	96.2	265	96.1	10,471	1.00
+Region
+Coast	'(78.9)	28	95.5	1,430	'(0.83)
+North Eastern	*	6	72.2	616	*
+Eastern	92.2	47	98.6	2,135	0.94
+Central	*	13	99.5	1,514	1.01
+Rift Valley	95.2	62	95.9	4,046	0.99
+Western'(100.0) 48	99.3	1,743	'(1.01)
+Nyanza	99.0	169	99.4	2,053	1.00
+Nairobi	*	10	99.2	916	*
+Wealth quintile
+Lowest	94.4	69	88.7	3,420	1.06
+Second	97.1	93	99.1	3,101	0.98
+Middle	97.6	100	99.4	2,984	0.98
+Fourth	98.8	81	99.1	2,671	1.00
+Highest	'(88.8) 41	99.2	2,277	'(0.90)
+Total	96.2	383	96.7	14,453	0.99
+Note: Table is based only on children who usually live in the household. Figures in parentheses are based on 25-49 unweighted cases. An asterisk denotes that a figure is based on fewer than 25 unweighted cases and has been suppressed.
+1 Ratio of the percentage with both parents deceased to the percentage with both parents alive and living with at least one parent

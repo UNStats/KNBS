@@ -1,0 +1,36 @@
+Table 6.4 Mean ideal number of children
+Mean ideal number of children for all women age 15-49 by background characteristics, Kenya 2014
+Background characteristic	Mean	Number of women1
+Age
+15-19	3.2	2,662
+20-24	3.3	2,654
+25-29	3.5	2,888
+30-34	3.6	2,111
+35-39	4.0	1,728
+40-44	4.2	1,252
+45-49	4.5	1,015
+Residence
+Urban	3.2	5,818
+Rural	3.9	8,493
+Region
+Coast	4.2	1,336
+North Eastern	9.3	270
+Eastern	3.1	2,046
+Central	3.2	1,887
+Rift Valley	3.8	3,659
+Western	3.7	1,544
+Nyanza	3.4	1,856
+Nairobi	3.0	1,712
+Education
+No education	7.0	935
+Primary incomplete	3.9	3,671
+Primary complete	3.5	3,490
+Secondary+	3.0	6,214
+Wealth quintile
+Lowest	5.1	2,136
+Second	3.6	2,531
+Middle	3.5	2,808
+Fourth	3.3	3,067
+Highest	3.1	3,769
+Total	3.6	14,311
+1 Number of women who gave a numeric response

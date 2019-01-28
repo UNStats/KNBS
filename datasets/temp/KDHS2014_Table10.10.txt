@@ -1,0 +1,44 @@
+Table 10.10 Disposal of children’s stools
+Percent distribution of youngest children under age five living with the mother by the manner of disposal of the child’s last faecal matter, and percentage of children whose stools are disposed of safely, according to background characteristics, Kenya 2014
+Background characteristic	Manner of disposal of children’s stools								Total	Percentage of children whose stools are disposed of safely1	Number of children
+	Child used toilet or latrine	Put/rinsed into toilet or latrine	Buried	Put/rinsed into drain or ditch	Thrown into garbage	Left in the open	Other	Missing
+Age in months
+<6	2.5	60.9	5.0	8.4	15.4	5.7	2.0	0.0	100.0	68.4	794
+'6-11	5.3	62.9	5.3	6.7	11.4	7.3	1.0	0.0	100.0	73.5	894
+'12-23	4.8	69.6	6.1	4.3	9.3	5.5	0.5	0.1	100.0	80.4	1,700
+24-35	14.9	69.6	5.1	2.2	3.7	4.3	0.2	0.2	100.0	89.5	1,347
+36-47	37.8	49.8	3.8	0.8	2.6	4.8	0.2	0.2	100.0	91.5	982
+48-59	63.7	26.3	2.3	1.0	2.2	3.1	0.2	1.1	100.0	92.3	721
+Toilet facility2
+Improved, not shared	25.5	62.5	0.8	3.6	5.2	2.0	0.2	0.2	100.0	88.8	1,405
+Shared3	15.1	70.9	1.0	2.6	8.2	1.8	0.2	0.3	100.0	87.0	1,755
+Non-improved or
+shared	17.0	52.5	8.6	4.5	7.8	8.3	1.0	0.2	100.0	78.1	3,272
+Residence
+Urban	19.9	65.8	1.1	2.7	9.2	1.0	0.2	0.1	100.0	86.8	2,398
+Rural	17.4	56.1	7.1	4.4	6.2	7.6	0.9	0.3	100.0	80.6	4,041
+Region
+Coast	13.2	53.1	10.6	7.0	13.0	2.4	0.1	0.5	100.0	76.9	651
+North Eastern	0.9	36.2	24.3	2.9	19.5	13.9	0.8	1.4	100.0	61.5	174
+Eastern	24.5	60.8	4.1	1.3	4.4	4.0	0.8	0.0	100.0	89.4	849
+Central	33.9	60.1	0.6	1.4	1.9	1.4	0.0	0.6	100.0	94.6	674
+Rift Valley	13.7	59.6	2.2	4.2	7.8	11.5	1.0	0.0	100.0	75.5	1,805
+Western	28.9	59.7	5.9	3.1	0.6	1.1	0.6	0.0	100.0	94.5	753
+Nyanza	11.5	66.9	9.0	5.4	2.8	3.2	0.9	0.3	100.0	87.4	877
+Nairobi	13.7	61.5	0.0	4.0	20.3	0.6	0.0	0.0	100.0	75.1	655
+Mother’s education
+No education	6.1	27.8	14.6	7.5	23.6	18.1	1.6	0.6	100.0	48.5	655
+Primary incomplete	16.9	57.2	7.2	5.5	4.9	7.1	0.9	0.3	100.0	81.3	1,803
+Primary complete	22.3	64.1	3.4	2.9	3.8	3.1	0.4	0.1	100.0	89.8	1,713
+Secondary+	20.0	67.7	1.2	2.0	7.2	1.4	0.3	0.2	100.0	88.9	2,267
+Wealth quintile
+Lowest	7.3	35.2	14.0	8.4	16.3	16.7	1.8	0.3	100.0	56.5	1,338
+Second	19.0	63.3	6.1	2.6	2.5	5.5	0.7	0.1	100.0	88.5	1,267
+Middle	21.6	67.4	2.7	4.2	1.6	1.9	0.3	0.4	100.0	91.7	1,207
+Fourth	22.3	68.6	0.9	2.4	4.8	0.7	0.1	0.1	100.0	91.9	1,247
+Highest	21.9	65.4	0.2	1.4	10.3	0.5	0.1	0.1	100.0	87.6	1,379
+Total	18.3	59.7	4.9	3.8	7.3	5.2	0.6	0.2	100.0	82.9	6,438
+Note: Total includes seven children for whom information on type of facility is missing.
+1 Children’s stools are considered to be disposed of safely if the child used a toilet or latrine, if the faecal matter was put/rinsed into a toilet or latrine or if it was buried.
+2 See Table 2.2 for definition of categories
+3 Facilities that would be considered improved if they were not shared by two or more households

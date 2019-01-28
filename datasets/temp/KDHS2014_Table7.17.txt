@@ -1,0 +1,36 @@
+Table 7.17 Husband/partner’s knowledge of women’s use of contraception
+Among currently married women age 15-49 who are using a method, percent distribution by whether they report that their husbands/partners know about their use, according to background characteristics, Kenya 2014
+Background characteristic	Knows1	Does not know	Unsure whether knows/missing	Total	Number of women
+Age
+15-19	92.9	7.1	0.0	100.0	116
+20-24	92.8	7.0	0.2	100.0	778
+25-29	92.3	7.5	0.2	100.0	1,319
+30-34	92.2	7.8	0.0	100.0	1,093
+35-39	91.3	8.5	0.2	100.0	863
+40-44	90.6	8.9	0.5	100.0	545
+45-49	91.8	7.5	0.7	100.0	342
+Residence
+Urban	93.3	6.5	0.2	100.0	2,154
+Rural	91.0	8.7	0.3	100.0	2,900
+Region
+Coast	93.0	7.0	0.1	100.0	377
+North Eastern	52.6	47.4	0.0	100.0	7
+Eastern	94.1	5.7	0.1	100.0	894
+Central	93.5	6.4	0.2	100.0	813
+Rift Valley	91.6	8.0	0.4	100.0	1,141
+Western	88.0	11.8	0.2	100.0	554
+Nyanza	88.8	10.8	0.4	100.0	666
+Nairobi	94.7	5.3	0.0	100.0	603
+Education
+No education	81.7	17.5	0.7	100.0	151
+Primary incomplete	86.9	12.7	0.4	100.0	1,230
+Primary complete	93.2	6.7	0.1	100.0	1,594
+Secondary+	94.8	5.0	0.2	100.0	2,080
+Wealth quintile
+Lowest	84.2	15.4	0.5	100.0	453
+Second	89.4	10.5	0.2	100.0	913
+Middle	90.7	9.0	0.3	100.0	1,054
+Fourth	93.7	6.2	0.1	100.0	1,250
+Highest	95.8	4.0	0.2	100.0	1,385
+Total	92.0	7.8	0.2	100.0	5,054
+1 Includes women who report use of male sterilisation, male condoms, or withdrawa

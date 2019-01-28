@@ -1,0 +1,63 @@
+Table 3.3.2C Literacy: Men
+Percent distribution of men age 15-49 by level of schooling attended and level of literacy, and percentage literate, according to county, Kenya 2014
+County	Secondary school or higher	No schooling or primary school					Total	Percentage literate1	Number of men
+		Can read a whole sentence	Can read part of a sentence	Cannot read at all	No card with required language	Blind/visually impaired
+Coast	43.9	45.8	4.2	5.9	0.0	0.1	100.0	93.9	1,260
+Mombasa	56.1	40.4	2.4	1.1	0.0	0.0	100.0	98.9	481
+Kwale	33.9	42.1	11.6	12.4	0.0	0.0	100.0	87.6	226
+Kilifi	38.1	54.1	1.9	5.5	0.0	0.0	100.0	94.1	359
+Tana River	23.3	50.8	6.6	18.8	0.0	0.4	100.0	80.8	65
+Lamu	34.5	48.3	4.2	12.4	0.0	0.6	100.0	87.1	37
+Taita Taveta	45.3	46.3	3.2	4.3	0.0	0.4	100.0	94.8	93
+North Eastern	28.4	29.2	9.6	32.3	0.4	0.0	100.0	67.2	227
+Garissa	32.9	28.2	11.1	27.8	0.0	0.0	100.0	72.2	94
+Wajir	28.1	27.7	8.9	33.9	1.3	0.0	100.0	64.7	72
+Mandera	21.6	32.7	7.9	37.4	0.0	0.0	100.0	62.2	60
+Eastern	38.9	46.2	6.5	8.4	0.0	0.0	100.0	91.6	1,825
+Marsabit	35.7	7.1	20.8	36.4	0.0	0.0	100.0	63.6	40
+Isiolo	37.9	27.7	22.3	12.1	0.0	0.0	100.0	87.9	35
+Meru	34.3	52.1	3.9	9.6	0.0	0.0	100.0	90.4	495
+Tharaka-Nithi	41.1	47.1	2.3	9.5	0.0	0.0	100.0	90.5	102
+Embu	38.0	44.3	9.8	7.8	0.0	0.0	100.0	92.2	164
+Kitui	29.1	43.7	11.9	15.3	0.0	0.0	100.0	84.7	303
+Machakos	46.8	47.3	4.6	1.4	0.0	0.0	100.0	98.6	436
+Makueni	46.8	45.4	3.3	4.5	0.0	0.0	100.0	95.5	250
+Central	58.4	32.3	5.0	4.2	0.0	0.1	100.0	95.8	1,564
+Nyandarua	50.1	36.9	10.1	2.9	0.0	0.0	100.0	97.0	198
+Nyeri	60.5	29.4	5.6	4.0	0.0	0.4	100.0	95.6	229
+Kirinyaga	42.9	45.0	5.8	6.3	0.0	0.0	100.0	93.7	184
+Murang’a	49.1	37.5	4.1	9.3	0.0	0.0	100.0	90.7	284
+Kiambu	68.5	26.2	3.5	1.8	0.0	0.0	100.0	98.2	669
+Rift Valley	45.7	34.4	10.1	9.7	0.0	0.0	100.0	90.1	3,050
+Turkana	21.8	6.8	24.2	47.2	0.0	0.0	100.0	52.8	76
+West Pokot	15.6	47.0	8.7	28.7	0.0	0.0	100.0	71.3	103
+Samburu	35.5	22.0	13.3	29.2	0.0	0.0	100.0	70.8	35
+Trans-Nzoia	38.8	45.3	3.9	12.1	0.0	0.0	100.0	87.9	329
+Uasin Gishu	53.3	38.2	5.9	2.7	0.0	0.0	100.0	97.3	355
+Elgeyo Marakwet	48.7	41.8	5.0	4.1	0.0	0.0	100.0	95.5	86
+Nandi	40.1	39.2	14.8	5.9	0.0	0.0	100.0	94.1	264
+Baringo	44.1	35.7	5.1	14.5	0.0	0.7	100.0	84.9	125
+Laikipia	56.8	29.7	2.2	11.4	0.0	0.0	100.0	88.6	124
+Nakuru	55.6	31.2	8.6	4.7	0.0	0.0	100.0	95.3	589
+Narok	32.7	22.6	25.9	17.9	0.0	0.0	100.0	81.1	240
+Kajiado	62.1	21.3	5.9	10.7	0.0	0.0	100.0	89.3	241
+Kericho	44.9	44.7	7.6	2.6	0.0	0.0	100.0	97.1	215
+Bomet	39.7	35.8	17.5	7.1	0.0	0.0	100.0	92.9	267
+Western	38.8	41.5	6.5	12.8	0.0	0.0	100.0	86.9	1,164
+Kakamega	41.4	47.0	5.7	5.9	0.0	0.0	100.0	94.1	411
+Vihiga	39.0	28.8	27.7	3.7	0.0	0.0	100.0	95.5	140
+Bungoma	37.5	39.3	2.7	19.8	0.0	0.0	100.0	79.5	413
+Busia	36.3	43.7	1.4	18.7	0.0	0.0	100.0	81.3	199
+Nyanza	48.6	36.9	9.6	4.6	0.0	0.2	100.0	95.0	1,405
+Siaya	42.3	46.6	6.5	4.4	0.0	0.0	100.0	95.4	213
+Kisumu	55.8	28.0	14.0	1.9	0.0	0.2	100.0	97.9	309
+Homa Bay	37.9	49.4	1.5	9.8	0.0	1.0	100.0	88.8	243
+Migori	32.5	51.9	8.5	7.1	0.0	0.0	100.0	92.9	211
+Kisii	58.7	27.8	10.1	3.4	0.0	0.0	100.0	96.6	315
+Nyamira	64.7	13.6	21.4	0.0	0.0	0.3	100.0	99.7	114
+Nairobi	72.9	22.4	3.3	1.4	0.0	0.0	100.0	98.6	1,568
+Total	15-49	49.0	36.4	7.0	7.4	0.0	0.0	100.0	92.4	12,063
+50-54	45.2	33.4	8.0	12.1	0.0	1.3	100.0	86.6	756
+Total	15-54	48.8	36.2	7.0	7.7	0.0	0.1	100.0	92.1	12,819
+Note: Totals may not add up to 100 percent because men with missing information are not shown separately.
+1 Refers to men who attended secondary school or higher and men who can read a whole sentence or part of a sentence

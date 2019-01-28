@@ -1,0 +1,4 @@
+"TableTitle"	"Variable"	"Units"	"Year"	"Residence"	"Value"	"de.jure.population"
+"Table 2.1 Household drinking water"	"Percentage of de jure population using an appropriate treatment method"	"percent"	"2014"	"Rural"		
+"Table 2.1 Household drinking water"	"Percentage of de jure population using an appropriate treatment method"	"percent"	"2014"	"Total"		
+"Table 2.1 Household drinking water"	"Percentage of de jure population using an appropriate treatment method"	"percent"	"2014"	"Urban"		

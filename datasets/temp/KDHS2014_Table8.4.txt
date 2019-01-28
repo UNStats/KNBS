@@ -1,0 +1,42 @@
+Table 8.4 Perinatal mortality
+Number of stillbirths and early neonatal deaths, and the perinatal mortality rate for the five-year period preceding the survey, by background characteristics, Kenya 2014
+Background characteristic	Number of stillbirths1	Number of early neonatal deaths2	Perinatal mortality rate3	Number of pregnancies of 7+ months duration
+Mother’s age at birth
+<20	27	28	39	1,395
+20-29	58	60	22	5,431
+30-39	37	52	37	2,392
+40-49	4 6	36	266
+Previous pregnancy interval in months4
+First pregnancy	36	44	34	2,346
+<15	25	20	37	1,214
+15-26	15	25	21	1,891
+27-38	14	19	24	1,362
+39+ 36	39	28	2,671
+Residence
+Urban	48	52	29	3,436
+Rural	78	94	28	6,048
+Region
+Coast	22	16	39	974
+North Eastern	3	2 16	310
+Eastern	27	24	44	1,173
+Central	15	14	34	852
+Rift Valley	22	36	22	2,711
+Western	18	12	26	1,145
+Nyanza	13	24	28	1,332
+Nairobi	5	19	25	987
+Mother’s education
+No education	15	18	29	1,126
+Primary incomplete	35	40	27	2,816
+Primary complete	42	41	33	2,513
+Secondary+	34	47	27	3,029
+Wealth quintile
+Lowest	24	35	27	2,216
+Second	33	33	34	1,923
+Middle	19	34	31	1,745
+Fourth	19	19	23	1,721
+Highest	30	25	29	1,879
+Total	126	146	29	9,484
+1 Stillbirths are foetal deaths in pregnancies lasting seven or more months.
+2 Early neonatal deaths are deaths at age 0-6 days among live-born children.
+3 The sum of the number of stillbirths and early neonatal deaths divided by the number of pregnancies of seven or more months’ duration, expressed per 1,000
+4 Categories correspond to birth intervals of <24 months, 24-35 months, 36-47 months, and 48+ months.

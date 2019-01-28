@@ -1,0 +1,36 @@
+Table 4.2.1 Number of women’s co-wives
+Percent distribution of currently married women age 15-49 by number of co-wives, according to background characteristics, Kenya 2014
+Background characteristic	Number of co-wives					Total	Number of women
+	0	1	2+	Don’t know	Missing 
+Age
+15-19	95.7	2.9	0.3	1.1	0.0	100.0	301
+20-24	91.9	5.6	0.5	1.6	0.4	100.0	1,465
+25-29	89.5	7.7	1.0	1.8	0.1	100.0	2,171
+30-34	86.6	9.1	2.0	2.4	0.0	100.0	1,717
+35-39	82.2	12.6	2.7	2.5	0.1	100.0	1,365
+40-44	77.9	14.3	4.6	3.0	0.2	100.0	923
+45-49	78.4	13.4	4.1	4.0	0.1	100.0	768
+Residence
+Urban	90.3	6.4	0.7	2.3	0.2	100.0	3,445
+Rural	83.5	11.4	2.9	2.2	0.1	100.0	5,265
+Region
+Coast	84.0	11.6	2.0	2.1	0.3	100.0	850
+North Eastern	67.8	27.5	4.5	0.0	0.2	100.0	209
+Eastern	92.3	5.1	0.7	1.9	0.1	100.0	1,268
+Central	91.4	3.9	0.0	4.7	0.0	100.0	1,113
+Rift Valley	84.5	10.7	2.5	2.3	0.0	100.0	2,171
+Western	81.8	11.4	4.0	2.7	0.2	100.0	929
+Nyanza	79.5	14.9	3.7	1.9	0.0	100.0	1,203
+Nairobi	94.5	4.1	0.4	0.5	0.5	100.0	968
+Education
+No education	66.8	25.0	6.8	1.3	0.0	100.0	795
+Primary incomplete	82.3	12.4	2.8	2.3	0.1	100.0	2,274
+Primary complete	88.9	7.1	1.5	2.3	0.2	100.0	2,465
+Secondary+	91.7	5.1	0.6	2.5	0.1	100.0	3,177
+Wealth quintile
+Lowest	74.6	18.9	4.9	1.7	0.1	100.0	1,457
+Second	85.4	10.1	2.1	2.3	0.1	100.0	1,567
+Middle	87.9	6.9	2.5	2.4	0.3	100.0	1,663
+Fourth	87.5	9.0	1.3	2.2	0.1	100.0	1,885
+Highest	92.3	4.8	0.2	2.6	0.1	100.0	2,138
+Total	86.2	9.4	2.0	2.3	0.1	100.0	8,710

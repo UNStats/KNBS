@@ -1,0 +1,27 @@
+Table 7.8 Informed choice
+Among current users of modern methods age 15-49 who started the last episode of use within the five years preceding the survey, the percentage who were informed about possible side effects or problems of that method, the percentage who were informed about what to do if they experienced side effects, and the percentage who were informed about other methods they could use, by method and initial source, Kenya 2014
+Method/source	Among women who started last episode of modern contraceptive method within five years preceding the survey:
+	Percentage who were informed about side effects or problems of method used	Percentage who were informed about what to do if side effects experienced	Percentage who were informed by a health or family planning worker of other methods that could be used	Number of women
+Method
+Female sterilisation	51.2	44.1	77.4	142
+Pill	50.8	42.6	77.4	661
+IUD	81.4	74.9	88.8	246
+Injectables	55.0	46.8	75.1	2,260
+Implants	71.6	64.3	85.8	1,012
+Initial source of method1
+Public sector	62.9	56.0	81.2	2,800
+Government hospital	67.2	59.6	83.1	944
+Government health centre	61.8	56.6	82.3	759
+Government dispensary	60.0	52.6	78.8	1,097
+Private medical sector	54.9	45.3	75.4	1,407
+Private hospital/clinic	58.8	49.3	79.9	918
+Pharmacy/chemist	41.3	32.2	63.6	377
+Nursing/maternity home	*	*	*	16
+Faith-based church, mission hospital/clinic	68.3	51.3	72.1	85
+Family options/FHOK clinic	*	*	*	10
+Other private	*	*	*	1
+Other source	52.4	39.2	85.4	73
+Total	59.6	51.8	78.8	4,322
+Note: Table includes users of only the methods listed individually. Total includes 39 cases for whom information about informed choice is missing. An asterisk denotes a figure based on fewer than 25 unweighted cases that has been suppressed.
+FHOK = Family Health Organisation of Kenya
+1 Source at start of current episode of use

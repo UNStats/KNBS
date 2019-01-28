@@ -1,0 +1,29 @@
+Table 8.3 Early childhood mortality rates by demographic characteristics
+Neonatal, postneonatal, infant, child, and under-5 mortality rates for the 10-year period preceding the survey, by demographic characteristics, Kenya 2014
+Demographic characteristic	Neonatal mortality (NN)	Postneonatal mortality (PNN)1	Infant mortality (1q0)	Child mortality (4q1)	Under-5 mortality (5q0)
+Child’s sex
+Male	25	19	44	16	60
+Female	21	17	37	16	52
+Mother’s age at birth
+<20	27	19	45	20	65
+20-29	21	17	38	15	52
+30-39	25	18	43	14	57
+40-49	28	20	48 (15) (62)
+Birth order
+1	28	15	43	15	57
+2-3	20	17	36	14	49
+4-6	21	21	42	20	62
+7+ 28	20	48	18	65
+Previous birth interval2
+<2 years	31	29	60	25	83
+2 years	17	19	36	17	53
+3 years	14	14	29	14	42
+4+ years	22	13	36	9 44
+Birth size3
+Small/very small	41	15	57 na na
+Average or larger	17	17	35 na na
+Note: Figures in parentheses are based on 250-499 unweighted exposed persons.
+na = Not applicable
+1 Computed as the difference between the infant and neonatal mortality rates
+2 Excludes first-order births
+3 Rates for the five-year period before the survey

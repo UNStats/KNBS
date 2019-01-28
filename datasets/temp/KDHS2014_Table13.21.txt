@@ -1,0 +1,24 @@
+Table 13.21 Age-mixing in sexual relationships among women and men age 15-19
+Among women and men age 15-19 who had sexual intercourse in the past 12 months, percentage who had sexual intercourse with a partner who was 10 or more years older than themselves, by background characteristics, Kenya 2014
+Background characteristic	Women age 15-19 who had sexual intercourse in the past 12 months		Men age 15-19 who had sexual intercourse in the past 12 months
+	Percentage who had sexual intercourse with a man 10+ years older	Number of women	Percentage who had sexual intercourse with a woman 10+ years older	Number of men
+Age
+15-17	13.7	252	0.0	251
+18-19	13.4	472	0.7	393
+Marital status
+Never married 3.1	407	0.5	626
+Ever married 26.8	317	*	19
+Knows condom source 1/
+Yes 12.2	572	0.5	600
+No 18.5	152	'(0.0)	45
+Residence
+Urban 17.7	270	1.5	193
+Rural 11.0	454	0.0	452
+Education
+No education 41.5	24	*	7
+Primary incomplete 17.5	197	0.0	249
+Primary complete 10.0	155	0.0	99
+Secondary+	10.8	348	1.0	290
+Total 13.5	724	0.5	644
+Note: Figures in parentheses are based on 25-49 unweighted cases. An asterisk denotes a figure based on fewer than 25 unweighted cases that has been suppressed.
+1/ For this table, the following responses are not considered a source for condoms: friends, family members and home.

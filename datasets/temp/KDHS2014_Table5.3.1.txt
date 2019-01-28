@@ -1,0 +1,13 @@
+Table 5.3.1 Trends in age-specific fertility rates
+Age-specific fertility rates for five-year periods preceding the survey, by mother’s age at the time of the birth, Kenya 2014
+Mother’s age at birth
+Number of years preceding survey
+	0-4	5-9	10-14	15-19
+15-19	101	120	132	120
+20-24	206	228	247	253
+25-29	193	216	238	243
+30-34	154	192	198 [214]
+35-39	106	127	[160]
+40-44	40	[76]
+45-49	[10]
+Note: Age-specific fertility rates are per 1,000 women. Estimates in brackets are truncated. Rates exclude the month of interview.

@@ -1,0 +1,39 @@
+Table 4.2.2 Number of men’s wives
+Percent distribution of currently married men age 15-49 by number of wives, according to background characteristics, Kenya 2014
+Background characteristic	Number of wives		Total	Number of men
+	1	2+
+Age
+15-19	*	*	100.0	16
+20-24	98.7	1.3	100.0	377
+25-29	97.8	2.2	100.0	1,201
+30-34	96.3	3.7	100.0	1,398
+35-39	92.9	7.1	100.0	1,277
+40-44	92.7	7.3	100.0	1,100
+45-49	89.1	10.9	100.0	727
+Residence
+Urban	95.6	4.4	100.0	2,894
+Rural	93.6	6.4	100.0	3,201
+Region
+Coast	91.9	8.1	100.0	617
+North Eastern	81.9	18.1	100.0	103
+Eastern	97.0	3.0	100.0	835
+Central	97.6	2.4	100.0	773
+Rift Valley	94.5	5.5	100.0	1,523
+Western	94.1	5.9	100.0	561
+Nyanza	88.2	11.8	100.0	767
+Nairobi	98.5	1.5	100.0	916
+Education
+No education	83.6	16.4	100.0	234
+Primary incomplete	93.7	6.3	100.0	1,370
+Primary complete	94.4	5.6	100.0	1,677
+Secondary+	96.0	4.0	100.0	2,814
+Wealth quintile
+Lowest	88.9	11.1	100.0	813
+Second	93.7	6.3	100.0	1,036
+Middle	95.5	4.5	100.0	1,110
+Fourth	95.4	4.6	100.0	1,481
+Highest	96.5	3.5	100.0	1,655
+Total	15-49	94.5	5.5	100.0	6,095
+50-54	89.0	11.0	100.0	667
+Total	15-54	94.0	6.0	100.0	6,762
+Note: An asterisk denotes a figure based on fewer than 25 unweighted cases that has been suppressed.

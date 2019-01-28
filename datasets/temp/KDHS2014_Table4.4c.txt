@@ -1,0 +1,59 @@
+Table 4.4C Median age at first marriage by county
+Median age at first marriage among women age 25-49, and median age at first marriage among men age 30-54, according to county, Kenya 2014
+County	Women age 25-49	Men age 30-54
+Coast	19.7	26.4
+Mombasa	21.5	27.7
+Kwale	19.1	25.3
+Kilifi	18.9	24.8
+Tana River	17.3	24.5
+Lamu	19.4	25.1
+Taita Taveta	21.4	26.7
+North Eastern	18.6	24.9
+Garissa	18.7	24.8
+Wajir	18.1	24.0
+Mandera	19.0	26.6
+Eastern	20.5	25.5
+Marsabit	18.3	27.6
+Isiolo	18.5	25.3
+Meru	20.3	25.4
+Tharaka-Nithi	21.0	25.1
+Embu	21.6	26.5
+Kitui	19.8	24.3
+Machakos	21.0	26.4
+Makueni	20.4	24.5
+Central	21.4	26.0
+Nyandarua	20.7	25.6
+Nyeri	21.8	25.3
+Kirinyaga	21.1	25.3
+Murang’a	21.3	26.6
+Kiambu	21.6	26.3
+Rift Valley	20.0	25.3
+Turkana	18.9	24.2
+West Pokot	19.0	24.5
+Samburu	18.4	26.2
+Trans-Nzoia	19.6	24.6
+Uasin Gishu	20.9	25.9
+Elgeyo Marakwet	20.5	24.2
+Nandi	20.7	25.4
+Baringo	20.7	26.1
+Laikipia	20.6	26.0
+Nakuru	20.6	25.6
+Narok	18.6	24.9
+Kajiado	21.3	26.7
+Kericho	19.5	25.0
+Bomet	18.9	24.8
+Western	19.2	24.1
+Kakamega	19.2	24.7
+Vihiga	20.6	24.6
+Bungoma	19.2	23.9
+Busia	18.4	22.3
+Nyanza	18.6	23.8
+Siaya	19.1	24.3
+Kisumu	19.1	24.5
+Homa Bay	17.5	23.8
+Migori	17.1	22.2
+Kisii	19.3	23.4
+Nyamira	19.7	24.5
+Nairobi	22.1	26.1
+Total	20.2	25.3
+Note: The age at first marriage is defined as the age at which the respondent began living with her/his first spouse/partner.

@@ -1,0 +1,51 @@
+Table 4.7.1 Recent sexual activity: Women
+Percent distribution of women age 15-49 by timing of last sexual intercourse, according to background characteristics, Kenya 2014
+Age	Timing of last sexual intercourse			Never had sexual intercourse	Total	Number of women
+	Background characteristic	Within the past 4 weeks	Within 1 year1
+One or more years
+15-19	11.4	15.3	9.6	63.7	100.0	2,717
+20-24	49.2	28.0	12.3	10.5	100.0	2,691
+25-29	63.0	25.9	9.0	1.9	100.0	2,932
+30-34	69.0	22.3	7.8	0.8	100.0	2,162
+35-39	64.9	20.3	14.2	0.6	100.0	1,780
+40-44	60.3	20.0	19.1	0.4	100.0	1,292
+45-49	57.1	17.4	25.0	0.4	100.0	1,052
+Marital status
+Never married	6.8	24.7	18.8	49.5	100.0	4,255
+Married or living together	79.5	18.1	2.3	0.0	100.0	8,710
+Divorced/separated/widowed	17.3	35.3	47.3	0.0	100.0	1,660
+Marital duration2
+0-4 years	79.7	18.9	1.3	0.0	100.0	1,992
+5-9 years	80.5	18.3	1.1	0.0	100.0	1,747
+10-14 years	79.5	18.6	1.8	0.0	100.0	1,593
+15-19 years	81.9	15.1	2.8	0.0	100.0	1,260
+20-24 years	76.0	20.1	3.9	0.0	100.0	807
+25+ years	72.6	20.3	6.9	0.0	100.0	700
+Married more than once	83.7	14.1	2.2	0.0	100.0	612
+Residence
+Urban	53.9	22.4	11.8	11.7	100.0	5,929
+Rural	49.5	21.6	12.5	16.3	100.0	8,696
+Region
+Coast	52.5	21.1	10.3	16.1	100.0	1,421
+North Eastern	48.7	19.0	9.0	22.4	100.0	299
+Eastern	52.8	20.3	10.2	16.7	100.0	2,066
+Central	54.8	18.3	13.0	13.8	100.0	1,905
+Rift Valley	49.2	23.4	14.1	13.2	100.0	3,714
+Western	46.5	23.1	11.8	18.6	100.0	1,571
+Nyanza	50.6	23.2	12.9	13.2	100.0	1,908
+Nairobi	55.0	23.7	11.5	9.4	100.0	1,742
+Education
+No education	55.0	25.4	14.8	4.3	100.0	1,015
+Primary incomplete	51.2	19.6	11.3	17.8	100.0	3,793
+Primary complete	59.6	21.5	12.4	6.5	100.0	3,543
+Secondary+	46.1	23.1	12.3	18.4	100.0	6,274
+Wealth quintile
+Lowest	48.0	24.6	13.7	13.4	100.0	2,236
+Second	50.7	20.4	12.5	16.3	100.0	2,590
+Middle	49.3	22.3	12.2	16.2	100.0	2,859
+Fourth	53.9	21.5	11.6	13.1	100.0	3,113
+Highest	53.0	21.7	11.6	13.5	100.0	3,827
+Total	51.3	22.0	12.2	14.4	100.0	14,625
+Note: Totals may not add up to 100 percent because women with missing information are not shown separately.
+1 Excludes women who had sexual intercourse within the last 4 weeks
+2 Excludes women who are not currently married
